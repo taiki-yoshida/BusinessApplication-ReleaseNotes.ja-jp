@@ -22,8 +22,6 @@ ms.lasthandoff: 07/18/2018
 
 [!include[banner](../../includes/banner.md)]
 
-[!include[banner](Includes/disclaimer.md)]
-
 2018 年 10 月のリリースでは、Microsoft Dynamics 365 Business Central のデスクトップ エクスペリエンスが更新されています。 リストの作業およびページとレポートの検索に関する強力な新機能により、Business Central の生産性が向上しています。
 
 ## <a name="refreshed-desktop-experience"></a>一新されたデスクトップ エクスペリエンス
