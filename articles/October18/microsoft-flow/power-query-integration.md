@@ -3,7 +3,8 @@ title: "Power Query 統合"
 description: "メーカーが SQL Server からデータ マッシュアップを形成できるようにする Power Query エクスペリエンスが構築されています。"
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 497e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: keweare
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7c6cec6575a7ea9e0870d58a20de0a0cf368376a
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: 2a2cfd69cd9d396bff62682216f9a6a6ea8df283
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-query-integration"></a><span data-ttu-id="b6b48-103">Power Query 統合</span><span class="sxs-lookup"><span data-stu-id="b6b48-103">Power Query integration</span></span>

@@ -3,7 +3,8 @@ title: "統合エクスペリエンス"
 description: "Office 365 および Dynamics 365 との連携が向上し、SharePoint、チーム、Excel などに統合エクスペリエンスが提供されます。"
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 5e67a6cc-3773-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: mhade
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ec1b6e420f6edd42f271dc545b8880539822982d
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: bc0935ee65d2cdc81b5637dc69695997d3359d3b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="integrated-experiences"></a><span data-ttu-id="6cb26-103">統合エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="6cb26-103">Integrated experiences</span></span>

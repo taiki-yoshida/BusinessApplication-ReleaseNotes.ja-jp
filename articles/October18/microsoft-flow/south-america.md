@@ -3,7 +3,8 @@ title: "南米"
 description: "Microsoft Flow では、ブラジルに展開した環境について、Dynamics 365 のすべての地域と完全に同等に機能が提供されるようになります。"
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 437e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: stepsic
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 90107e9dc928f31dde91ac957c077181abff4280
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: f3641ebad6b3e7d19a090cf78617b9d6c7aa53c6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="south-america"></a><span data-ttu-id="b5b06-103">南米</span><span class="sxs-lookup"><span data-stu-id="b5b06-103">South America</span></span>

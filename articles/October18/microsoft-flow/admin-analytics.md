@@ -3,7 +3,8 @@ title: "管理分析"
 description: "ビジネス アプリケーション プラットフォーム管理センターに追加された環境全体およびテナント全体の分析。"
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 557e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -11,10 +12,10 @@ ms.technology:
 ms.author: keweare
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e9c8356d51fd660c669472542402102b2278a484
+ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
+ms.openlocfilehash: cf04fd10b6a1a0a12e65b84df189f164ddb37539
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="admin-analytics"></a><span data-ttu-id="f93ae-103">管理分析</span><span class="sxs-lookup"><span data-stu-id="f93ae-103">Admin analytics</span></span>
