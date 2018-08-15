@@ -5,7 +5,7 @@ keywords:
 ms.date: 07/22/2018
 ms.service:
 - business-applications
-ms.topic: article
+ms.topic: summary
 ms.assetid: e1df5b00-c3f0-d808-3804-3c4f758b8406
 author: MargoC
 ms.author: margoc
