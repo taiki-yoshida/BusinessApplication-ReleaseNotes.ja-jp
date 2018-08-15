@@ -5,14 +5,14 @@ keywords:
 ms.date: 07/22/2018
 ms.service:
 - business-applications
-ms.topic: article
+ms.topic: summary
 ms.assetid: e1df5b00-c3f0-d808-3804-3c4f758b8406
 author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: 377c1aecf363fd79dc8fefb4d3425d46042da644
+ms.sourcegitcommit: 44e4c7e4f95b2418f178424eb9cf8a24fd6fdd1f
+ms.openlocfilehash: f639564339b88c6f53562748257f2a276de28944
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
