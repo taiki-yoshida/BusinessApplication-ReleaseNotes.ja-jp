@@ -11,15 +11,17 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a870e8f0d03f19cfd9ba3d93a7bcfce85524d332
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3ad9af8d11d2ebf408a73a25ccee959befa61142
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="update-an-existing-power-bi-app-in-appsource"></a><span data-ttu-id="4898c-103">AppSource で既存の Power BI アプリを更新する</span><span class="sxs-lookup"><span data-stu-id="4898c-103">Update an existing Power BI app in AppSource</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="4898c-104">アプリケーション ライフサイクル管理 (ALM) については、次の機能が提供されます。</span><span class="sxs-lookup"><span data-stu-id="4898c-104">The application lifecycle management (ALM) story includes the following capabilities:</span></span>
 

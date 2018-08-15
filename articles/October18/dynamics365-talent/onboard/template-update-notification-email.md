@@ -11,17 +11,19 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5d437ec2f96851bccc4d31984eb8aa148617de1a
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 31e56e26c0a262db76898bbf74517195cefad115
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="template-update-notification-email"></a><span data-ttu-id="35a37-103">テンプレート更新通知電子メール</span><span class="sxs-lookup"><span data-stu-id="35a37-103">Template update notification email</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 <span data-ttu-id="35a37-104">ガイド作成者は、使用しているテンプレートが更新された際に、その通知を電子メールで自動的に受信できます。</span><span class="sxs-lookup"><span data-stu-id="35a37-104">Guide creators will be automatically notified via email when a template they are using has been updated.</span></span> <span data-ttu-id="35a37-105">受信者には、テンプレートの変更点を説明したダイジェスト電子メールが送られます。</span><span class="sxs-lookup"><span data-stu-id="35a37-105">Recipients will receive a digest email detailing what has changed in the template.</span></span> 
 

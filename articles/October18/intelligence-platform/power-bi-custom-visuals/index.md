@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 09eec76a1bbaa99fe34019de06affc542dc8f69c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 46b050bc9c158f5d740f37581b99f31e30be0dd9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="power-bi-custom-visuals"></a><span data-ttu-id="177fa-103">Power BI カスタム ビジュアル</span><span class="sxs-lookup"><span data-stu-id="177fa-103">Power BI custom visuals</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="177fa-104">Power BI のビジュアルを使用すると、他のネイティブ Power BI ビジュアルと同様に使用できる、独自のビジュアルを開発できます。</span><span class="sxs-lookup"><span data-stu-id="177fa-104">Power BI visuals enable development of unique visuals that can be used like any other native Power BI visual.</span></span>
 

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bd22cea689e5b82fb462a7b8c50c41ca0ee139d2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4a72e7ddd63f7bf926e3788a5d5cc3ce7264db44
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="commenting"></a><span data-ttu-id="da7d1-103">コメント</span><span class="sxs-lookup"><span data-stu-id="da7d1-103">Commenting</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="da7d1-104">コンテキストを提供し、質問を行うための、レポートおよびダッシュボードでのコメント。</span><span class="sxs-lookup"><span data-stu-id="da7d1-104">Comment on reports and dashboards to provide context and ask questions.</span></span> <span data-ttu-id="da7d1-105">@mentions を使って、他のユーザーを会話に参加させることができます。</span><span class="sxs-lookup"><span data-stu-id="da7d1-105">With @mentions, you can engage others in the conversation.</span></span> <span data-ttu-id="da7d1-106">プッシュ通知と電子メールにより、自分について言及されている、または自分のコメントに関係する最新の返信を常に見ることができます。</span><span class="sxs-lookup"><span data-stu-id="da7d1-106">Push notifications and emails can keep up to date with the latest replies that mention you or that pertain to your own comments.</span></span>
 

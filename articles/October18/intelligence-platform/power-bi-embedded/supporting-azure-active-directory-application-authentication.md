@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3c644df8af2bbc07c910cc7dd6581d55fc95686e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2b943287338a404af8d80e3a0babc5551b77becc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a><span data-ttu-id="28117-103">Azure Active Directory アプリケーション認証 (パブリック プレビュー) </span><span class="sxs-lookup"><span data-stu-id="28117-103">Azure Active Directory application authentication (Public Preview)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="28117-104">Power BI Embedded にアプリケーション認証が追加されます。</span><span class="sxs-lookup"><span data-stu-id="28117-104">We are adding application authentication to Power BI Embedded.</span></span> <span data-ttu-id="28117-105">これにより、Power BI Embedded アプリケーションの展開、セキュリティ、およびアプリケーション ライフサイクル管理が強化されます。</span><span class="sxs-lookup"><span data-stu-id="28117-105">This will enhance the deployment, security, and application lifecycle management Power BI Embedded applications.</span></span> <span data-ttu-id="28117-106">現在、Power BI Embedded アプリケーションを作成するには、マスター ユーザー アカウントを作成し、そのアカウントの資格情報を保存した後、それらをアプリケーション コード内で使用して、Power BI への非対話型サインインを実行できるようにする必要があります。</span><span class="sxs-lookup"><span data-stu-id="28117-106">Currently, building a Power BI Embedded application requires the creation of a master user account, storing the credentials for that account, and then using them in the application code for performing non-interactive sign-in to Power BI.</span></span> <span data-ttu-id="28117-107">Azure Active Directory では、ユーザー コンテキストを使用せず、アプリケーション自身の ID を使用するアプリケーション認証が特別にサポートされています。</span><span class="sxs-lookup"><span data-stu-id="28117-107">Azure Active Directory has special support for applications authenticating using their own identity without a user context.</span></span> <span data-ttu-id="28117-108">アプリケーションのみの認証に対応して設計されたこのサポートは、制御性とセキュリティに優れ、制限事項も少ないため、推奨のアプローチとなっています。</span><span class="sxs-lookup"><span data-stu-id="28117-108">This support, designed for app-only authentication, allows higher control and security, has fewer limitations, and is the recommended approach.</span></span> 
 

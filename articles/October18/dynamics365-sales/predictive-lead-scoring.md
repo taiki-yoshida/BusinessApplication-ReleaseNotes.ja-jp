@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 39fa72a2fae33ed869730d1f03861a8a436d0890
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 5ad0af6540adc880e8ba75cf012b7ba27fc4ed5f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="increase-sales-conversions-with-predictive-lead-scoring"></a><span data-ttu-id="52c42-103">予測リード スコアリングで販売への転換を増やす</span><span class="sxs-lookup"><span data-stu-id="52c42-103">Increase sales conversions with Predictive Lead Scoring</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="52c42-104">Dynamics 365 予測リード スコアリングは、営業案件になる可能性に基づいてリードを 1 から 100 のスケールでスコアリングする、機械学習モデル ベースの予測スコアリング メカニズムです。</span><span class="sxs-lookup"><span data-stu-id="52c42-104">Dynamics 365 Predictive Lead Scoring is a machine learning model-based predictive scoring mechanism that scores leads on a scale of 1 to 100 based on their likelihood to become an opportunity.</span></span> 

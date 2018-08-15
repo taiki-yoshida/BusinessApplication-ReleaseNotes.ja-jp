@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3b01ce72e354533570465a5953bf12d1412327f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1a28b60ca0960084042d198483f7b2789415593d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="richer-and-more-unified-connector-and-developer-ecosystem"></a><span data-ttu-id="50e6e-103">強化され、より統合されたコネクターと開発者エコシステム</span><span class="sxs-lookup"><span data-stu-id="50e6e-103">Richer and more unified connector and developer ecosystem</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="50e6e-104">データ統合とそれがサポートする製品スイートの重要な要素の一つに、外部データ ソースに対する接続性があります。</span><span class="sxs-lookup"><span data-stu-id="50e6e-104">A critical part of Data Integration and the suite of products it supports is connectivity to external data sources.</span></span> <span data-ttu-id="50e6e-105">Microsoft では、エンタープライズ レベルのデータ ソースのセットに引き続き投資していますが、多くのユーザーがそのセット以外にも依存するようになっているデータベースやサービスが増えています。</span><span class="sxs-lookup"><span data-stu-id="50e6e-105">While we continue to invest in a set of enterprise grade data sources, there are a growing number of databases and services many users come to depend on outside of that set.</span></span> <span data-ttu-id="50e6e-106">必要なデータにユーザーが接続できるよう、プラットフォーム全体の拡張性ポイントに引き続き投資しています。</span><span class="sxs-lookup"><span data-stu-id="50e6e-106">To ensure our users can connect to the data they need, we continue to invest in our extensibility points throughout the platform.</span></span>
 

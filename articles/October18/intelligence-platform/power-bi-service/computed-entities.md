@@ -12,15 +12,17 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 4c21f69a2dccb270f1c59693dfe418be87ab9f1e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1cf4c587631512b432a437794c2825f40863f43f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="computed-entities-public-preview"></a><span data-ttu-id="c6e3e-103">計算されたエンティティ (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="c6e3e-103">Computed entities (Public Preview)</span></span>  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="c6e3e-104">データフロー エンティティは、Azure Data Lake Storage Gen2 内の Common Data Model に準拠したフォルダー (CDM フォルダー) に格納されます。</span><span class="sxs-lookup"><span data-stu-id="c6e3e-104">Dataflow entities are stored in Common Data Model compliant folders (CDM folders), in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="c6e3e-105">エンティティが CDM フォルダーに読み込まれた後、エンティティを変換、変更、補強し、大規模なデータを集約することで、新しい分析情報を生成できます。</span><span class="sxs-lookup"><span data-stu-id="c6e3e-105">After your entities have been loaded to CDM folders, you can generate new insights by transforming, modifying, and enriching entities, and aggregating large-scale data.</span></span> <span data-ttu-id="c6e3e-106">これらの新しく作成されたエンティティは、CDM フォルダーにも格納されます。</span><span class="sxs-lookup"><span data-stu-id="c6e3e-106">These newly created entities are also stored in CDM folders.</span></span> <span data-ttu-id="c6e3e-107">Power Query の M 式のスタティック分析により、エンティティ間の依存関係が自動的に識別され、常に最適な順序でエンティティが更新されるので、手動オーケストレーションの必要はありません。</span><span class="sxs-lookup"><span data-stu-id="c6e3e-107">Static analysis of Power Query M expressions makes it possible to identify dependencies between entities automatically, so they’ll always be updated in the optimal order, with no need for manual orchestration.</span></span> 
 

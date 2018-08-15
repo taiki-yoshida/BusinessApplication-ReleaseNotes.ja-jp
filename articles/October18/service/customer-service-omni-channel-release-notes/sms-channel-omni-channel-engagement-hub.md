@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6658e894834e883304649af5f15e97ed94150ea8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ae0a7c4797d2707917bba75fc5870d6f1682c415
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="sms-channel"></a><span data-ttu-id="f4da2-103">SMS チャネル</span><span class="sxs-lookup"><span data-stu-id="f4da2-103">SMS channel</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 <span data-ttu-id="f4da2-104">SMS チャネルは、組織がタイムリーかつ便利な方法で顧客と接触し、対話するための優れたメカニズムです。</span><span class="sxs-lookup"><span data-stu-id="f4da2-104">SMS channel is a powerful mechanism for organizations to reach and interact with their customers in a timely and convenient manner.</span></span>
 

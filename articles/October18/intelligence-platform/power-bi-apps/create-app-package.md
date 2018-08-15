@@ -11,15 +11,17 @@ ms.technology:
 ms.author: avive
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c6b52f3db61aa217e8673644519d2070069e1794
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 7fc5393619c9ea8feb0bdf2cadde3f53caa8d902
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="create-a-power-bi-app-package"></a><span data-ttu-id="04536-103">Power BI アプリ パッケージの作成</span><span class="sxs-lookup"><span data-stu-id="04536-103">Create a Power BI app package</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="04536-104">Power BI プロ ユーザーは次のことができます。</span><span class="sxs-lookup"><span data-stu-id="04536-104">As a Power BI Pro user, you can:</span></span>
 

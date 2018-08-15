@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c876db3795f892f1b8e030673c86f54850813b9e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 05ed7a345c373799cd73fff3843f763a1fd3bdf9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a><span data-ttu-id="9bc25-103">Dynamics 365 for Customer Service 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="9bc25-103">Overview of Dynamics 365 for Customer Service October '18 release</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 <span data-ttu-id="9bc25-104">Dynamics 365 for Customer Service では、組織がユーザーに対して効率的で効果的な顧客サービスを提供できるようにするための機能を継続的に提供しています。</span><span class="sxs-lookup"><span data-stu-id="9bc25-104">Dynamics 365 for Customer Service continues to deliver capabilities that empower organizations to deliver efficient and effective customer service to their users.</span></span> <span data-ttu-id="9bc25-105">最新リリースでは、新しいエクスペリエンスによってユーザーの生産性を強化し、顧客サービス組織にアクション可能なインテリジェンスを提供して、運営効率を高められるように改良が加えられています。</span><span class="sxs-lookup"><span data-stu-id="9bc25-105">With the latest release, we have focused on enabling user productivity through new experiences, bringing actionable intelligence within customer service operations, and enhancing operational efficiency.</span></span>

@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a40e2adff4c8ca26094dddb8bcc9bd6f8fadaacb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3991215e52ecc9eb1cf741e880bc0c04bfec71e8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a><span data-ttu-id="04c91-103">コストのロール価格明細のリソース単位通貨</span><span class="sxs-lookup"><span data-stu-id="04c91-103">Resourcing unit currency on role price lines for cost</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="04c91-104">Project Service では、価格表ヘッダーで指定された、価格表あたり 1 つの通貨のみ許可されます。</span><span class="sxs-lookup"><span data-stu-id="04c91-104">Project Service allows only one currency per price list, which is specified on the price list header.</span></span> <span data-ttu-id="04c91-105">リソース価格の価格表明細に、価格表ヘッダーで指定されているものと同じ通貨があります。</span><span class="sxs-lookup"><span data-stu-id="04c91-105">The price list line for resource pricing has the same currency specified on the price list header.</span></span> <span data-ttu-id="04c91-106">ただし、国をまたがるすべての事業部に対して一元化された価格を持つ、グローバルに活動しているプロジェクト サービス企業の場合、販売またはコストが発生する通貨ごとに価格表を設定する必要があるデータ中心のセットアップが必要な場合があります。</span><span class="sxs-lookup"><span data-stu-id="04c91-106">However, for globally operating project service companies that have centralized pricing across all of their divisions across countries, this can necessitate a data-intensive setup where they'll need to set up a price list for each distinct currency that they sell or incur costs in.</span></span> 
 

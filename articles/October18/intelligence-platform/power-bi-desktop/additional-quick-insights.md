@@ -11,16 +11,18 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4a3ee7a6fe65867612a13d76545882b418af3d1c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c5eed5c7bc8259954fc1403827d0df8a57a72b7c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="additional-quick-insights-public-preview"></a><span data-ttu-id="0fefa-104">追加のクイック分析情報 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="0fefa-104">Additional quick insights (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="0fefa-105">カテゴリごとの価値の分布 (たとえば、製品種類別の売上) を示すビジュアルを表示しているとき、ユーザーはその分布に影響を与えている他の要因を表示するよう Power BI に要求できます。</span><span class="sxs-lookup"><span data-stu-id="0fefa-105">When viewing a visual showing the distribution of a value across a category (for example, sales by product type), users can ask Power BI to show what other factors affect this distribution.</span></span> <span data-ttu-id="0fefa-106">これは指標に対する影響を特定するのに役立ち、手作業で要因ごとに分析して影響を実験および発見する必要はありません。</span><span class="sxs-lookup"><span data-stu-id="0fefa-106">This helps identify the impact on a metric without manually having to break down by each factor to experiment and find the impact.</span></span>
 

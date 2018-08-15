@@ -12,16 +12,18 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: e0253d623cf59054e51069ada55a05732e6b5c5f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 2ceb2263e9fb343cb8feb050198f8a16050c2e5f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="self-service-data-prep-with-dataflows"></a><span data-ttu-id="fad06-103">データフローでのセルフサービス データの準備</span><span class="sxs-lookup"><span data-stu-id="fad06-103">Self-service data prep with dataflows</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="fad06-104">Power BI では、異なるソースのデータを統合し、それらをモデリング用に準備する作業を支援するために、データフローが導入されました。</span><span class="sxs-lookup"><span data-stu-id="fad06-104">Power BI introduces dataflows to help organizations unify data from disparate sources and prepare it for modeling.</span></span> <span data-ttu-id="fad06-105">アナリストは、使い慣れたセルフサービス ツールを使用して、データフローを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="fad06-105">Analysts can easily create dataflows, using familiar, self-service tools.</span></span> <span data-ttu-id="fad06-106">データフローは、データ ソース接続、ETL ロジック、更新スケジュールなどを定義して、ビッグデータの取り込み、変換、統合、エンリッチを行うために使用されます。</span><span class="sxs-lookup"><span data-stu-id="fad06-106">Dataflows are used to ingest, transform, integrate, and enrich big data by defining data source connections, ETL logic, refresh schedules, and more.</span></span> <span data-ttu-id="fad06-107">データは、Azure Data Lake Storage Gen2 で、Common Data Model に準拠したフォルダー内のエンティティとして保存されます。</span><span class="sxs-lookup"><span data-stu-id="fad06-107">Data is stored as entities in Common Data Model compliant folders in Azure Data Lake Storage Gen2.</span></span> <span data-ttu-id="fad06-108">データフローは、Power BI サービスを使用して、アプリ ワークスペース内で作成および管理されます。</span><span class="sxs-lookup"><span data-stu-id="fad06-108">Dataflows are created and managed in app workspaces by using the Power BI service.</span></span>   
 

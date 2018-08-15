@@ -12,16 +12,18 @@ ms.technology:
 ms.author: tpalmer
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b1ea2a961aae470cf8bcfb239232a11f5d341350
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d784b097b8cef163a0fda64d678f79ec40182ac1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="easier-sharing-unification-and-enrichment-of-data-with-common-data-model-entities"></a><span data-ttu-id="ed201-103">Common Data Model エンティティを使用した、より簡単なデータの共有、統合、強化</span><span class="sxs-lookup"><span data-stu-id="ed201-103">Easier sharing, unification, and enrichment of data with Common Data Model entities</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ed201-104">標準エンティティのオープンソース **Common Data Model** の定義が強化されました。セールス、サービス、マーケティング、運営、財務、人材、およびコマースの各業務機能、また顧客のコア エンティティ プロファイル全体で、**ビジネス プロセス、アプリケーション、プロファイル エンリッチメントを統合**でき、観測的なデータ エンリッチメントと分析がサポートされます。</span><span class="sxs-lookup"><span data-stu-id="ed201-104">The open-source **Common Data Model** definition of standard entities has been enhanced for the **integration of business processes, applications, and profile enrichment** across sales, services, marketing, operations, finance, talent, and commerce business functions, as well as core entity profiles for customers to support observational data enrichment and analysis.</span></span>
 

@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 877d8d044a57d95cf8be26d3d9c883aca2dee3f5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 832f1714f8cce2602dd724f95337a0c7d4ad6a17
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="capacity-scheduling"></a><span data-ttu-id="90341-103">キャパシティのスケジューリング</span><span class="sxs-lookup"><span data-stu-id="90341-103">Capacity scheduling</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 

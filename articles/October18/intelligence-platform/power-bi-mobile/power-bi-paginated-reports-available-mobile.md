@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9bd788d29075738a862674910955e6c91254f184
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 7e182ca4a575ba8d49efb2c6592aa1d20b0e07dc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="paginated-reports-public-preview"></a><span data-ttu-id="36d38-103">ページ付けされたレポート (パブリック プレビュー) </span><span class="sxs-lookup"><span data-stu-id="36d38-103">Paginated reports (Public Preview)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="36d38-104">ページ付けされたレポートは、Power BI の最上位のアーティファクトになります 。</span><span class="sxs-lookup"><span data-stu-id="36d38-104">Paginated reports will become first-class artifacts in Power BI.</span></span> <span data-ttu-id="36d38-105">ユーザーは、ページ付けされたレポートを作成して Power BI サービスに公開できます。</span><span class="sxs-lookup"><span data-stu-id="36d38-105">Users will be able to author paginated reports and publish them to the Power BI service.</span></span> <span data-ttu-id="36d38-106">モバイル ユーザーは、Power BI で公開されているページ付けされたレポートを自分のアプリで表示できます。</span><span class="sxs-lookup"><span data-stu-id="36d38-106">Mobile users will be able to view paginated reports published in Power BI in their app.</span></span>
  

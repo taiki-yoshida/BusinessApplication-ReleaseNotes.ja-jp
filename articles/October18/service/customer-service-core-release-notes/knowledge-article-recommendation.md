@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 135cf698caec8418960d4ae5afa22de9909f8cee
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6f7b72cf23d0b92e284798ae046c7ee8d83e2541
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="knowledge-article-recommendation"></a><span data-ttu-id="e7072-103">ナレッジ記事のレコメンデーション</span><span class="sxs-lookup"><span data-stu-id="e7072-103">Knowledge article recommendation</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 <span data-ttu-id="e7072-104">どのような顧客サービス組織でも、ナレッジ マネージメントはカスタマー エクスペリエンスとエージェントの生産性の向上に重要です。</span><span class="sxs-lookup"><span data-stu-id="e7072-104">For any customer service organization, knowledge management is vital for improved customer experience and agent productivity.</span></span>  <span data-ttu-id="e7072-105">この機能は、[Microsoft Text Analytics API](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) を利用して、すべての関連エンティティのデータに基づくナレッジ記事のレコメンデーションを提供します。</span><span class="sxs-lookup"><span data-stu-id="e7072-105">This feature leverages [Microsoft Text Analytics APIs](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) to provide knowledge article recommendations based on all related entities’ data.</span></span> <span data-ttu-id="e7072-106">これにより、エージェントは関連する状況依存のナレッジ記事にすばやくアクセスできるので、サポート案件を迅速に解決できます。</span><span class="sxs-lookup"><span data-stu-id="e7072-106">This gives agents faster access to relevant and contextual knowledge articles, helping them resolve cases quickly.</span></span>
 

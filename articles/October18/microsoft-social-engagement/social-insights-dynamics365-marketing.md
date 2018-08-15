@@ -12,15 +12,17 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eb3cb51efe5ec369699a57fa60cd5b9739a1ef47
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 333c71bac97c40e9c383dd1cdbea9d41e6a15aa9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a><span data-ttu-id="ae297-103">Dynamics 365 for Marketing のソーシャル インサイト</span><span class="sxs-lookup"><span data-stu-id="ae297-103">Social Insights in Dynamics 365 for Marketing</span></span>
+
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
  
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="ae297-104">ソーシャル インサイトとは、Social Engagement からのデータを他 Dynamics 365 アプリで表示する、一連ウィジェットのことです。</span><span class="sxs-lookup"><span data-stu-id="ae297-104">Social Insights are a set of widgets that show data from Social Engagement in other Dynamics 365 apps.</span></span> <span data-ttu-id="ae297-105">2018 年 10 月リリースでは、ソーシャル インサイトで Dynamics 365 for Marketing のキャンペーンを追跡できるようになります。</span><span class="sxs-lookup"><span data-stu-id="ae297-105">In October '18, Social Insights will be available to track campaigns in Dynamics 365 for Marketing.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: mhade
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: bc0935ee65d2cdc81b5637dc69695997d3359d3b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 61372b6202b525e72b22e667d627ac4c11ed51c2
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="integrated-experiences"></a><span data-ttu-id="6cb26-103">統合エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="6cb26-103">Integrated experiences</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="6cb26-104">Microsoft Flow は他の Microsoft アプリケーションと緊密に統合されており、現在既に行われつつあるビジネス プロセスの変革が可能になります。</span><span class="sxs-lookup"><span data-stu-id="6cb26-104">Microsoft Flow has deep integration with other Microsoft applications, enabling the transformation of business processes where they are already happening today.</span></span>
 

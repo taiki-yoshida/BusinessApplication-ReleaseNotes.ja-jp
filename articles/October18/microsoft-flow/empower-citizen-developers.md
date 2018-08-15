@@ -12,16 +12,18 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: 8b485bb77e269fc2ac1c49898eb464b3cfc0f74e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 9147d7c31fb374c4e36d615493410cb3b4be36b9
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="empower-citizen-developers"></a><span data-ttu-id="35edf-103">一般開発者の支援</span><span class="sxs-lookup"><span data-stu-id="35edf-103">Empower citizen developers</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="35edf-104">フローが失敗するたびに、完了していない重要な業務プロセスが存在する可能性があります。</span><span class="sxs-lookup"><span data-stu-id="35edf-104">Every time a flow fails, there could be a critical business process that is not being completed.</span></span> <span data-ttu-id="35edf-105">そのため、Flow で最も厳しく複雑な顧客シナリオに対処できるよう、一般開発者がフローをより簡単かつ確実に作成して展開するのに役立つさまざまな機能が追加されています。</span><span class="sxs-lookup"><span data-stu-id="35edf-105">As a result, for Flow to address the most rigorous and complex customer scenarios, we are adding many different features that will help citizen developers to build and deploy flows more easily and reliably.</span></span> 
 

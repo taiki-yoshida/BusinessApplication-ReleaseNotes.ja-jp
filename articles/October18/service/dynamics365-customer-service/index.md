@@ -12,15 +12,15 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0f091b969e66062c6daf7b2378f999c5dcdcde9a
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: af866d826472edc08e4d8c4dec059eeb20ff901c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-the-service-october-18-release"></a><span data-ttu-id="78b59-103">サービス 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="78b59-103">Overview of the Service October '18 release</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 <span data-ttu-id="78b59-104">2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。</span><span class="sxs-lookup"><span data-stu-id="78b59-104">The October ’18 release introduces new investments in service areas, including Customer Service, Field Service, and the Dynamics 365 Portal.</span></span>
 

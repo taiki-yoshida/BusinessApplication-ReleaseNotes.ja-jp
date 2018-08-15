@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: dbec90b9631284e434a1c13a6b4b88f83b6f7163
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 469835da000a3541e50afc45718535f640c236ea
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a><span data-ttu-id="64729-103">データ統合プラットフォーム 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="64729-103">Overview of Data Integration Platform October '18 release</span></span>
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 <span data-ttu-id="64729-104">データ統合は、外部データを Common Data Service (CDS) に取り込み、そのデータを Common Data Model (CDM) フォームに保存することを可能にする、コネクターとゲートウェイを提供します。</span><span class="sxs-lookup"><span data-stu-id="64729-104">Data Integration provides the connectors and gateways that make it possible to bring any external data into the Common Data Service (CDS) and store the data in Common Data Model (CDM) form.</span></span> <span data-ttu-id="64729-105">これにより、顧客は簡単にデータを 1 か所に統合してビジネス アプリケーションや分析に利用できます。</span><span class="sxs-lookup"><span data-stu-id="64729-105">This makes it easier for customers to integrate their data in a single place for business applications and analytics.</span></span> <span data-ttu-id="64729-106">データ統合は Power Query に基づいています。Power Query は、数百万人が Power BI と Excel で毎日使っているのと同じテクノロジです。</span><span class="sxs-lookup"><span data-stu-id="64729-106">Data Integration is based on Power Query, the same technology that millions of people use daily in Power BI and Excel.</span></span>
 

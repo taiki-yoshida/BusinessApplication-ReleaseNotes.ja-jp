@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b253b929ac4843faba214776bdcf9193c0875cd7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: eaf160b3c1c910f7857142fc446fce542b039ef8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a><span data-ttu-id="eb3d7-103">Dynamics 365 for Project Service 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="eb3d7-103">Overview of Dynamics 365 for Project Service October '18 release</span></span>
+
+[!include[project-service banner](../../includes/project-service.md)]
 
 <span data-ttu-id="eb3d7-104">Project Service の 2018 年 10 月リリースでは、お客様主導の機能拡張に重点を置いたうえで、機能や使いやすさが、実用的かつ戦術的な観点から改善されています。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-104">The October '18 release of Project Service focuses on customer-driven enhancements, with practical and tactical functional and usability improvements.</span></span> <span data-ttu-id="eb3d7-105">機能拡張には次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="eb3d7-105">Among the enhancements:</span></span>
 

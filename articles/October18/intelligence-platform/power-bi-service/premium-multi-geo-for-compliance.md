@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 39f8459eadde28dcde96de46722afb4203e84356
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d1250bfae4a591680e3604140e88e1b98b287d30
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a><span data-ttu-id="cb187-102">コンプライアンス対応マルチ地域 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="cb187-102">Multi-Geo for Compliance (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="cb187-103">現在、Power BI は組織のデータを単一の地域に保存しています。</span><span class="sxs-lookup"><span data-stu-id="cb187-103">Power BI today stores data for an organization in a single geographic region.</span></span> <span data-ttu-id="cb187-104">多くのお客様 (特に多国籍のさまざまな子会社や部署) には、地元の法令や自身の顧客との契約条件を満たすために特定のデータ所在地要件があります。</span><span class="sxs-lookup"><span data-stu-id="cb187-104">For many customers, especially multinationals, different subsidiaries or departments have specific data residency requirements to meet local laws or contractual requirements with their own customers.</span></span>
 

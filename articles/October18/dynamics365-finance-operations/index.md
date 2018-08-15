@@ -11,15 +11,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin, end-user, developer
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 7841e50443ffac2e0a4a86a002ca1f2c922c9c63
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b057fa2886e102f5f19b49fc3ada39d3c658572b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a><span data-ttu-id="7675e-103">Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="7675e-103">Overview of Dynamics 365 for Finance and Operations October '18 release</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 <span data-ttu-id="7675e-104">このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。</span><span class="sxs-lookup"><span data-stu-id="7675e-104">This topic describes the theme areas for the October '18 release of Finance and Operations.</span></span> 
 

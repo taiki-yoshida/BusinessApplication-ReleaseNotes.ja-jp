@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: bfe4ab5339acfa70c55d7cf0d2357fc95c47c4de
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1871fe089159676038dd3ec7d667ab983c7aa3c4
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a><span data-ttu-id="a6458-103">オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続</span><span class="sxs-lookup"><span data-stu-id="a6458-103">Enterprise-grade hybrid connectivity using the on-premises data gateway</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a6458-104">このリリースには、オンプレミス データ ゲートウェイを向上するための複数の更新が含まれます。</span><span class="sxs-lookup"><span data-stu-id="a6458-104">This release includes multiple updates around improving the on-premises data gateway.</span></span>
 

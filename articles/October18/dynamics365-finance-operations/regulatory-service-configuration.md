@@ -11,16 +11,18 @@ ms.technology:
 ms.author: janeaug
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: e56816ca696ce846b0a629daf670c9b04b14ca70
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1603957267bec07c2323edf292da204bc2f31aea
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a><span data-ttu-id="3eaea-103">Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス</span><span class="sxs-lookup"><span data-stu-id="3eaea-103">Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service</span></span> 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3eaea-104">Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービスは、規制構成ツール (電子申告とも呼ぶ) が進化したものです。</span><span class="sxs-lookup"><span data-stu-id="3eaea-104">The Microsoft Dynamics 365 for Finance and Operations - Regulatory Services, Configuration service is the evolution of the regulatory configuration tool (also known as Electronic Reporting).</span></span> <span data-ttu-id="3eaea-105">構成サービスでは、複数のバージョンの Microsoft Dynamics 365 for Finance and Operations や、以前の Microsoft Dynamics AX バージョン (AX 2012 や AX 2009 (インドのみ) など) を使用しているパートナーやお客様が、共通サービスを使用して規制機能を 1 回だけ構成することができます。</span><span class="sxs-lookup"><span data-stu-id="3eaea-105">The Configuration service allows partners and customers using multiple versions of Microsoft Dynamics 365 for Finance and Operations and earlier Microsoft Dynamics AX versions (such as AX 2012 and AX 2009 for India only) to configure regulatory features only once using a common service.</span></span> <span data-ttu-id="3eaea-106">構成サービスは、コード記述のないプログラミング アプローチを採用しています。これによりパワー ユーザーは、複数のアプリケーションでコードを記述しなくても、規制報告、電子請求書、支払い形式、および税規則についての法的要件を構成し、要件の頻繁な変更に効果的に対応できるようになります。</span><span class="sxs-lookup"><span data-stu-id="3eaea-106">The Configuration service targets a no-code programming approach, allowing power users to configure frequently changed legal requirements for regulatory reports, e-invoices, payment formats and tax rules, rather than writing code in multiple applications.</span></span> 
 

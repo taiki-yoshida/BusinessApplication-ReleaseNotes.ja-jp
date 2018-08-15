@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 433811a25ce1b6b1a413ff25fed726c2f93a7763
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4fccfd3a294224e65beb8ff5179320520d51bbaf
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="improved-omni-channel-order-processing"></a><span data-ttu-id="3eecc-103">オムニチャネル注文処理の向上</span><span class="sxs-lookup"><span data-stu-id="3eecc-103">Improved omni-channel order processing</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3eecc-104">Retail Modern POS (MPOS) と Cloud POS のユーザーは、レシートによる返品または購買履歴からの返品のときに、複数のトランザクションから製品を返すことにより、より優れた効率的な顧客サービスを提供できます。</span><span class="sxs-lookup"><span data-stu-id="3eecc-104">Retail Modern POS (MPOS) and Cloud POS users can provide better, more streamlined customer service by returning products from across multiple transactions when returning by receipt or from purchase history.</span></span> <span data-ttu-id="3eecc-105">以前は、元の各販売に対して異なる返品トランザクションが必要であり、手順の数とチェックアウト時間の増加につながりました。</span><span class="sxs-lookup"><span data-stu-id="3eecc-105">Previously, this required a different return transaction for each originating sale, which increased the number of steps and checkout time.</span></span>
 

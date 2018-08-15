@@ -11,16 +11,18 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f1fc9283f5dada51a46c3dccb2f16df75738fed5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a7e22e4b83d182a9d898bedf20a049e33b334a7c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a><span data-ttu-id="07d5a-103">Dynamics 365 for Retail 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="07d5a-103">Overview of Dynamics 365 for Retail October '18 release</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="07d5a-104">Dynamics 365 for Retail の 2018 年 10 月リリースには、次のテーマが反映されています。</span><span class="sxs-lookup"><span data-stu-id="07d5a-104">The October '18 release of Dynamics 365 for Retail includes the following themes:</span></span> 

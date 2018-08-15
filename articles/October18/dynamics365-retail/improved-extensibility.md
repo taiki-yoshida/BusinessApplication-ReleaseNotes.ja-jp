@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 19c676718f4645c49aa81160c5258e41a554f34b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f5c9bf81273cabd1639882d95d385b3c36774b43
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="improved-extensibility"></a><span data-ttu-id="06395-103">拡張性の向上</span><span class="sxs-lookup"><span data-stu-id="06395-103">Improved extensibility</span></span> 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="06395-104">ユーザー インターフェイスと API 拡張機能が小売用バックオフィス、POS (Retail Modern POS と Cloud POS)、および Commerce ランタイム (CRT) に追加され、コア アプリケーションに影響を与えることなく、カスタマイズを含む環境を簡単に保守および更新できます。</span><span class="sxs-lookup"><span data-stu-id="06395-104">More user interface and API extensions have been added to the Retail headquarters, POS (Retail Modern POS and Cloud POS, and Commerce run-time (CRT), allowing environments with customization to easily be serviced and updated without impacting the core application.</span></span>
 

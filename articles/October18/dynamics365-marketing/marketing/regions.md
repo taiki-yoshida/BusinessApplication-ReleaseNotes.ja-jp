@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0bc3363a6cb82ea35159977a9cc98c512c39a754
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e1b4168411603a58c879ed89dceffc7d20602752
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="new-geographical-and-language-support"></a><span data-ttu-id="b19ec-103">新しい地域と言語のサポート</span><span class="sxs-lookup"><span data-stu-id="b19ec-103">New geographical and language support</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="b19ec-104">2018 年 10 月のリリースでは、Dynamics 365 for Marketing が利用可能でサポートされる言語と地域のセットを大幅に拡張します。</span><span class="sxs-lookup"><span data-stu-id="b19ec-104">For the October 2018 release, we will greatly expand the set of languages and geographies where Dynamics 365 for Marketing is available and supported.</span></span>
 

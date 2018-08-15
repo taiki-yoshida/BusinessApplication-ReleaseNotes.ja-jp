@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a014f3a7fd5aaf0b3d8f27deb84b0c2d886a809b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0dc00264756f26f805d9f1f7567e315f21169ada
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a><span data-ttu-id="cdaaa-103">Universal Resource Scheduling によって機能強化されたサービス スケジュール設定</span><span class="sxs-lookup"><span data-stu-id="cdaaa-103">Service scheduling powered by Universal Resource Scheduling</span></span>  
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="cdaaa-104">サービス スケジュール設定を使用すると、従業員、設備、および備品の利用可能性を考慮しながら、リソースの複雑な組み合わせを効率的にスケジュールできます。</span><span class="sxs-lookup"><span data-stu-id="cdaaa-104">Service scheduling provides organizations with an efficient way to schedule complex combinations of resources by considering the availability of employees, facilities, and equipment.</span></span> <span data-ttu-id="cdaaa-105">従業員の作業負荷が予測可能になることで、サービス品質が改善され、予定を入れ過ぎることもなくなり、顧客やクライアントに対する時間見積の信頼性が確保されます。</span><span class="sxs-lookup"><span data-stu-id="cdaaa-105">It benefits organizations in improving service quality and preventing over-scheduling with predictable workloads for employees, as well as ensuring reliable time estimates for customers and clients.</span></span> 
 

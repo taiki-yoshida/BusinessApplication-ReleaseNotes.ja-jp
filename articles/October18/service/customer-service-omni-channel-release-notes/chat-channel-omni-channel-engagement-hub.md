@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1a97658742ae6c9a8e8fa7eac98886efbb96928d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: dc59465fc481dacaeec07c5156452b9d5c103efb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="live-chat-channel"></a><span data-ttu-id="ab265-103">ライブ チャット チャネル</span><span class="sxs-lookup"><span data-stu-id="ab265-103">Live chat channel</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 <span data-ttu-id="ab265-104">コンシューマー間の会話型メッセージに対する戦略的なシフトにより、電子メールや電話などの従来型顧客対話チャネルの枠を超えたサポートの追加が組織に奨励されてきました。</span><span class="sxs-lookup"><span data-stu-id="ab265-104">A strategic shift toward conversational messaging among consumers has encouraged organizations to add support beyond traditional customer interaction channels like email and phone.</span></span> <span data-ttu-id="ab265-105">迅速に問題を解決できて顧客にとって便利なライブ チャットは、この新しいトレンドを推進するものの 1 つとして現れました。</span><span class="sxs-lookup"><span data-stu-id="ab265-105">Live chat with its faster problem resolution and customer convenience has emerged as one of the drivers of this new trend.</span></span>
 

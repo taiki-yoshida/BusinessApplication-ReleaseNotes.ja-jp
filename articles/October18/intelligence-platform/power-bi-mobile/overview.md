@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 399b2bd1c59d1e46d82745a6b0d5f86b083bb1b4
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 7817e079b075d27fd44e8881fec78c34992a7b01
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-mobile"></a><span data-ttu-id="c510b-103">Power BI Mobile</span><span class="sxs-lookup"><span data-stu-id="c510b-103">Power BI Mobile</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="c510b-104">Power BI Mobile アプリは、どのデバイス (Windows、iOS、Android) にもデータと分析情報をもたらし、ビジネス ユーザーが Power BI のライブ ダッシュボードに安全にアクセスし、レポートを表示できるようにします。</span><span class="sxs-lookup"><span data-stu-id="c510b-104">Power BI Mobile apps bring data and insights to any device (Windows, iOS, and Android) to enable business users to securely access and view live Power BI dashboards and reports.</span></span>
 

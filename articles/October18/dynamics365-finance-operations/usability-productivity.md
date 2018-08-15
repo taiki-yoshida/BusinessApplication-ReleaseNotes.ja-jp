@@ -11,17 +11,19 @@ ms.technology:
 ms.author: margoc
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0cd977ff8bcaca786d20265bb500e85486d161e4
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a13950f502be440035deb348f8e4af6eca4e3392
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 ---
 #  <a name="usability-and-productivity"></a><span data-ttu-id="1bd3d-103">使いやすさと生産性</span><span class="sxs-lookup"><span data-stu-id="1bd3d-103">Usability and productivity</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 -   <span data-ttu-id="1bd3d-104">アプリケーション全体を通じて新しい表形式のグリッドを使用できるようになり、スクロールのパフォーマンスが大きく改善されました。このことは、データを閲覧しやすくする必要がある場合にとても重要となります。</span><span class="sxs-lookup"><span data-stu-id="1bd3d-104">A new tabular grid is available throughout the application that provides greatly improved scrolling performance, which is important in scenarios where browsing through data is desired.</span></span> 
 

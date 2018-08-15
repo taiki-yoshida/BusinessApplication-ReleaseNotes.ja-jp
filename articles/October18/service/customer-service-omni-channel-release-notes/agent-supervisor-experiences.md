@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d0ae001259fa8a427778b7de8c813085d5368868
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: cb9c432c7dc6e40c35d58af4a212ab1095b32a9f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="agent-and-supervisor-experiences"></a><span data-ttu-id="0d375-103">エージェントおよびスーパーバイザーのエクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="0d375-103">Agent and supervisor experiences</span></span>
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="0d375-104">**エージェント エクスペリエンス**</span><span class="sxs-lookup"><span data-stu-id="0d375-104">**Agent experiences**</span></span>
 

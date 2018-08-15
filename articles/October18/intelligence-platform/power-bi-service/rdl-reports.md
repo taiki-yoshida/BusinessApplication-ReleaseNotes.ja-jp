@@ -12,15 +12,17 @@ ms.technology:
 ms.author: HaydnR
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4959c5d87e6f7a76c11109a21ccfcd1a887a9d1f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3c5f1b25f85debf07a1716bdf47f33590cd222d9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a><span data-ttu-id="0e3ae-102">Power BI のページ付けされたレポート (パブリック プレビュー) </span><span class="sxs-lookup"><span data-stu-id="0e3ae-102">Paginated reports in Power BI (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="0e3ae-103">SQL Server Reporting Services (SSRS) レポート (\*.rdl 形式) を Power BI Premium ワークスペースに公開し、Power BI Web アプリ内でレポートを表示します。</span><span class="sxs-lookup"><span data-stu-id="0e3ae-103">Publish SQL Server Reporting Services (SSRS) reports (\*.rdl format) to a Power BI Premium workspace and view reports within the Power BI web app.</span></span> <span data-ttu-id="0e3ae-104">レポートは、Power BI アプリの一部として共有または公開できます。</span><span class="sxs-lookup"><span data-stu-id="0e3ae-104">The reports can be shared or published as part of Power BI apps.</span></span>
 

@@ -12,16 +12,18 @@ ms.technology:
 ms.author: karansr
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: fc948b23d7ae065d0b2f59071295ba559e247b91
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1fee8f2adbaa8ee006539a263c7972dbbdd0082d
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="democratize-business-processes"></a><span data-ttu-id="51e49-103">業務プロセスの一般化</span><span class="sxs-lookup"><span data-stu-id="51e49-103">Democratize business processes</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="51e49-104">業務プロセスの近代化は Microsoft のビジネス アプリケーション プラットフォームの核心的ミッションの 1 つであり、Microsoft Flow は組織内の全ユーザーに業務プロセスを提供できるオファリングです。</span><span class="sxs-lookup"><span data-stu-id="51e49-104">Modernizing business processes is one of the core missions of the Business Applications Platform at Microsoft, and Microsoft Flow is the offering that will be able to bring business processes to everyone in an organization.</span></span>
 

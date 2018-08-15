@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 74ec87c7c15b7e4ab4068914dfa73ba56fad2857
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 561ba799ab102a5169f83e84879a5e9c86db4ef3
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="suggest-similar-cases"></a><span data-ttu-id="3b043-103">類似サポート案件の提示</span><span class="sxs-lookup"><span data-stu-id="3b043-103">Suggest similar cases</span></span>  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 <span data-ttu-id="3b043-104">初回のコンタクト時に最小限の時間で顧客サービス問題を解決することは、顧客満足度 (CSAT) の向上や運営コストの削減につながります。</span><span class="sxs-lookup"><span data-stu-id="3b043-104">Resolving a customer service issue during the first contact and within minimal time helps organizations with increased customer satisfaction (CSAT) and reduced operations cost.</span></span>  <span data-ttu-id="3b043-105">通常、顧客サービス組織では、経験豊富な顧客サービス エージェントや内容領域専門家 (SME) が、類似する問題への対応を通じて培った知識や経験に基づいて、問題を迅速に解決します。</span><span class="sxs-lookup"><span data-stu-id="3b043-105">Typically, in a customer service organization, experienced customer service agents or subject matter experts (SMEs) resolve issues faster based on knowledge or experience gained over a period of resolving similar issues.</span></span> <span data-ttu-id="3b043-106">エージェントが専門外のサポート案件に遭遇した際に、専門のエージェントにサポート案件を転送したり、SME に相談したりしていると、顧客努力や通話処理時間が増加することになり、CSAT の低下につながります。</span><span class="sxs-lookup"><span data-stu-id="3b043-106">If agents get a case outside their areas of expertise, transferring the case to an expert agent or consulting an SME leads to increased customer effort and call handling time, resulting in reduced CSAT.</span></span>  
 

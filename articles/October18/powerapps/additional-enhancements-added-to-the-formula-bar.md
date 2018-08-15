@@ -11,16 +11,18 @@ ms.technology:
 ms.author: gregli
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1c6cae377748262e2c08b5730db771293303a84c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3e8963d65aaffa034eb4b7e9e7f24451f7f22912
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="formula-bar-enhanced"></a><span data-ttu-id="55ea8-103">式バーの機能拡張</span><span class="sxs-lookup"><span data-stu-id="55ea8-103">Formula bar enhanced</span></span> 
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="55ea8-104">キャンバス アプリは、フィルターやソートなどの関数を使って強力な式を構成して機能します。</span><span class="sxs-lookup"><span data-stu-id="55ea8-104">Canvas apps operate by composing functions, such as Filter and Sort, to form powerful formulas.</span></span> <span data-ttu-id="55ea8-105">結果は、ギャラリーなどのコントロールに直接送られ、さらに解析される場合があります。</span><span class="sxs-lookup"><span data-stu-id="55ea8-105">The result is often fed directly into a control, such as a gallery, which may interpret it further.</span></span>
 

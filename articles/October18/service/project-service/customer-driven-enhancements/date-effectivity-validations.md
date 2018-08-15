@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ebe319f383c161cea41fe8d483206b72f9244de7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 45118e9b8562da5b617c2ad1e983ffddc466259c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #   <a name="date-effectivity-validation-on-price-lists"></a><span data-ttu-id="a3017-103">価格表の日付の有効期間の検証</span><span class="sxs-lookup"><span data-stu-id="a3017-103">Date effectivity validation on price lists</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="a3017-104">この機能により、特定の日に対して複数の価格表が有効になっているときに、Project Service の価格の既定設定でエラーが発生するのを回避できます。</span><span class="sxs-lookup"><span data-stu-id="a3017-104">This feature ensures that Project Service users avoid errors in price defaulting arising from having more than one price list effective for a certain date.</span></span> <span data-ttu-id="a3017-105">Project Service では、複数のプロジェクト価格表を見積もり、プロジェクト契約、および組織単位に関連付けることができます。</span><span class="sxs-lookup"><span data-stu-id="a3017-105">As Project Service customers are aware, the product allows for multiple project price lists to be associated to quotes, project contracts, and organizational units.</span></span> <span data-ttu-id="a3017-106">これは、有効な日付が異なる価格表によって表されるインフレ価格変化を有効にするためです。</span><span class="sxs-lookup"><span data-stu-id="a3017-106">This is to allow for inflationary pricing changes represented by price lists with different date effectivities.</span></span> 

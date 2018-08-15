@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bda05c80c63fffec69b843cd3ce37f4656ece1b8
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bb90c5a22c2be02e99292c337a4b5091aead544f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="performance-improvements"></a><span data-ttu-id="bf450-103">パフォーマンスの向上</span><span class="sxs-lookup"><span data-stu-id="bf450-103">Performance improvements</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="bf450-104">単一ビジュアルと複数ビジュアルのカスタム ビジュアル読み込み時間がコア ビジュアルと同程度になります。</span><span class="sxs-lookup"><span data-stu-id="bf450-104">We will be bringing custom visual load times for single visuals and multi-visuals to be in the same order of magnitude as core visuals.</span></span>
 

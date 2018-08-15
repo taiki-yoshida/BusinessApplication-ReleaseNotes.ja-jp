@@ -11,16 +11,18 @@ ms.author: mhart
 manager: AnnBe
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6ead7a2ba994360aea83b40c5e9cb9d5955d3b08
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 0e2c029bae724e854d68d657d0ad8dd87ee3eacf
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a><span data-ttu-id="8409f-103">Microsoft Social Engagement 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="8409f-103">Overview of Microsoft Social Engagement October '18 release</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 <span data-ttu-id="8409f-104">Microsoft Social Engagement では、Web (ソーシャル、検索、閲覧) の機能を強化することで、ビジネス成果の達成を促進できます。</span><span class="sxs-lookup"><span data-stu-id="8409f-104">Microsoft Social Engagement helps you harness the power of the web (social, search, and browse) to achieve business results.</span></span> <span data-ttu-id="8409f-105">Web から取得したインテリジェンスを、営業チームやカスタマー サービス エージェント、ブランド マーケティング担当者に提供するだけでなく、組織全域のユーザーが活用できるようにすることで、従業員が分析情報を収集し、顧客や見込顧客と適切なチャネルでやり取りしながら、信頼性のあるソーシャル プレゼンスを構築できるようになります。</span><span class="sxs-lookup"><span data-stu-id="8409f-105">By putting intelligence from the web at the fingertips of sales teams, customer service agents, brand marketers, and across your organization, your employees can gather insights, meet customers and prospects on the channel of their choice, and build a trusted social presence.</span></span>
 

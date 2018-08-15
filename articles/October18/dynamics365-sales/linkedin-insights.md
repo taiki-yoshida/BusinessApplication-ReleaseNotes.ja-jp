@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: ef85db29ff72420f87f1d3533a48ad63fda65665
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 5cba376a5907365a499667a8e4dda640d91f3d41
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="build-intelligent-sales-applications-and-business-processes-powered-by-linkedin-insights"></a><span data-ttu-id="c12be-103">LinkedIn Insight を利用したインテリジェントな営業アプリケーションとビジネス プロセスの作成</span><span class="sxs-lookup"><span data-stu-id="c12be-103">Build intelligent sales applications and business processes powered by LinkedIn insights</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="c12be-104">LinkedIn Insight を利用した Dynamics 365 アプリケーションは、モジュール型のカスタマイズ可能な **LinkedIn Sales Navigator コントロール**を **Dynamics 365 業務プロセス フロー**の能力および柔軟性と組み合わせることで次のレベルに進みます。</span><span class="sxs-lookup"><span data-stu-id="c12be-104">Dynamics 365 applications powered by LinkedIn insights are taken to the next level by combining the modular and customizable **LinkedIn Sales Navigator controls** with the power and flexibility of **Dynamics 365 Business Process Flows**.</span></span> <span data-ttu-id="c12be-105">営業シナリオを含むビジネス プロセスを作成または拡張して、ユーザーと会社に関する LinkedIn Insight を搭載できます。これにより、インフォメーション ワーカーはステージとステップをすばやく正確に完了し、営業取引とその他のプロセスを成功裏に終わらせることができます。</span><span class="sxs-lookup"><span data-stu-id="c12be-105">Any business process, including the sales scenarios, can be created or enhanced to feature LinkedIn insights about people and companies, which help information workers complete the stages and steps accurately and quickly, driving the sales deals and other processes forward toward a successful conclusion.</span></span> <span data-ttu-id="c12be-106">分析情報には次のものが含まれます。</span><span class="sxs-lookup"><span data-stu-id="c12be-106">The insights include:</span></span>

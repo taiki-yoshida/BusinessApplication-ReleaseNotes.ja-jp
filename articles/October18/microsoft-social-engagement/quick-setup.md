@@ -12,15 +12,17 @@ ms.technology:
 ms.author: mhart
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1f61b0e1e007130731ccdebd555b66d0cb5eaa26
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 4e3250de91016036dcef7b40d910c2212659f65e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a><span data-ttu-id="0706e-103">Social Engagement のクイック セットアップと即時の分析情報</span><span class="sxs-lookup"><span data-stu-id="0706e-103">Quick setup and instant insights in Social Engagement</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 <span data-ttu-id="0706e-104">ソーシャル メディアは、成功するマーケティング、顧客サービス、コミュニティ管理の一部になりました。</span><span class="sxs-lookup"><span data-stu-id="0706e-104">Social media has become an intrinsic part of every successful marketing, customer service, and community management organization.</span></span> <span data-ttu-id="0706e-105">ブランドがソーシャル メディアでどの程度認知されているかの監視、測定、管理は、そのブランドの成功に不可欠です。</span><span class="sxs-lookup"><span data-stu-id="0706e-105">Monitoring, measuring, and managing how a brand is perceived on social media is critical to the success of that brand.</span></span> <span data-ttu-id="0706e-106">ブランドのソーシャル プレゼンスに関する専門的な対応の開始が企業にとっての課題となることがあります。</span><span class="sxs-lookup"><span data-stu-id="0706e-106">Starting to care professionally about the social presence of your brand can be challenging for companies.</span></span> <span data-ttu-id="0706e-107">多くのプロフェッショナル ツールの使用開始はコンサルティングとトレーニングに依存します。</span><span class="sxs-lookup"><span data-stu-id="0706e-107">A lot of professional tools depend on consulting and training to get started.</span></span>
 

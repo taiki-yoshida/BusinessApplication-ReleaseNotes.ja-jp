@@ -11,17 +11,19 @@ ms.technology:
 ms.author: josaw
 audience: Admin, end user
 ms.translationtype: HT
-ms.sourcegitcommit: 560aef22ae7d563508bc590895382dc5e122376d
-ms.openlocfilehash: 303dc076773abd5e76e77299ad0709c56e4e7c9e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ec90908f7b196963c171d0674ea1f5b6d79848ce
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a><span data-ttu-id="64875-103">Dynamics 365 for Talent の新機能の概要</span><span class="sxs-lookup"><span data-stu-id="64875-103">Summary of what's new in Dynamics 365 for Talent</span></span>
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 <span data-ttu-id="64875-104">このトピックでは、2018 年 10 月から 2019 年 3 月の間に Microsoft Dynamics 365 for Talent でリリースが計画されている機能の一覧を示します。</span><span class="sxs-lookup"><span data-stu-id="64875-104">This topic lists the features planned for release in Microsoft Dynamics 365 for Talent between October 2018 and March 2019.</span></span> 
 
-[!include[banner](../../includes/banner.md)]
+
 
 
 ## <a name="attract"></a><span data-ttu-id="64875-105">Attract</span><span class="sxs-lookup"><span data-stu-id="64875-105">Attract</span></span>

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: josaw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f9711c18ca2d6e0f5baf25edfa2eb2ba7b49f6af
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8f1783c839935b8eb0ef59911b74ef8ebaf8cd1f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="attract"></a><span data-ttu-id="7f7bb-103">Attract</span><span class="sxs-lookup"><span data-stu-id="7f7bb-103">Attract</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 -   <span data-ttu-id="7f7bb-104">調達:</span><span class="sxs-lookup"><span data-stu-id="7f7bb-104">Sourcing:</span></span>
 

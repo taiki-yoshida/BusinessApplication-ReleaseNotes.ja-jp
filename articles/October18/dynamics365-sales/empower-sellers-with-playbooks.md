@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 29cd44d4886f0728b3a472c26d7fb43a4c4c1966
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: aaecba514d586b5580700c20e7f158c78fea6b10
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a><span data-ttu-id="01447-103">イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援</span><span class="sxs-lookup"><span data-stu-id="01447-103">Empower sellers with Playbooks guided by event-driven sales activities</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="01447-104">Dynamics 365 for Sales では**プレイブック**が導入されています。これは、組織が繰り返し可能な営業活動を自動化して外部イベントに対応するのを助ける新しい機能です。</span><span class="sxs-lookup"><span data-stu-id="01447-104">Dynamics 365 for Sales is introducing **Playbooks**, a new capability to help organizations automate repeatable sales activities and respond to external events.</span></span>

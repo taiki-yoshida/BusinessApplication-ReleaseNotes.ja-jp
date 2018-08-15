@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: be3172ea0613c4fadade24b9f19e9fcf1aef646f
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a25a18160d8e4a5a0798332cb82e7f915a348a4a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="facility-scheduling"></a><span data-ttu-id="170c7-103">設備のスケジューリング</span><span class="sxs-lookup"><span data-stu-id="170c7-103">Facility scheduling</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 <span data-ttu-id="170c7-104">顧客所在地の代わりにサービス プロバイダーの場所でサービスを提供します。</span><span class="sxs-lookup"><span data-stu-id="170c7-104">Provide service at service provider's location instead of customer’s location.</span></span>
 

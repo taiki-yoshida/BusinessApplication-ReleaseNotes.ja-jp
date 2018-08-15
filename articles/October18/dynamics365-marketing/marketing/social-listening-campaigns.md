@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 843cdb90d7e0b1dd1a91d7311357652661780899
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1ea7623590b40cea585799f1091c2cb910956f8a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="social-listening-for-your-campaigns"></a><span data-ttu-id="b58f6-103">キャンペーンのソーシャル リスニング</span><span class="sxs-lookup"><span data-stu-id="b58f6-103">Social listening for your campaigns</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="b58f6-104">今日のマーケティングでは、顧客エンゲージメントを維持するために、ソーシャル メディアからのシグナルを活用することが不可欠です。</span><span class="sxs-lookup"><span data-stu-id="b58f6-104">Modern marketing relies on signals from social media to help keep customers engaged.</span></span> <span data-ttu-id="b58f6-105">Dynamics 365 for Marketing のソーシャル リスニング機能を使用すると、マーケティング担当者は、顧客体験、イベント、およびその他のエンティティに、関連するソーシャル タグを追加することができます。これにより、マーケティング イニシアチブに対するソーシャル メディアの反応を、他のマーケティング分析情報と共に確認できるようになります。</span><span class="sxs-lookup"><span data-stu-id="b58f6-105">Social listening in Dynamics 365 for Marketing lets marketers add relevant social tags to customer journeys, events, and other entities, so they can view the social media response to their marketing initiatives right alongside other marketing insights.</span></span>
 

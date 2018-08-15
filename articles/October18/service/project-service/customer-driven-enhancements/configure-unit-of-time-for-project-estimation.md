@@ -11,16 +11,18 @@ ms.technology:
 ms.author: rumant
 audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 25e88afe31f492f72f29e3fde9ce38530ecc1291
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 3d9c093dc2928be990b3737ca3d94d61a485c9a9
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a><span data-ttu-id="3c002-103">プロジェクト タスクでの作業を見積もるための時間単位の構成</span><span class="sxs-lookup"><span data-stu-id="3c002-103">Configure a unit of time for estimating work on project tasks</span></span>
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3c002-104">Project Service では、プロジェクト タスクでの工数見積の時間単位として*時間*だけが使用されます。</span><span class="sxs-lookup"><span data-stu-id="3c002-104">Project Service uses *hour* as the only time unit for estimating work effort on a project task.</span></span> <span data-ttu-id="3c002-105">世界の多くの領域では「作業日数」で見積が行われており、一般的な 1 作業日の時間数は国や地域ごとに独自の定義があります。</span><span class="sxs-lookup"><span data-stu-id="3c002-105">In many regions across the world, estimation is done in “work days,” with each country or region having its own definition of how many hours are in a typical work day.</span></span> <span data-ttu-id="3c002-106">したがって、プロジェクトの納品を所有する部署に応じて、プロジェクトでの見積の単位の既定値を、その部署における作業日の定義に設定する必要があります。</span><span class="sxs-lookup"><span data-stu-id="3c002-106">Therefore, depending on which division owns the delivery of the project, the unit of estimation on the project must default to that division's definition of work day.</span></span> 
 

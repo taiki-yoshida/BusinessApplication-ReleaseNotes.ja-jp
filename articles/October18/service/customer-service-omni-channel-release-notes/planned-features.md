@@ -11,17 +11,17 @@ author: krbjoran
 ms.author: krbjoran
 manager: shellyhaverkamp
 ms.translationtype: HT
-ms.sourcegitcommit: a45285290d8d5ae34bd42817bfebc2bfd0694199
-ms.openlocfilehash: 34848692e8f5af892c95a55094bd14d9c7e7b04c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 527602208b5bdfb95687ca41c212198aac191f44
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="summary-of-whats-new-for-dynamics-365-omni-channel-engagement-hub"></a><span data-ttu-id="844aa-103">Dynamics 365 Omni-channel Engagement Hub の新機能の概要</span><span class="sxs-lookup"><span data-stu-id="844aa-103">Summary of what's new for Dynamics 365 Omni-channel Engagement Hub</span></span>
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 
 

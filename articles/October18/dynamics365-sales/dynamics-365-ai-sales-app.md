@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 05561650099897aaff1627f8160884824acd4ed0
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c88dd71a5a654638be727feba392054dc2cef9e5
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a><span data-ttu-id="590be-103">Sales アプリ向け Dynamics 365 AI による営業のパフォーマンスとプランニングの強化</span><span class="sxs-lookup"><span data-stu-id="590be-103">Enhance sales performance and planning with the Dynamics 365 AI for Sales app</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="590be-104">Sales アプリ向けの新しい Dynamics 365 AI は、営業データから役に立つ分析情報を積極的かつ慣例的に提供することで、営業パフォーマンス分析から面倒な作業を取り除きます。</span><span class="sxs-lookup"><span data-stu-id="590be-104">The new Dynamics 365 AI for Sales app takes the hassle out of sales performance analysis by proactively and prescriptively providing useful insights from sales data.</span></span> <span data-ttu-id="590be-105">このアプリは、営業マネージャーが Dynamics 365 および他の営業アプリケーションで営業チームのパフォーマンスを評価および改善するのを助けます。</span><span class="sxs-lookup"><span data-stu-id="590be-105">The app helps sales managers evaluate and improve the performance of their sales teams on Dynamics 365 and other sales applications.</span></span> <span data-ttu-id="590be-106">リレーションシップ正常性スコアを使用するチャーン測定とパイプライン予測により、営業リーダーは営業戦略をいっそう適切に最適化できます。</span><span class="sxs-lookup"><span data-stu-id="590be-106">With churn measurement and pipeline forecasting using relationship health scores, sales leaders can better optimize their sales strategies.</span></span>

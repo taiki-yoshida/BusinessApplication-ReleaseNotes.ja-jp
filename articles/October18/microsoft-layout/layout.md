@@ -18,16 +18,16 @@ audience:
 - business analyst
 - IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4ff3b31f53376761bf3aaeec8861ea434af6343b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: cc777d3bd956f6c39cbce65e951430bdff080c03
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="overview-of-microsoft-layout-october-18-release"></a><span data-ttu-id="5c271-103">2018 年 10 月リリースの Microsoft Layout の概要</span><span class="sxs-lookup"><span data-stu-id="5c271-103">Overview of Microsoft Layout October '18 release</span></span>
 
-[!include[banner](../../includes/banner.md)]
+
 
 <span data-ttu-id="5c271-104">Microsoft Layout では、コンセプトから完成までに信頼性が高く高速な空間デザインを取り入れることができます。</span><span class="sxs-lookup"><span data-stu-id="5c271-104">Microsoft Layout lets you bring space designs from concept to completion with confidence and speed.</span></span> <span data-ttu-id="5c271-105">HoloLens または Windows Mixed Reality のイマーシブ ヘッドセットを使用して、現実空間に部屋のレイアウトを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="5c271-105">Use a HoloLens or Windows Mixed Reality immersive headset to easily create room layouts in a real-world space.</span></span> <span data-ttu-id="5c271-106">3D モデルとエクスペリエンス デザインを高品質なホログラムとしてインポートします。</span><span class="sxs-lookup"><span data-stu-id="5c271-106">Import 3D models and experience designs as high-quality holograms.</span></span> <span data-ttu-id="5c271-107">リアルタイムで編集し、関係者がレビューします。</span><span class="sxs-lookup"><span data-stu-id="5c271-107">Edit and review with stakeholders in real time.</span></span>  
 

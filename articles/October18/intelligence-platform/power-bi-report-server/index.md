@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 179e0b58e161a748fced74d0f4bc3d31d05efe97
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ea7e6a6b1ef91f20955e5f81917b6081b63370dc
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-report-server"></a><span data-ttu-id="3d080-103">Power BI Report Server</span><span class="sxs-lookup"><span data-stu-id="3d080-103">Power BI Report Server</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="3d080-104">Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。</span><span class="sxs-lookup"><span data-stu-id="3d080-104">With the Power BI Report Server, customers can meet their unique governance and deployment requirements while enjoying modern Power BI reports.</span></span> <span data-ttu-id="3d080-105">Power BI Report Server の 2018 年 10 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。</span><span class="sxs-lookup"><span data-stu-id="3d080-105">In the October '18 update to Power BI Report Server, customers will benefit from many of the features released in Power BI Desktop over the previous months, including drillthrough on measures, and conditional formatting based on another column.</span></span> 
 

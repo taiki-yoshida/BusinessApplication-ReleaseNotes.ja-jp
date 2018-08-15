@@ -11,16 +11,18 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9eef14478ecabd97bbc41b9fdacfa43fd342d9e7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 39f5ce5cd6ea1175da11c76bb4269546dbad7eeb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a><span data-ttu-id="f839a-103">セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定</span><span class="sxs-lookup"><span data-stu-id="f839a-103">Unit-aware expense category pricing for setup, estimation, and actuals</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="f839a-104">この機能は、Project Service で、経費カテゴリごとに単位ベースの価格設定方法を使用できるようにするものです。</span><span class="sxs-lookup"><span data-stu-id="f839a-104">With this feature, Project Service will support a unit–based pricing method for expense categories.</span></span> <span data-ttu-id="f839a-105">これにより、次のようなシナリオへの対応が可能になります。</span><span class="sxs-lookup"><span data-stu-id="f839a-105">This will enable scenarios such as the following:</span></span>
 

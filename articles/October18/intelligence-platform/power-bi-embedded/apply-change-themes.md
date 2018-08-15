@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 62a44aa1eeb8959f7f51e9a6dbe34941159b1b16
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: bbcd52e8beedcc5309ddcb2ee2093eb59e44f81a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="api-to-apply-and-change-report-themes-in-power-bi-embedded"></a><span data-ttu-id="f698a-103">Power BI Embedded でレポートのテーマを適用および変更するための API</span><span class="sxs-lookup"><span data-stu-id="f698a-103">API to apply and change report themes in Power BI Embedded</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="f698a-104">この新機能を使うと、アプリケーションで API を呼び出し、セッション レベルで埋め込みオブジェクトにレポート テーマを適用したり変更したりできます。</span><span class="sxs-lookup"><span data-stu-id="f698a-104">This new capability allows applications to call an API to apply and change report themes for embedded objects on a session level.</span></span> <span data-ttu-id="f698a-105">レポートのテーマを使用すると、会社の色や季節の色など、レポート全体に配色テーマを適用できます。</span><span class="sxs-lookup"><span data-stu-id="f698a-105">With report themes, you can apply a color theme to an entire report, such as corporate colors, or seasonal coloring.</span></span> <span data-ttu-id="f698a-106">レポート テーマを適用すると、レポートのすべてのビジュアルが指定したテーマの色を使うようになります。</span><span class="sxs-lookup"><span data-stu-id="f698a-106">When you apply a report theme, all visuals in your report use the colors from your selected theme.</span></span>
 

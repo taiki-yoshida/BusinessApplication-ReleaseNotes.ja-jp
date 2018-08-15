@@ -11,16 +11,18 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d793966c7933c8cf5ad1ce177161631d3b1eef3c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b766eaf6f4e412501b8756ca6f070ce21fcec6cb
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a><span data-ttu-id="6c13f-103">承認済みの時間、経費、仕訳帳明細行の調整</span><span class="sxs-lookup"><span data-stu-id="6c13f-103">Adjustments to approved time, expense, and journal lines</span></span> 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="6c13f-104">この機能は、時間と経費の承認済みエントリを変更する待ち望まれた機能をプロジェクト管理者に提供します。</span><span class="sxs-lookup"><span data-stu-id="6c13f-104">This feature will give the much-needed ability for project administrators to make changes to approved time and expense entries.</span></span> <span data-ttu-id="6c13f-105">プロジェクト ベースの多くの企業では、プロジェクト、タスク、および作業カテゴリなどの他の属性に一時的なコードを設定し、コンサルタントは永続的なコードがシステムで設定されるまで、これらの暫定的な参照コードに対して時間を記録します。</span><span class="sxs-lookup"><span data-stu-id="6c13f-105">Most project-based companies set up temporary codes for projects, tasks, and other attributes like work categories and have consultants log time against these interim references until the permanent codes are set up in the system.</span></span> 
 

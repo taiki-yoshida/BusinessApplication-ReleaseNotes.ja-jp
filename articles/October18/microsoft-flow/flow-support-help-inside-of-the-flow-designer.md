@@ -12,16 +12,18 @@ ms.technology:
 ms.author: anjlic
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: f858f614e5d6ed4f608605b8703b7aefdef27b9c
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: dc01350517d026c312edccdeea4ec173dc1ce818
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a><span data-ttu-id="463d6-103">フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合</span><span class="sxs-lookup"><span data-stu-id="463d6-103">Integrated help and support experience in Flow designer</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="463d6-104">ユーザーは、support.microsoft.com にリダイレクトされるのではなく、製品 (Web サイトとモバイルの両方) 内から簡単にヘルプとサポートを利用できます。</span><span class="sxs-lookup"><span data-stu-id="463d6-104">A user will have a much easier time seeking help and support from within the product (both website and mobile) instead of being redirected to support.microsoft.com.</span></span> <span data-ttu-id="463d6-105">ユーザーは、論理的な質問のセットに回答し、質問の詳細を提供することで (ハウツーの質問から、自分が作成したフローの具体的な実行失敗の選択まで)、発生している問題に絞り込むことができます。</span><span class="sxs-lookup"><span data-stu-id="463d6-105">The user will be able to narrow down into the problem that they are facing by walking through a logical set of questions and by providing the particulars of their ask - right from how-to questions to selecting a specific flow run failure for a flow that they are an author on.</span></span> 
 

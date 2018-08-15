@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a675b4da0f9652091ec05b7498c1037a2538c0a2
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 61517b3de4368d78b7792cc6268f94eb5ec04e07
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="reusable-content-blocks"></a><span data-ttu-id="44244-103">再利用可能なコンテンツ ブロック</span><span class="sxs-lookup"><span data-stu-id="44244-103">Reusable content blocks</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="44244-104">再利用可能なコンテンツ ブロックを使用すると、Marketing ユーザーは、電子メールやページのデザインに簡単に追加できる再利用可能なコンテンツのブロックを定義し、保存することができます。</span><span class="sxs-lookup"><span data-stu-id="44244-104">Reusable content blocks enable Marketing users to define and store reusable blocks of content that are easy to add to email and page designs.</span></span> <span data-ttu-id="44244-105">たとえば、マーケティング ページ用の美しいヘッダーを作成した場合は、それを再利用可能なブロックとして保存することで、標準デザイン要素にすることができます。</span><span class="sxs-lookup"><span data-stu-id="44244-105">For example, if you've created a beautiful header for a marketing page, you can make it a standard design element by saving it as a reusable block.</span></span> <span data-ttu-id="44244-106">一部またはすべてのブロックのコンテンツまたはデザインを保護して、他のユーザーがそれらを編集することを制限できます。</span><span class="sxs-lookup"><span data-stu-id="44244-106">You can also protect some or all of a block's content or design to restrict other users' ability to edit them.</span></span> 
 

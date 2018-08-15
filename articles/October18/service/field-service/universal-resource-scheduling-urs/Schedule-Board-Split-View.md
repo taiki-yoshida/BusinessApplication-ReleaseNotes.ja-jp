@@ -12,17 +12,19 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 66cdce8b9d577b305e84a5fca5b685a2b71e38ae
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 20b91f4bcec74094530eb05219f771925ac86e4b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="schedule-board-split-view"></a><span data-ttu-id="543a4-103">スケジュール ボードの分割ビュー</span><span class="sxs-lookup"><span data-stu-id="543a4-103">Schedule board split view</span></span>
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 <span data-ttu-id="543a4-104">新しい画面を読み込んだり現在のコンテキストを失ったりすることなく、スケジュール ボードに関する情報にドリルダウンすることが必要なシナリオがあります。</span><span class="sxs-lookup"><span data-stu-id="543a4-104">There are scenarios where you may want to drill into information on the schedule board without needing to load new screens or lose context of where you are:</span></span>

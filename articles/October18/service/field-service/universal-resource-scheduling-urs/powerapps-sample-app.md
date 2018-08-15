@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c5b3e04346db2cfad13763c6ebbf827187e6fea4
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 106b2310b50ce2f0d889e91d45ba3dc51fc2212e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="powerapps-sample-app"></a><span data-ttu-id="7f732-103">PowerApps サンプル アプリ</span><span class="sxs-lookup"><span data-stu-id="7f732-103">PowerApps sample app</span></span>
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 <span data-ttu-id="7f732-104">リソースの空き時間の検索 API と対話でき、予約を作成するための情報を返すことができる、URS 向けの標準 PowerApps サンプル アプリを提供しています。</span><span class="sxs-lookup"><span data-stu-id="7f732-104">We are providing an out-of-the-box PowerApps sample app for URS that can interact with the resource availability search API and pass back information to create a booking.</span></span>
 

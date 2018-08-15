@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eed4ed38af1d0a6eb2ebd04c24f6ef9f0dd52666
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 03f450c2f9b0a6d3e69001ac518bf0bae340a50f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="marketing-calendar-for-planning"></a><span data-ttu-id="25395-103">計画用のマーケティング カレンダー</span><span class="sxs-lookup"><span data-stu-id="25395-103">Marketing calendar for planning</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="25395-104">マーケティング カレンダー コントロールにより、マーケティング担当者は開始日と終了日があるさまざまなマーケティング活動を視覚化することができます。</span><span class="sxs-lookup"><span data-stu-id="25395-104">The marketing calendar control lets marketers visualize a variety of marketing activities that have a start and end date.</span></span> <span data-ttu-id="25395-105">実際上、マーケティング担当者は同じカレンダーにキャンペーン (イベントなど) の多くの要素を表示して、簡単な概要を提供できます。</span><span class="sxs-lookup"><span data-stu-id="25395-105">Effectively, marketers can view many elements of a campaign (such as events) on the same calendar, providing an easy overview.</span></span>
 

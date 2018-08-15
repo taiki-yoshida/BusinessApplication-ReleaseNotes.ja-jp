@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 74e4b7d6d000c266281ed24b7c02b33526c7f728
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 1bbb4f0b29b9315fb50025f7441d8b60bf89cc3f
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a><span data-ttu-id="ed493-103">Windows ベースの大画面デバイス上の Power BI (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="ed493-103">Power BI on Windows-based large screen devices (Public Preview)</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ed493-104">Surface Hub などの大型タッチスクリーンは、データのプレゼンテーションやチーム コラボレーションに使用されます。</span><span class="sxs-lookup"><span data-stu-id="ed493-104">Large touchscreens like the Surface Hub are used for data presentation and team collaboration.</span></span> <span data-ttu-id="ed493-105">大画面上の Power BI Mobile アプリにより、データが大画面で表示および探索される方法を最適化するエクスペリエンスを使用して、大型タッチスクリーンを直感的な方法で使用できます。</span><span class="sxs-lookup"><span data-stu-id="ed493-105">The Power BI Mobile app on large screens allows you to use the large touchscreen in an intuitive way, with an experience that optimizes the way data is presented and explored on large screens.</span></span>
 

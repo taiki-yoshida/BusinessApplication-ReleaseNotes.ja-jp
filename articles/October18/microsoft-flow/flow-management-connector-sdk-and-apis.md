@@ -12,16 +12,18 @@ ms.technology:
 ms.author: keweare
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: c96153d8ed2e23d669c43a1730dd274c45cebbef
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: ad2b6a7cd5c7527f45b2b9159695db4f6890217a
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a><span data-ttu-id="ceb72-103">フロー管理コネクタ、SDK、API</span><span class="sxs-lookup"><span data-stu-id="ceb72-103">Flow management connector, SDK, and APIs</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="ceb72-104">メーカーや管理者によるアプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化について、顧客からは大きな要求がでています。</span><span class="sxs-lookup"><span data-stu-id="ceb72-104">We are seeing greater demand from customers looking for makers and administrators to automate application lifecycle management tasks and automate the permissions and governance of flows within a tenant.</span></span> <span data-ttu-id="ceb72-105">この機能の一部として、組織がプロセス簡素化のための追加ツールを作成できる API と SDK が文書化されます。</span><span class="sxs-lookup"><span data-stu-id="ceb72-105">As part of this feature, we will be documenting APIs and SDKs that allow organizations to build additional tooling to streamline their processes.</span></span>  <span data-ttu-id="ceb72-106">また、既存のフロー管理コネクタを拡張し、組織が Microsoft Flow で IT 運用を自動化できるようにします 。</span><span class="sxs-lookup"><span data-stu-id="ceb72-106">We will also be expanding upon our existing Flow management connector, allowing organizations to automate their IT operations through Microsoft Flow.</span></span>
 

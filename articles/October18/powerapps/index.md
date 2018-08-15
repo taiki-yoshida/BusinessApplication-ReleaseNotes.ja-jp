@@ -11,16 +11,18 @@ ms.technology:
 ms.author: evchaki
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 335fc3cd615e57056b7b57d589913c366571186b
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: a78f8926b115d79a50047e04d981b6166df6b0ac
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a><span data-ttu-id="c6c3a-103">Microsoft PowerApps 2018 年 10 月リリースの概要</span><span class="sxs-lookup"><span data-stu-id="c6c3a-103">Overview of Microsoft PowerApps October '18 release</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="c6c3a-104">PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。</span><span class="sxs-lookup"><span data-stu-id="c6c3a-104">PowerApps is a service that lets you build business apps that run in a browser or on a phone or tablet, and no coding experience is required.</span></span> <span data-ttu-id="c6c3a-105">PowerApps の[ドキュメント](https://docs.microsoft.com/powerapps/)では、PowerApps のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。</span><span class="sxs-lookup"><span data-stu-id="c6c3a-105">Use PowerApps [documentation](https://docs.microsoft.com/powerapps/) to get expert information and answers to address your needs, regardless of how you use PowerApps.</span></span>

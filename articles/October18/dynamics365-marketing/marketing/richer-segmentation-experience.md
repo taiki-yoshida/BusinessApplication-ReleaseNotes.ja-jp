@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fa2066e34701a859931439341691f468719e9448
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e169815458458b12ccda76d42a4b9e19c148a949
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="richer-segmentation-experience"></a><span data-ttu-id="20423-103">より充実したセグメント化エクスペリエンス</span><span class="sxs-lookup"><span data-stu-id="20423-103">Richer segmentation experience</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="20423-104">強化されたセグメント デザイナーを使用すると、マーケティング担当者とビジネス アナリストはセグメントをより簡単かつ効率的に作成できます。</span><span class="sxs-lookup"><span data-stu-id="20423-104">The improved segment designer enables marketers and business analysts to create segments more easily and efficiently.</span></span> <span data-ttu-id="20423-105">新しいビジネス中心の演算子のホストにより、ビジネス ユーザーは複雑なビジネス中心のマーケティング セグメントをよりシンプルに作成できるようになり、ターゲットを絞ったマーケティングのためのセグメントを簡単に作成できます。</span><span class="sxs-lookup"><span data-stu-id="20423-105">A host of new business-centric operators will make it simpler for business users to create complex, business-centric marketing segments, allowing them to easily create segments for targeted marketing.</span></span>
 

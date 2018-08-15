@@ -12,15 +12,17 @@ ms.technology:
 ms.author: adiregev
 audience: 
 ms.translationtype: HT
-ms.sourcegitcommit: e4d721713b70d0a9cfeb06d0f795f23d3f0223a5
-ms.openlocfilehash: 27189b31a8a02522215a3a3009ac86f3b4e88f41
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 04397101b7483a5275a37f07dfbe4db527d095e8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/27/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="linked-entities-public-preview"></a><span data-ttu-id="ed73a-103">リンクしているエンティティ (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="ed73a-103">Linked entities (Public Preview)</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="ed73a-104">Power BI は、エンティティを複製することなくデータフロー間でリンクできるようにします。</span><span class="sxs-lookup"><span data-stu-id="ed73a-104">Power BI makes it possible to link entities from one dataflow to another without duplicating them.</span></span>
 <span data-ttu-id="ed73a-105">リンクしているエンティティは、新しいエンティティの変換、強化、または計算に使用できます。</span><span class="sxs-lookup"><span data-stu-id="ed73a-105">Linked entities can be used in the transformation, enrichment, or calculation of new entities.</span></span>

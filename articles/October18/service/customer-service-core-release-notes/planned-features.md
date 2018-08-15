@@ -11,15 +11,15 @@ ms.technology:
 ms.author: krbjoran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 605d35d0a5454d99e34d93280b441875221caedb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6d67d817ba723ae1c0358fb859b4d58672d87f9a
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="summary-of-whats-new-in-dynamics-365-for-customer-service"></a><span data-ttu-id="289af-103">Dynamics 365 for Customer Service の新機能の概要</span><span class="sxs-lookup"><span data-stu-id="289af-103">Summary of what's new in Dynamics 365 for Customer Service</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | <span data-ttu-id="289af-104">機能</span><span class="sxs-lookup"><span data-stu-id="289af-104">Feature</span></span>                                                                                               | <span data-ttu-id="289af-105">リリースの種類</span><span class="sxs-lookup"><span data-stu-id="289af-105">Release type</span></span>   | <span data-ttu-id="289af-106">目標リリース月</span><span class="sxs-lookup"><span data-stu-id="289af-106">Target release month</span></span> |
 |-------------------------------------------------------------------------------------------------------|----------------|----------------------|

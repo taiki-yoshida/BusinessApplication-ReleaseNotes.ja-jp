@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9aded557923aa19af95eafe356d81ced9daf6e2e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 6e78e6634e5947175568dcb08346777606556d1e
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="payment-connector"></a><span data-ttu-id="86a59-103">支払いコネクタ</span><span class="sxs-lookup"><span data-stu-id="86a59-103">Payment connector</span></span>
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="86a59-104">Adyen 支払いサービスに対する新しいオムニチャネル "標準" 支払いコネクタが使用可能になり、Retail Modern POS および (ハードウェア ステーションを介した) クラウド POS 向けの貸方/借方 (EMV) "カード介在" 支払い処理と、E コマース/コール センター向けの "カード不介在" 支払い処理が提供されます。</span><span class="sxs-lookup"><span data-stu-id="86a59-104">A new omni-channel “out of the box” payment connector to Adyen payment services is available, providing credit/debit (EMV) “card present” payment processing for Retail Modern POS and Cloud POS (through hardware station), and “card not present” payment processing for e-commerce/call center.</span></span> <span data-ttu-id="86a59-105">共有オムニチャネル トークンにより、オンライン購入や店舗での受け取りまたは返品などのシームレスなフローが可能になります。</span><span class="sxs-lookup"><span data-stu-id="86a59-105">The shared omni-channel token enables seamless flows such as buy online and pick up or return in store.</span></span>
 

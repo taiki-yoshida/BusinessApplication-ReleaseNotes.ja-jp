@@ -12,16 +12,18 @@ ms.technology:
 ms.author: sunayv
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: e4add978cddf81453e7f128e1f4ef49c0b26d505
-ms.openlocfilehash: 91620c92f1f2e025e3653b1a56638f0d62ec2ffb
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: fd5732d9f38f3a6b0b75a9903616a9d252428cf1
 ms.contentlocale: ja-jp
 ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="flow-checker"></a><span data-ttu-id="a5507-104">フロー チェッカー</span><span class="sxs-lookup"><span data-stu-id="a5507-104">Flow checker</span></span>
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="a5507-105">**フロー チェッカー**機能は、フローの作成中に役に立ちます。</span><span class="sxs-lookup"><span data-stu-id="a5507-105">The **Flow checker** feature will help you while you build your flows.</span></span> <span data-ttu-id="a5507-106">設計時にエラーを確認し、過去の実行で発生した可能性があるエラーを検索することもできます。</span><span class="sxs-lookup"><span data-stu-id="a5507-106">It will check for errors at design time and will also look for errors that may have occurred on past runs.</span></span> 
 

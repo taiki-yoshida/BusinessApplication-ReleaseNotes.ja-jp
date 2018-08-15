@@ -11,16 +11,18 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 462bc49381f27da321a49d364ec5bfe83ee8f3b7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 8234e98ebd468828d3a91b30f0beaa9d5c521758
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="scheduled-guide-send"></a><span data-ttu-id="e20ba-103">ガイド送信スケジュール</span><span class="sxs-lookup"><span data-stu-id="e20ba-103">Scheduled guide send</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="e20ba-104">1 回クリックするだけで、開始日より前、開始日当日、または開始日より後に新規採用者にガイドを自動的に送信します。</span><span class="sxs-lookup"><span data-stu-id="e20ba-104">Automatically send guides to new hires before, on, or after their start date with just a click.</span></span> <span data-ttu-id="e20ba-105">マネージャーの干渉を減らし、すべてのガイドが送信されるようにします。</span><span class="sxs-lookup"><span data-stu-id="e20ba-105">Reduce friction for managers and ensure that every guide is sent.</span></span>
 

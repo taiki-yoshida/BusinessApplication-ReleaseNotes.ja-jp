@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: c3d5985c72fb6ab7919e791f8023a16b013645dd
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 156a03a3f60352254cf4172edc5438fbf392f710
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="remote-configuration-for-power-bi-report-server"></a><span data-ttu-id="2b620-103">Power BI Report Server のリモート構成</span><span class="sxs-lookup"><span data-stu-id="2b620-103">Remote configuration for Power BI Report Server</span></span>
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 <span data-ttu-id="2b620-104">Power BI Report Server の接続詳細を手動で定義することは、多くのビジネス ユーザーにとって有用です。</span><span class="sxs-lookup"><span data-stu-id="2b620-104">Manually defining Power BI Report Server connection details is not trivial for most business users.</span></span> <span data-ttu-id="2b620-105">この機能を使用すると、組織でモバイル デバイスを管理する IT 管理者や、Power BI アプリを管理する Power BI 管理者は、Power BI Report Server の構成を Enterprise Mobility Management (EMM) 組織ツールで定義できます。</span><span class="sxs-lookup"><span data-stu-id="2b620-105">With this feature, IT administrators who manage mobile devices in the organization, or Power BI administrators who manage Power BI apps, will be able to define Power BI Report Server configurations in their Enterprise Mobility Management (EMM) organizational tool.</span></span> 
 

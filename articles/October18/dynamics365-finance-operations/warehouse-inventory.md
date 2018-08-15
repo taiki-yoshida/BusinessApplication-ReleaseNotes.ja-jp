@@ -11,15 +11,17 @@ ms.technology:
 ms.author: shylaw
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 117b772d02dc46897d61755c78f0d0e5fd4beea1
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 110b2a088d4ed06cd149484032ce3774ea9c920c
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="general-enhancements-in-operations-functionality"></a><span data-ttu-id="10cc9-103">オペレーション機能の全般的な機能強化</span><span class="sxs-lookup"><span data-stu-id="10cc9-103">General enhancements in operations functionality</span></span>
-[!include[banner](../../includes/banner.md)]
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
 
 <span data-ttu-id="10cc9-104">今回のリリースでは、倉庫管理に関連する以下の機能が改善されています。</span><span class="sxs-lookup"><span data-stu-id="10cc9-104">This release includes improvements to the warehouse area, including:</span></span>
 

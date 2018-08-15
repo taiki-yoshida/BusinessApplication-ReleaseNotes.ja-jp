@@ -12,15 +12,17 @@ ms.technology:
 ms.author: nenandw
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 73431db3abd70fa8360ba3553ea96a2b60f3784e
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b9cfe89ab82c7a65c815af3958df4377b38af0ad
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="embed-power-bi-visualizations"></a><span data-ttu-id="43c29-103">Power BI 視覚エフェクトの埋め込み</span><span class="sxs-lookup"><span data-stu-id="43c29-103">Embed Power BI visualizations</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 <span data-ttu-id="43c29-104">[Power BI](https://powerbi.microsoft.com) は、シンプルな対話型の視覚エフェクトを使用して分析情報を提供する最も優れたツールの 1 つです。</span><span class="sxs-lookup"><span data-stu-id="43c29-104">[Power BI](https://powerbi.microsoft.com) is one of the best tool to deliver insights with simple and interactive visualization.</span></span> <span data-ttu-id="43c29-105">ポータル ユーザーに対して有効にする Power BI の機能とユース ケースの検討において、この機能は現在も最も投票数の多いアイデアの 1 つです。</span><span class="sxs-lookup"><span data-stu-id="43c29-105">Considering Power BI features and the use cases it enables for portal users, this feature remains one of the top-voted ideas.</span></span> <span data-ttu-id="43c29-106">現在、セキュリティで保護された Power BI レポートをポータルに簡単に埋め込む方法はないので、この機能があれば Dynamics 365 Portal と Power BI の統合の効率が上がります。</span><span class="sxs-lookup"><span data-stu-id="43c29-106">Currently, there is no easy way to embed secure Power BI reports in a portal, and with this feature we will be streamlining Dynamics 365 Portal and Power BI integration.</span></span>

@@ -11,16 +11,16 @@ ms.author: mhart
 manager: AnnBe
 topic-status: Drafting
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 96879cf77a50e92c15ea54d254564db7510ad5b5
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d64c190810a92b09266cb356f25264cca740b746
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="summary-of-whats-new-in-microsoft-social-engagement"></a><span data-ttu-id="c3618-103">Microsoft Social Engagement の新機能の概要</span><span class="sxs-lookup"><span data-stu-id="c3618-103">Summary of what's new in Microsoft Social Engagement</span></span>
 
-[!include[banner](../../includes/banner.md)]
+
 
 | <span data-ttu-id="c3618-104">機能</span><span class="sxs-lookup"><span data-stu-id="c3618-104">Feature</span></span>                                                                                     | <span data-ttu-id="c3618-105">リリースの種類</span><span class="sxs-lookup"><span data-stu-id="c3618-105">Release type</span></span> | <span data-ttu-id="c3618-106">目標リリース月</span><span class="sxs-lookup"><span data-stu-id="c3618-106">Target release month</span></span> |
 |---------------------------------------------------------------------------------------------|--------------|----------------------|

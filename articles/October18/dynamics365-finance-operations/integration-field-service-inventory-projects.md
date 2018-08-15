@@ -11,15 +11,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin, developer, end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 9e514bd14d6fe6091f1f3205a39dd56e4820ec73
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 18cabd0b981b829a6f84783894f29722aef1c2bd
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a><span data-ttu-id="1cc02-103">Dynamics 365 for Field Service との統合 - 在庫とプロジェクト</span><span class="sxs-lookup"><span data-stu-id="1cc02-103">Integration with Dynamics 365 for Field Service – inventory and projects</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 <span data-ttu-id="1cc02-104">CDS データ統合との統合は、Field Service 活動が Dynamics 365 for Finance and Operations の外部で行われるシナリオをサポートするために提供されます。</span><span class="sxs-lookup"><span data-stu-id="1cc02-104">Integration with CDS data integration will be provided to support scenarios where Field Service activities are done outside of Dynamics 365 for Finance and Operations.</span></span>
 

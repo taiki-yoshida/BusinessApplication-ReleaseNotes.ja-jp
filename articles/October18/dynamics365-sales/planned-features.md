@@ -11,10 +11,10 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 6a3589b7fc806a16724781b94f9bdf059c9dafb7
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 377c1aecf363fd79dc8fefb4d3425d46042da644
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
@@ -22,7 +22,7 @@ ms.lasthandoff: 07/18/2018
 
 <span data-ttu-id="52c0a-104">ここでは、2018 年 10 月から 2019 年 3 月の間に Dynamics 365 for Sales および Dynamics 365 AI for Sales アプリでリリースが計画されている機能の一覧を示します。</span><span class="sxs-lookup"><span data-stu-id="52c0a-104">This section lists the features planned for release between October 2018 and March 2019 in the Dynamics 365 for Sales and Dynamics 365 AI for Sales apps.</span></span> 
 
-[!include[banner](../../includes/banner.md)]
+
 
 | <span data-ttu-id="52c0a-105">機能</span><span class="sxs-lookup"><span data-stu-id="52c0a-105">Feature</span></span>                                                              | <span data-ttu-id="52c0a-106">リリースの種類</span><span class="sxs-lookup"><span data-stu-id="52c0a-106">Release type</span></span>   | <span data-ttu-id="52c0a-107">目標リリース月</span><span class="sxs-lookup"><span data-stu-id="52c0a-107">Target release month</span></span> |
 |----------------------------------------------------------------------|----------------|----------------------|

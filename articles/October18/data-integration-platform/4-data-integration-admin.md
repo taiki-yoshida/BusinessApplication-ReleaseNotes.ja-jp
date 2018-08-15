@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4ce5e1b70b3298621ce8b2a4ec064bdc6e742440
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b84ada8884b93f4cbc4a931890a47992e4acd074
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="enhanced-administrator-capabilities-for-data-integration"></a><span data-ttu-id="149f3-103">データ統合の強化された管理者機能</span><span class="sxs-lookup"><span data-stu-id="149f3-103">Enhanced administrator capabilities for Data Integration</span></span>
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="149f3-104">2018 年 10 月のリリースに関するお客様からの上位の質問。</span><span class="sxs-lookup"><span data-stu-id="149f3-104">Top asks from our customers in the October ’18 release.</span></span>
 

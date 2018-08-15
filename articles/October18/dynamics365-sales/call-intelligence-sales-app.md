@@ -11,17 +11,19 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 50966aceffa0bd1614235b7f3a88b5aeb3844b7d
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 66dbe72e21762bb880fa2ec16781951fd213e146
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a><span data-ttu-id="e8a47-103">コール センターの AI を使用したインサイド セールスの変換</span><span class="sxs-lookup"><span data-stu-id="e8a47-103">Transform inside sales using AI in the call center</span></span>
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 <span data-ttu-id="e8a47-104">Microsoft のコール インテリジェンス オファリングは、よりスマートなコーチングを可能にして、営業の変換率を促進します。</span><span class="sxs-lookup"><span data-stu-id="e8a47-104">The Microsoft call intelligence offering enables smarter coaching to boost sales conversion rates.</span></span> <span data-ttu-id="e8a47-105">コール センターの電話録音システムをアプリに接続することにより、コール センター管理者は組織の既存資産から価値を取り出す会話の分析情報を生成できます。</span><span class="sxs-lookup"><span data-stu-id="e8a47-105">By connecting call center telephony recording systems to the app, call center managers can generate conversation insights that bring value from the organization’s existing assets.</span></span>

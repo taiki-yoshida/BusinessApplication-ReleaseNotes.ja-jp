@@ -11,16 +11,18 @@ ms.technology:
 ms.author: willthom
 audience: end user, business analyst
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: eca055d1b918d7ef967a82557c136575e4baadb3
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: d3c4231f8bfc85900ee190052095d96746e94d86
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="ad-hoc-exploration-public-preview"></a><span data-ttu-id="4799e-103">アドホック探索 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="4799e-103">Ad-hoc exploration (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="4799e-104">レポートやダッシュボードのユーザーの多くは、見ているビジュアルについてさらに質問したいことがあります。</span><span class="sxs-lookup"><span data-stu-id="4799e-104">Many report or dashboard consumers find themselves with follow-up questions for the visuals they see.</span></span> <span data-ttu-id="4799e-105">軸や形式を変えたり、新しいフィルターを適用したりして、すばやくグラフを表示する必要があります。</span><span class="sxs-lookup"><span data-stu-id="4799e-105">They need to quickly look at a chart along a different axis, in a different format, or with a new filter applied.</span></span> <span data-ttu-id="4799e-106">アドホック探索画面を使うと、完全なレポート作成エクスペリエンスに圧倒されたり、レポートの編集アクセス許可を要求されたりすることなく、これらの質問への回答を柔軟に得ることができます。</span><span class="sxs-lookup"><span data-stu-id="4799e-106">The ad-hoc exploration surface gives this user the flexibility to answer these questions without overwhelming them with the full report authoring experience, and without the need to have edit permissions to the report.</span></span> 
 

@@ -12,15 +12,17 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: b7366349bf55b12efb7f5fc3e58d1f32e22358b0
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: 11bd0d12c3cbd316808a0cf98927c046a93de412
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="custom-visual-support-for-report-tooltips"></a><span data-ttu-id="a212b-103">レポート ツールヒントのカスタム ビジュアル サポート</span><span class="sxs-lookup"><span data-stu-id="a212b-103">Custom visual support for report tooltips</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 <span data-ttu-id="a212b-104">カスタム ビジュアルは、Power BI Desktop およびサービスでの[レポート ツールヒント](https://docs.microsoft.com/power-bi/desktop-tooltips)をサポートします。</span><span class="sxs-lookup"><span data-stu-id="a212b-104">Custom visuals will support [report tooltips](https://docs.microsoft.com/power-bi/desktop-tooltips) in the Power BI Desktop and service.</span></span>
 

@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: e563163c42c593c6d43ec283ec0cb823fad6f1aa
-ms.openlocfilehash: fc691ccd4ab81dd6933356d27eb081158e67ab96
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f4af53021253d0e491d19fa6e782cb638751efe6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/08/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="videos-in-marketing-content"></a><span data-ttu-id="18cf5-103">マーケティング コンテンツのビデオ</span><span class="sxs-lookup"><span data-stu-id="18cf5-103">Videos in marketing content</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="18cf5-104">活字のコンテンツよりも視聴覚コンテンツを好む消費者が増えていることを受け、企業のマーケティング担当者は、会社のキャンペーンやアウトリーチ戦略にビデオを統合するようになりました。</span><span class="sxs-lookup"><span data-stu-id="18cf5-104">Growing audience preference for audio/visual over written content has pushed marketers to start integrating video into their campaign and outreach strategies.</span></span> <span data-ttu-id="18cf5-105">Dynamics 365 for Marketing では、マーケティング ページや電子メールにビデオ コンテンツを追加するための機能が提供されています。</span><span class="sxs-lookup"><span data-stu-id="18cf5-105">Dynamics 365 for Marketing paves the way for video content to be added to marketing pages and emails.</span></span>
 

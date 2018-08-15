@@ -11,15 +11,17 @@ ms.technology:
 ms.author: tbisaacs
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bb31fc7d0aef118d6e32e7b32a39512d74dbd8ed
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: b5bb0b65f462763d017203c79a86b53a42422d23
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 #  <a name="onboarding-teams"></a><span data-ttu-id="12a54-103">チームのオンボーディング</span><span class="sxs-lookup"><span data-stu-id="12a54-103">Onboarding teams</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 <span data-ttu-id="12a54-104">部署リーダーは、チームや部門のメンバーを定義して、レポート、コラボレーション、コンテンツ共有を効率化できます。</span><span class="sxs-lookup"><span data-stu-id="12a54-104">Department leaders can define their team or department members to streamline reporting, collaboration, and content sharing.</span></span>
 

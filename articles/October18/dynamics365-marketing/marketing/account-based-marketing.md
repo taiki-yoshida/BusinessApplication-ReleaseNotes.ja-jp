@@ -11,16 +11,18 @@ author: MargoC
 ms.author: margoc
 manager: AnnBe
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 981697b5186eb13f370ad7bbe9caa29b85a006b9
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: e53779accf31c326ab69635a186f0b5a7df2ad50
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 # <a name="account-based-marketing"></a><span data-ttu-id="6cfbc-103">アカウント ベースのマーケティング</span><span class="sxs-lookup"><span data-stu-id="6cfbc-103">Account-based marketing</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 <span data-ttu-id="6cfbc-104">アカウント ベースのマーケティングでは、企業間 (B2B) マーケティング担当者は Dynamics 365 for Marketing を使って各ビジネス アカウントを 1 つの単位として対象にし、それによって営業部門とマーケティング部門間の統合と意思統一を強化することができます。</span><span class="sxs-lookup"><span data-stu-id="6cfbc-104">With account-based marketing, business-to-business (B2B) marketers can use Dynamics 365 for Marketing to target each business account as a single unit, thus increasing integration and alignment between the sales and marketing departments.</span></span>
 

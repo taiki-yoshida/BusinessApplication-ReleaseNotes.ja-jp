@@ -11,16 +11,18 @@ ms.technology:
 ms.author: litran
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 8165484eed7d7ccc3ff3b6aafd293433b166a683
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: f19f0833790bb1226528326c2da55f6f5e44f3ba
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a><span data-ttu-id="23660-103">PowerApps からのソリューションの検索と操作がより簡単に</span><span class="sxs-lookup"><span data-stu-id="23660-103">Easier to find and work with solutions from PowerApps</span></span>
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 <span data-ttu-id="23660-104">PowerApps のソリューション リストにアクセスすることで、ソリューションをより簡単に扱えます。</span><span class="sxs-lookup"><span data-stu-id="23660-104">You can work with solutions more easily by accessing the solution list in PowerApps.</span></span> <span data-ttu-id="23660-105">必要なソリューションを探し、それを開き、ソリューション エクスプローラーでソリューションのコンポーネントを検索できます。</span><span class="sxs-lookup"><span data-stu-id="23660-105">You can locate the solution that you need, open it, and search for a solution's component in the Solution Explorer.</span></span> <span data-ttu-id="23660-106">ソリューション内のコンポーネントを管理するために、従来のソリューション エクスプローラーにアクセスする必要はありません。</span><span class="sxs-lookup"><span data-stu-id="23660-106">You don't need to access the classic Solution Explorer to manage the components within a solution.</span></span>
 

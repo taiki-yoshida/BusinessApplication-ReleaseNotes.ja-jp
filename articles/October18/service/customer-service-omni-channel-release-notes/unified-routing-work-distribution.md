@@ -12,16 +12,18 @@ ms.technology:
 ms.author: margoc
 audience: Admin
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 858186ea47cd2226d5859e40ab82d6d744225480
+ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
+ms.openlocfilehash: c12c595760f4634e5ade6fff13c91554e57e4a3b
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/15/2018
 
 ---
 
 #  <a name="unified-routing-and-work-distribution"></a><span data-ttu-id="0f71e-103">統合されたルーティングと作業の配分</span><span class="sxs-lookup"><span data-stu-id="0f71e-103">Unified routing and work distribution</span></span> 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 <span data-ttu-id="0f71e-104">統合されたルーティング機能と作業配分機能を使用して、チャット、メッセージング、および Web ポータル チャネルから発生した作業項目を、組織内の複数の顧客サービス サポート チームにルーティングできます。</span><span class="sxs-lookup"><span data-stu-id="0f71e-104">Organizations can leverage the unified routing and work distribution capabilities to route work items originating from chat, messaging, and web portal channels to different customer service support teams within the organization.</span></span> <span data-ttu-id="0f71e-105">構成インターフェイスを通じて、エージェントが処理する作業プロファイルを厳密に定義できます。</span><span class="sxs-lookup"><span data-stu-id="0f71e-105">Through the configuration interfaces, organizations can tightly define the work profile that their agents are supposed to handle.</span></span> <span data-ttu-id="0f71e-106">実行時には、エージェントの能力と利用可能性に基づいて、各エージェントへの作業の流れが自動化されます。</span><span class="sxs-lookup"><span data-stu-id="0f71e-106">During runtime, the system will automate the flow of work to various agents based on their capacity and availability.</span></span>
 
