@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="quick-setup-and-instant-insights-in-social-engagement"></a>Social Engagement のクイック セットアップと即時の分析情報
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 ソーシャル メディアは、成功するマーケティング、顧客サービス、コミュニティ管理の一部になりました。 ブランドがソーシャル メディアでどの程度認知されているかの監視、測定、管理は、そのブランドの成功に不可欠です。 ブランドのソーシャル プレゼンスに関する専門的な対応の開始が企業にとっての課題となることがあります。 多くのプロフェッショナル ツールの使用開始はコンサルティングとトレーニングに依存します。
 

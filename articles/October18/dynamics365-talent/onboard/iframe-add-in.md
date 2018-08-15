@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="iframe-add-in"></a>iFrame アドイン 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 他の Web サイトまたは Office Forms をオンボーディング ガイドに含めるための新しいアドイン。 このアドインは、アンケートや調査を埋め込むのに役立ちます。
 

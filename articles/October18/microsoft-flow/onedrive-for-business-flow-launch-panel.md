@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-flow-launch-panel"></a>OneDrive for Business のフロー起動パネル
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 [SharePoint のフロー起動パネル](https://flow.microsoft.com/en-us/blog/introducing-flow-launch-panel-in-sharepoint-lists-and-libraries/)と同様に、ユーザーは、選択したファイルに対して OneDrive for Business からフローを実行できます。 これにより、呼び出し元は、特に IT によって作成されたフローに対して自分の資格情報を取り込むことができ、Approver や Message のように実行時の入力 (Text、File、Email、Boolean、Number の型) のプロンプトを表示できます。 
 

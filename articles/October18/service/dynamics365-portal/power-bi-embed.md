@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="embed-power-bi-visualizations"></a>Power BI 視覚エフェクトの埋め込み
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 [Power BI](https://powerbi.microsoft.com) は、シンプルな対話型の視覚エフェクトを使用して分析情報を提供する最も優れたツールの 1 つです。 ポータル ユーザーに対して有効にする Power BI の機能とユース ケースの検討において、この機能は現在も最も投票数の多いアイデアの 1 つです。 現在、セキュリティで保護された Power BI レポートをポータルに簡単に埋め込む方法はないので、この機能があれば Dynamics 365 Portal と Power BI の統合の効率が上がります。

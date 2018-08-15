@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="auto-save"></a>自動保存
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 作業を保存したり失ったりすることを心配する必要はもうありません。 オンボーディング ガイドとテンプレートは作業として自動的に保存されます。
 

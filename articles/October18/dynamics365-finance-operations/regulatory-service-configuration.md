@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-dynamics-365-for-finance-and-operations---regulatory-services-configuration-service"></a>Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービス 
 
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Dynamics 365 for Finance and Operations - 規制サービス、構成サービスは、規制構成ツール (電子申告とも呼ぶ) が進化したものです。 構成サービスでは、複数のバージョンの Microsoft Dynamics 365 for Finance and Operations や、以前の Microsoft Dynamics AX バージョン (AX 2012 や AX 2009 (インドのみ) など) を使用しているパートナーやお客様が、共通サービスを使用して規制機能を 1 回だけ構成することができます。 構成サービスは、コード記述のないプログラミング アプローチを採用しています。これによりパワー ユーザーは、複数のアプリケーションでコードを記述しなくても、規制報告、電子請求書、支払い形式、および税規則についての法的要件を構成し、要件の頻繁な変更に効果的に対応できるようになります。 
 

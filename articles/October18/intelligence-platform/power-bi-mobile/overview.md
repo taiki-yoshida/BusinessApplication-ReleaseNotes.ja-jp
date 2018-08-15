@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-mobile"></a>Power BI Mobile
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Mobile アプリは、どのデバイス (Windows、iOS、Android) にもデータと分析情報をもたらし、ビジネス ユーザーが Power BI のライブ ダッシュボードに安全にアクセスし、レポートを表示できるようにします。
 

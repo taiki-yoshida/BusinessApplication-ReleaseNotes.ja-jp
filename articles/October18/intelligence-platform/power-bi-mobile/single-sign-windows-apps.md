@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="single-sign-on-for-windows-devices"></a>Windows デバイスに対するシングル サインオン 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI では、ビジネス ユーザーにシームレスなエクスペリエンスを提供するために、Windows オペレーティング システムからユーザー資格情報を取得し、それらを使用して Power BI にサインインするように構成できます。 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dataflows-on-premium-capacity-public-preview"></a>Premium 容量に対するデータフロー (パブリック プレビュー) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI 管理者は、データフローを含むワークスペースを Premium 容量に簡単に割り当てて、Power BI Premium サブスクリプションの一部として使用を管理できます。 容量が割り当てられると、データフローは Power BI Premium ストレージ (P1 ノードごとに 100 TB) および専用容量にアクセスできます。 管理者は、容量の使用状況を追跡し、ボトルネックを解決し、必要に応じて容量をスケールアップすることができます。
 

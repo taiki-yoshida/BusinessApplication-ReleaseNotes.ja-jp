@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="api-to-apply-and-change-report-themes-in-power-bi-embedded"></a>Power BI Embedded でレポートのテーマを適用および変更するための API
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 この新機能を使うと、アプリケーションで API を呼び出し、セッション レベルで埋め込みオブジェクトにレポート テーマを適用したり変更したりできます。 レポートのテーマを使用すると、会社の色や季節の色など、レポート全体に配色テーマを適用できます。 レポート テーマを適用すると、レポートのすべてのビジュアルが指定したテーマの色を使うようになります。
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="be-more-productive-with-quick-actions"></a>クイック アクションによる生産性の向上
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 顧客についてメモを取りながらアプリ内でインテリジェンス分析情報を取得します。 クイック アクションは、顧客との対話を分析して、実行できるアクションを提案します。 提案は、顧客をフォローアップするタスクの作成から顧客と会う予定の作成まで、多岐にわたります。

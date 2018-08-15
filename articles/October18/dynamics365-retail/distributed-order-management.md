@@ -20,10 +20,12 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="distributed-order-management"></a>分散型注文管理
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
 
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 小売り業者は、インテリジェントな分散型注文管理 (DOM) アルゴリズムを利用して、企業内での受注処理を最適化できるようになります。 DOM は、ルール、スコープ、配送方法を含むユーザー定義のプロファイルに基づいて、ウェアハウス、流通センター、店舗などから最適な実行場所を自動的に決定します。
 

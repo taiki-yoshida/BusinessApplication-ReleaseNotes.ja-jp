@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="schedule-board-split-view"></a>スケジュール ボードの分割ビュー
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 
 新しい画面を読み込んだり現在のコンテキストを失ったりすることなく、スケジュール ボードに関する情報にドリルダウンすることが必要なシナリオがあります。

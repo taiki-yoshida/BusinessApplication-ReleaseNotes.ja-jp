@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enable-an-application-to-programmatically-use-slicers"></a>アプリケーションがスライサーをプログラムで使用可能
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 スライサー API を使用すると、アプリケーションはセッション全体でユーザーが操作するスライサーを制御できます。 開発者はフィルター API と同じようにこの API を簡単かつ直感的に使用できます。 次の機能がサポートされています。
 

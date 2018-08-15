@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-report-server"></a>Power BI Report Server
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Report Server を使用すると、お客様は最新の Power BI レポートのメリットを享受しながら、政府機関や展開に関する固有の要件に準拠することができます。 Power BI Report Server の 2018 年 10 月更新プログラムでは、過去数か月間に Power BI Desktop でリリースされた機能の多くを利用することができます (メジャーに基づくドリルスルー、他の列に基づく条件付き書式など)。 
 

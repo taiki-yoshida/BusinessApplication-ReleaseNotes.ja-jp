@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="multi-geo-for-compliance-public-preview"></a>コンプライアンス対応マルチ地域 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 現在、Power BI は組織のデータを単一の地域に保存しています。 多くのお客様 (特に多国籍のさまざまな子会社や部署) には、地元の法令や自身の顧客との契約条件を満たすために特定のデータ所在地要件があります。
 

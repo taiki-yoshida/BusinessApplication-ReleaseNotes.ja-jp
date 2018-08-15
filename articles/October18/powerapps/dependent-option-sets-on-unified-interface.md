@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dependent-option-sets-on-unified-interface"></a>統一インターフェイス上の依存オプション セット
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 統一インターフェイスで依存オプション セットのコントロールを使用することにより、ユーザーはデータを迅速かつ正確に入力できるようになります。
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-dynamics-365-for-field-service-october-18-release"></a>Dynamics 365 for Field Service 2018 年 10 月リリースの概要
 
-[!include[banner](../../../includes/banner.md)]
+[!include[field-service banner](../../includes/field-service.md)]
+
+
 
 Microsoft Dynamics 365 for Field Service は、組織が顧客に差別化されたフィールド サービス エクスペリエンスを提供できるよう支援します。
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="configure-a-unit-of-time-for-estimating-work-on-project-tasks"></a>プロジェクト タスクでの作業を見積もるための時間単位の構成
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service では、プロジェクト タスクでの工数見積の時間単位として*時間*だけが使用されます。 世界の多くの領域では「作業日数」で見積が行われており、一般的な 1 作業日の時間数は国や地域ごとに独自の定義があります。 したがって、プロジェクトの納品を所有する部署に応じて、プロジェクトでの見積の単位の既定値を、その部署における作業日の定義に設定する必要があります。 
 

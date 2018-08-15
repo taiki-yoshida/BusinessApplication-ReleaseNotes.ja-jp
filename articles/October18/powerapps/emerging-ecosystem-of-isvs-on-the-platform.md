@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="emerging-ecosystem-of-isvs-on-the-platform"></a>プラットフォーム上の ISV エコシステムの強化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps とアプリ用 Common Data Service では、プラットフォーム上に作成された Microsoft のアプリやその他のソフトウェア ベンダー製アプリのエコシステムが拡張されており、アプリ用 CDS 内でデータをネイティブに格納することができます。 機能拡張によるメリットは幅広いアプリケーションで享受でき、プラットフォーム上で世界クラスの SaaS アプリケーションを作成できるようになっています。 
 

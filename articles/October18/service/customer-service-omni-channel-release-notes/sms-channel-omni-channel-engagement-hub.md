@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="sms-channel"></a>SMS チャネル
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 SMS チャネルは、組織がタイムリーかつ便利な方法で顧客と接触し、対話するための優れたメカニズムです。
 

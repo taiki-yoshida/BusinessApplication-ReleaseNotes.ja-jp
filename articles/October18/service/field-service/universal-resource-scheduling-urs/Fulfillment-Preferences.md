@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="fulfillment-preferences"></a>フルフィルメントの基本設定
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 予定の予約にかかる時間を減らしながら、スケジュール担当者や顧客のエクスペリエンスを簡素化します。
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-for-india"></a>インドでのアップグレードと N-1 のサポート
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 インドの Microsoft Dynamics AX 2012 R3 の既存のお客様は、小売りソリューションを Dynamics 365 for Retail にアップグレードできるようになりました。 また、お客様は、アップグレード後に AX 2012 R3 POS を実行する店舗が Dynamics 365 for Retail 上の小売り用バックオフィスを操作できるようにする N-1 サポートを利用できます。
 

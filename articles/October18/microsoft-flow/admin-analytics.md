@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-analytics"></a>管理分析
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 企業内での Microsoft Flow の導入が拡大すると共に、お客様からは組織で Microsoft Flow がどのように使用されているのかについてもっとよくわかるようにして欲しいという要望が寄せられていました。 当初、管理者は実行、使用、共有、エラーの詳細に関する分析を探索できます。 今後、コネクタやパフォーマンスなど、他のデータのビジュアル化が徐々に追加されます。
 

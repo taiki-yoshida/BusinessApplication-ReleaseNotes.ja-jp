@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="entities-added-to-the-unified-interface"></a>統一インターフェイスに追加されたエンティティ
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 エンドユーザーは、統一インターフェイスでレコードの種類 (ユーザー、チーム、職位、通貨など) を編集および使用できます。 
 

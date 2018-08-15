@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="power-bi-custom-visuals"></a>Power BI カスタム ビジュアル
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI のビジュアルを使用すると、他のネイティブ Power BI ビジュアルと同様に使用できる、独自のビジュアルを開発できます。
 

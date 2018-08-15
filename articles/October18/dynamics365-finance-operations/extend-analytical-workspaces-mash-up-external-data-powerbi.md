@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="extend-analytical-workspaces-by-mashing-up-external-data-with-powerbicom"></a>PowerBI.com での外部データのマッシュアップによる分析ワークスペースの拡張
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 レポートのビジュアルとレイアウトの変更はクライアントでできますが、外部データのマッシュアップや計算の作成のような拡張シナリオの場合は、パワー ユーザーは独自の PowerBI.com サブスクリプションに分析ワークスペースを展開できます。
 Power BI をフルに活用して、Power BI モバイル アプリや Power BI Q&A 機能の使用など、レポートをカスタマイズすることができます。

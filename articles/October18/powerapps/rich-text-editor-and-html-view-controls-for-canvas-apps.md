@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="rich-text-editor-and-html-view-controls-for-canvas-apps"></a>キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 アプリ メーカーは、キャンバス アプリの新しいリッチ テキスト エディター コントロールを利用して、エンド ユーザーがテキストのスタイル設定、一覧の組み込み、リンクの挿入を行えるようにすることができます。  この新しいコントロールと HTML ビュー コントロールにより、アプリのエンド ユーザーは、アプリでの電子メールやレポートの編集などのシナリオに対してテキストのカスタマイズを完全に制御できます。 
 

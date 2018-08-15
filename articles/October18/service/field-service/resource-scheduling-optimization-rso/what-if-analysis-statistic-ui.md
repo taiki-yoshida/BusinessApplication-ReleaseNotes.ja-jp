@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="what-if-analysis-statistics"></a>what-if 分析の統計
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 RSO 管理者は、シミュレーション実行を利用して、最適化のスコープ (リソースを含める/除外する)、目標 (目標のランキングを並べ替える)、およびその他のパラメーターを調整し、定期的なスケジュールをロックダウンする前に、最適化の結果を確認することができます。 また管理者は、分析統計によって最適化をさらに詳細に評価し、シミュレーション実行と既存の予約を比較できます。
 

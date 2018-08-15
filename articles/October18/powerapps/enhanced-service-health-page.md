@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-service-health-page"></a>サービス正常性ページの強化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 すべてのユーザーがハイ レベルでサービスを表示でき、管理センターでは顧客リソースの詳細が提供されます。
 

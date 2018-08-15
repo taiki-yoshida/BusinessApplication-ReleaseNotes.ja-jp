@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="south-america"></a>南米
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow で南米地域を取り扱えるようになりました。 つまり、ユーザーは南米地域で環境を作成できるようになり、すべてのフロー顧客データが南北アメリカ地域内だけで保持されるようになります。 データの保存に関する Microsoft の取り組みについて詳しくは、[Microsoft Flow の Microsoft セキュリティ センター ページ](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location)を参照してください。
 

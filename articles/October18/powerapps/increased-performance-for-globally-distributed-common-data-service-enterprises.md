@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>グローバルに分散したアプリ用 Common Data Service エンタープライズのパフォーマンスの向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 多くの場所に分散し、ネットワーク レイテンシーを経験するエンドユーザーにとって、データ センター関連で場所に関係なくパフォーマンスが一貫して高速になっています。
 

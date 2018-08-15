@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sharepoint-remind-me"></a>SharePoint リマインダー
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 リストやライブラリに日時列がある場合、ユーザーは選択された列の日付に基づいてアラートを送信するフローをすばやくプロビジョニングできます。 
 

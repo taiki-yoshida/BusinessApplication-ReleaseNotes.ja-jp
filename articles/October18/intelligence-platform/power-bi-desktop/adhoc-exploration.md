@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="ad-hoc-exploration-public-preview"></a>アドホック探索 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 レポートやダッシュボードのユーザーの多くは、見ているビジュアルについてさらに質問したいことがあります。 軸や形式を変えたり、新しいフィルターを適用したりして、すばやくグラフを表示する必要があります。 アドホック探索画面を使うと、完全なレポート作成エクスペリエンスに圧倒されたり、レポートの編集アクセス許可を要求されたりすることなく、これらの質問への回答を柔軟に得ることができます。 
 

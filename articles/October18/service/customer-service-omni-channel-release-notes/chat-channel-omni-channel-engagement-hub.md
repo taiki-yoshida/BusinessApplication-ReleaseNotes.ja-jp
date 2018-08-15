@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="live-chat-channel"></a>ライブ チャット チャネル 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 コンシューマー間の会話型メッセージに対する戦略的なシフトにより、電子メールや電話などの従来型顧客対話チャネルの枠を超えたサポートの追加が組織に奨励されてきました。 迅速に問題を解決できて顧客にとって便利なライブ チャットは、この新しいトレンドを推進するものの 1 つとして現れました。
 

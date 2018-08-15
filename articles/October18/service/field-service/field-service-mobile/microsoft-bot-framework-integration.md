@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="microsoft-bot-framework-integration"></a>Microsoft Bot Framework 統合
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 ほとんどのフィールド サービス作業には、特定の職務に対して繰り返される一連の同じ手順 (出張の作業指示書の状態の更新、作業指示書の指示を開く、作業指示書のサービス タスクの表示など) があります。 これらのタスクは、技術者にモバイル アプリケーションでのクリックを要求する代わりに会話やハンズフリーのエクスペリエンスにすることで能率化できます。 
 

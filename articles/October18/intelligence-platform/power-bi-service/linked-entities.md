@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="linked-entities-public-preview"></a>リンクしているエンティティ (パブリック プレビュー) 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI は、エンティティを複製することなくデータフロー間でリンクできるようにします。
 リンクしているエンティティは、新しいエンティティの変換、強化、または計算に使用できます。

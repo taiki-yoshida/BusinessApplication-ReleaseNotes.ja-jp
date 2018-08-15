@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="knowledge-article-recommendation"></a>ナレッジ記事のレコメンデーション 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 どのような顧客サービス組織でも、ナレッジ マネージメントはカスタマー エクスペリエンスとエージェントの生産性の向上に重要です。  この機能は、[Microsoft Text Analytics API](https://azure.microsoft.com/en-in/services/cognitive-services/text-analytics/) を利用して、すべての関連エンティティのデータに基づくナレッジ記事のレコメンデーションを提供します。 これにより、エージェントは関連する状況依存のナレッジ記事にすばやくアクセスできるので、サポート案件を迅速に解決できます。
 

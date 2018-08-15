@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="enhanced-sharepoint-forms-functionality"></a>SharePoint フォーム機能の強化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 SharePoint で PowerApps によってカスタマイズされたフォームは、作成が簡単で、見た目も優れています。 テーマ オプションにより、カスタム フォームは SharePoint に属するような外観となります。 PowerApps では、より簡単なスタイル作成、イメージのアップロード、リッチ テキスト編集だけでなく、ドキュメント ライブラリ、カスケード ドロップダウン、フィールドの条件付き表示も提供します。 サイトのゲスト ユーザーも、カスタム フォームを使用できます。
 

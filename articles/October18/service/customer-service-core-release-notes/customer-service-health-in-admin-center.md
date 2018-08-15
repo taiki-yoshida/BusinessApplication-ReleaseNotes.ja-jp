@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-health-in-one-admin-center"></a>One Admin Center での顧客サービスの正常性    
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 One Admin Center では、ネットワーク帯域幅、ネットワーク待ち時間、アプリの信頼性、パフォーマンスの測定に関する情報が提供され、サービスの正常性を監視できます。 また、既成コンポーネントとカスタマイズに要した時間の情報が提供されるので、組織および独立系ソフトウェア ベンダー(ISV) が実装の品質とコンプライアンスを評価するのに役立ちます。  
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-help-and-support-experience-in-flow-designer"></a>フロー デザイナーへのヘルプとサポートのエクスペリエンスの統合
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザーは、support.microsoft.com にリダイレクトされるのではなく、製品 (Web サイトとモバイルの両方) 内から簡単にヘルプとサポートを利用できます。 ユーザーは、論理的な質問のセットに回答し、質問の詳細を提供することで (ハウツーの質問から、自分が作成したフローの具体的な実行失敗の選択まで)、発生している問題に絞り込むことができます。 
 

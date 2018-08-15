@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 新規および既存のエンドユーザーは、統一インターフェイスのランタイム時にコア コマンドにアクセスできます。 管理者は、組織レベルで、ユーザーのためにこれらのエクスペリエンスをオンまたはオフに切り替えられます。 
 

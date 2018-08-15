@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="multi-resource-scheduling"></a>複数リソースのスケジューリング
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 同日のスケジュールに対してリソースのグループを動的に招集して同時に集合させます。 リソースをチームにまとめて、オンサイトの顧客所在地で集合したり、リモートで連携したり、施設での予定を履行したりできます。
 

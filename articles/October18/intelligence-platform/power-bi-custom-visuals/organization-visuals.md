@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="organization-visuals"></a>組織のビジュアル
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 [組織のビジュアル](https://docs.microsoft.com/power-bi/power-bi-custom-visuals-organization)は、Power BI 管理者が組織内のカスタム ビジュアルの展開と管理に使用できる手段で、[Web に公開](https://docs.microsoft.com/power-bi/service-publish-to-web)、外部共有、ビジュアルを無効にする機能、および一覧の編集や更新がサポートされます。
 

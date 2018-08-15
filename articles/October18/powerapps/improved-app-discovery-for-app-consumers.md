@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-app-discovery-for-app-consumers"></a>アプリのコンシューマー向けのアプリの探索の向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 アプリ利用者は、PowerApps の統一ランディング ページを通じて自分および自分の組織のモデル駆動型アプリとキャンバス アプリを検索、プレビュー、実行して、素早く生産性を高めることができます。
 

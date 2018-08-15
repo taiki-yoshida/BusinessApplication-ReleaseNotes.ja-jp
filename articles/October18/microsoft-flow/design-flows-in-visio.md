@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="design-flows-in-visio"></a>Visio でのデザイン フロー
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Visio の豊富なモデリング機能を使用して、業務プロセスをキャプチャできます。 フローチャートまたは SharePoint のワークフローを作成するユーザーは、Visio を使用して Microsoft Flow のワークフローを設計できるようになりました。 Visio の共有およびコメント機能を使って、複数の関係者とコラボレーションし、短い時間で完全なワークフローを作成できます。 [ここで](https://powerusers.microsoft.com/t5/Flow-Ideas/Interactively-Build-Microsoft-WORKFlows-visually-in-Visio-Two/idi-p/54269)要求されているように、ワークフローを Microsoft Flow に発行した後、パラメーターを指定してアクティブ化できます。
 

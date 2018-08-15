@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="support-for-custom-messages"></a>カスタム メッセージのサポート
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザーは、インスタンスにインポートされたソリューションの一部になっているすべてのエンティティについて、メッセージをカスタマイズできるようになります。 このカスタム メッセージは、統一インターフェイス ランタイムの実行時にサポートされます
 

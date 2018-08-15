@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="retail-localizations-for-eastern-europe"></a>東ヨーロッパ向け Retail のローカライズ
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
+
+
 
 
 Microsoft Dynamics 365 for Retail では、東ヨーロッパの 6 か国 (チェコ共和国、エストニア、ハンガリー、ラトビア、リトアニア、ポーランド) の必須規制要件がサポートされるようになりました。 ローカル機能には、ローカル規制に従った会計における現金支払いの処理、小売り請求書の販売日の既定値の設定、小売り返品トランザクションでの税グループの置換、小売り請求書の番号付け、顧客注文手付金の前受金請求書の処理が含まれます。 これらの国のコール センター機能のローカライズは今後の更新プログラムで利用できるようになります。 

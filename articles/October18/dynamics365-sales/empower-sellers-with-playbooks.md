@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="empower-sellers-with-playbooks-guided-by-event-driven-sales-activities"></a>イベント駆動型営業活動によってガイドされるプレイブックでの販売担当者の支援
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Sales では**プレイブック**が導入されています。これは、組織が繰り返し可能な営業活動を自動化して外部イベントに対応するのを助ける新しい機能です。

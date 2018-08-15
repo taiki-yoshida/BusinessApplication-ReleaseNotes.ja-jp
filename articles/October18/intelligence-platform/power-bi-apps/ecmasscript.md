@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="ecmascript-support"></a>ECMAScript のサポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 2018 年 10 月のリリースでは、外部パッケージのきめ細かいサポートが可能な ECMAScript 2015 SU06 のサポートが開発ツールに導入されます。
 

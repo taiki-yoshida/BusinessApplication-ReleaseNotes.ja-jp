@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="iban-number-validation"></a>IBAN 番号の検証
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 IBAN 番号が検証されて、IBAN 番号の銀行口座番号が銀行口座フォームの口座番号と一致することを確認します。

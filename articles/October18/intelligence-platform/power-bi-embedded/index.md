@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-embedded"></a>Power BI Embedded
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI Embedded を使用すると、SaaS (サービスとしてのソフトウェア) アプリケーション開発者は、開発するアプリケーション内で Power BI 分析をシームレスに追加することができます。
 

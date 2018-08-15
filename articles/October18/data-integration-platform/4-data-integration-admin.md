@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-administrator-capabilities-for-data-integration"></a>データ統合の強化された管理者機能
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 2018 年 10 月のリリースに関するお客様からの上位の質問。
 

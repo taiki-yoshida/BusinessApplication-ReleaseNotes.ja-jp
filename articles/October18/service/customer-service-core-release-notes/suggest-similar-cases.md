@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="suggest-similar-cases"></a>類似サポート案件の提示  
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 初回のコンタクト時に最小限の時間で顧客サービス問題を解決することは、顧客満足度 (CSAT) の向上や運営コストの削減につながります。  通常、顧客サービス組織では、経験豊富な顧客サービス エージェントや内容領域専門家 (SME) が、類似する問題への対応を通じて培った知識や経験に基づいて、問題を迅速に解決します。 エージェントが専門外のサポート案件に遭遇した際に、専門のエージェントにサポート案件を転送したり、SME に相談したりしていると、顧客努力や通話処理時間が増加することになり、CSAT の低下につながります。  
 

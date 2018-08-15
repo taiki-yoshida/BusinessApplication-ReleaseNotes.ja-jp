@@ -20,7 +20,9 @@ ms.lasthandoff: 08/08/2018
 
 # <a name="videos-in-marketing-content"></a>マーケティング コンテンツのビデオ
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 活字のコンテンツよりも視聴覚コンテンツを好む消費者が増えていることを受け、企業のマーケティング担当者は、会社のキャンペーンやアウトリーチ戦略にビデオを統合するようになりました。 Dynamics 365 for Marketing では、マーケティング ページや電子メールにビデオ コンテンツを追加するための機能が提供されています。
 

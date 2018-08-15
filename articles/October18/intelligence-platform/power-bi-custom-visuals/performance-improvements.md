@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="performance-improvements"></a>パフォーマンスの向上
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 単一ビジュアルと複数ビジュアルのカスタム ビジュアル読み込み時間がコア ビジュアルと同程度になります。
 

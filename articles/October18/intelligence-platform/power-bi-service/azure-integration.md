@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-integration-public-preview"></a>Azure 統合 (パブリック プレビュー) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Azure Data Lake Storage Gen2 は、すべての有料 Power BI サブスクリプションに含まれます (ユーザー 1 人あたり 10 GB、P1 ノードあたり 100 TB)。 したがって、Azure Data Lake でセルフサービスのデータ準備を簡単に開始できます。  
 

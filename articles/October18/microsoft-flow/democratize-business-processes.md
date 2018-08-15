@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="democratize-business-processes"></a>業務プロセスの一般化
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 業務プロセスの近代化は Microsoft のビジネス アプリケーション プラットフォームの核心的ミッションの 1 つであり、Microsoft Flow は組織内の全ユーザーに業務プロセスを提供できるオファリングです。
 

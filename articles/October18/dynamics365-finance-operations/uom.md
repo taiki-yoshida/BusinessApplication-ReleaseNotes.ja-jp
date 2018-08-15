@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-of-measure-conversion-for-variant"></a>バリアントの測定単位換算
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 この機能は、倉庫管理システム全体を通じて、独自の現物分析コードと測定単位 (UOM) 換算を製品バリアント レベルで構成できるようにするものです。 現時点では、少数のシナリオしかサポートされていません。
 

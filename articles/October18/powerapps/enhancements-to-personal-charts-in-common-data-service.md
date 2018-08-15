@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="end-users-can-create-charts-and-share-them-with-other-users-and-teams"></a>エンドユーザーはグラフを作成して他のユーザーやチームと共有可能
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 個人用グラフを作成して、リアルタイムでデータをビジュアル化できます。 ユーザーはこれらのグラフを組織内の他のユーザーやチームと共有できます。 これらのグラフは高度にカスタマイズできます。複数のシリーズを追加し、幅広いビジュアルや集約から選択することもできます。
 

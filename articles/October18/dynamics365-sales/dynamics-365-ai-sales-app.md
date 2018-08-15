@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enhance-sales-performance-and-planning-with-the-dynamics-365-ai-for-sales-app"></a>Sales アプリ向け Dynamics 365 AI による営業のパフォーマンスとプランニングの強化
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Sales アプリ向けの新しい Dynamics 365 AI は、営業データから役に立つ分析情報を積極的かつ慣例的に提供することで、営業パフォーマンス分析から面倒な作業を取り除きます。 このアプリは、営業マネージャーが Dynamics 365 および他の営業アプリケーションで営業チームのパフォーマンスを評価および改善するのを助けます。 リレーションシップ正常性スコアを使用するチャーン測定とパイプライン予測により、営業リーダーは営業戦略をいっそう適切に最適化できます。

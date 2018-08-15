@@ -20,8 +20,11 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="using-edge-process-for-hosting-web-applications-in-unified-service-desk"></a>Edge プロセスを使用して Web アプリケーションを Unified Service Desk でホストする
 
+[!include[unified-service-desk banner](../../../includes/unified-service-desk.md)]
+[!include[customer-service-core-release-notes banner](../../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 管理者は、Webアプリケーションを Unified Service Desk で開くよう、Microsoft Edge ブラウザーを構成できるようになります。 これにより、Microsoft Edge の強力なパフォーマンスと信頼性を Unified Service Desk のユーザーに提供できるだけでなく、Microsoft Edge のような先進的なブラウザーならではのさまざまなメリットを提供できるようになります。 このプレビュー機能は、最新バージョンの Windows 10 オペレーティング システムにアップグレードされた展開でのみ使用できます。
 

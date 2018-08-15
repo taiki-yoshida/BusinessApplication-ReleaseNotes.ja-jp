@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-find-and-work-with-solutions-from-powerapps"></a>PowerApps からのソリューションの検索と操作がより簡単に
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps のソリューション リストにアクセスすることで、ソリューションをより簡単に扱えます。 必要なソリューションを探し、それを開き、ソリューション エクスプローラーでソリューションのコンポーネントを検索できます。 ソリューション内のコンポーネントを管理するために、従来のソリューション エクスプローラーにアクセスする必要はありません。
 

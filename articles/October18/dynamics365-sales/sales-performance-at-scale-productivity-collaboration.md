@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-dynamics-365-for-sales-october-18-release"></a>Dynamics 365 for Sales 2018 年 10 月リリースの概要
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Dynamics 365 for Sales を使用すると、大規模な生産性と AI 主導の分析を提供し、Microsoft エコシステム全体で連携が強化された統合を通じて営業チーム コラボレーションを最新化することで、デジタル トランスフォーメーションを実現できます。
 

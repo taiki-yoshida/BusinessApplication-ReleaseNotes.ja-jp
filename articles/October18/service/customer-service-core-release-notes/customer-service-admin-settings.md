@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customer-service-admin-settings"></a>Customer Service 管理設定 
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Dynamics 365 の顧客の主要な目標の 1 つは、業務プロセスをすばやく展開することです。 Service Management モジュールは、顧客サービス マネージャーが、さまざまな顧客サービス プロセスを自動化し、エージェントのターンアラウンド時間を短縮し、顧客満足を最善にするのに役立ちます。 Service Management は、パブリック キューまたはプライベート キューの構成、親子サポート案件設定のセットアップ、ルーティング規則の構成、自動レコード作成と更新ルールの構成、サービス レベル アグリーメント (SLA) のセットアップなど、顧客サービス タスクを構成して管理する機能を管理者に提供します。
 

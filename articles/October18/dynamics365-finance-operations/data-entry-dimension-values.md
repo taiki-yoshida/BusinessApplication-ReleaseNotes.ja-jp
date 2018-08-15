@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ease-of-data-entry-for-dimension-values"></a>ディメンション値のデータ入力の簡素化
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 ディメンションに顧客やベンダーなどのバッキング エンティティがある場合、ディメンションの値は関連付けられているフォームで入力された値に既定で設定されます。 たとえば、顧客ディメンションは顧客の作成時に使用された顧客の値に自動的に設定されます。 1 つ以上のディメンションを既定に設定できる新しいオプションを使用できます。 たとえば、コスト センターを入力するときに事業単位を既定に設定できます。
 

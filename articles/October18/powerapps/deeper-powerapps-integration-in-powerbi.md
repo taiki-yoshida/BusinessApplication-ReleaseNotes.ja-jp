@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="deeper-powerapps-integration-in-power-bi"></a>Power BI 内の PowerApps のより深い統合
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 BI 作成者は、運用ソリューションの Power BI レポート内で PowerApps を使用できます。 レポート作成者は、PowerApps から Power BI レポートを最新の情報に更新して、レポート内のデータ ウェアハウスをより多くの方法でトランザクション操作できます。  BI 作成者は、各自のアプリとレポートに簡略化された共有オプションを使用することもできます。
 

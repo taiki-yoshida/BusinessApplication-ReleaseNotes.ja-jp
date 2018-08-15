@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="retail-cloud-scale-unit"></a>Retail クラウド スケール ユニット
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Retail 展開トポロジには、Retail サーバー、クラウド POS サーバー、Commerce Runtime (CRT)、チャネル データベース コンポーネントをコア バック オフィスから分離する Retail クラウド スケール ユニット (RCSU) が含まれるようになりました。 これにより、チャネル固有のワークロードを別のスケール ユニットに分散することでシステムのあらゆる側面のパフォーマンスが向上します。 また、チャネル コンポーネントを個別に処理できるようになるので、ダウンタイムが短縮され、バック オフィスまたはチャネル要件に基づく調整が可能になります。
 

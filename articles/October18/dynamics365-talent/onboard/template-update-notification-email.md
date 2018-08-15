@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="template-update-notification-email"></a>テンプレート更新通知電子メール
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 ガイド作成者は、使用しているテンプレートが更新された際に、その通知を電子メールで自動的に受信できます。 受信者には、テンプレートの変更点を説明したダイジェスト電子メールが送られます。 
 

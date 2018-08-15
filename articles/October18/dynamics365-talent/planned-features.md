@@ -19,9 +19,11 @@ ms.lasthandoff: 08/03/2018
 ---
 # <a name="summary-of-whats-new-in-dynamics-365-for-talent"></a>Dynamics 365 for Talent の新機能の概要
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
+
 このトピックでは、2018 年 10 月から 2019 年 3 月の間に Microsoft Dynamics 365 for Talent でリリースが計画されている機能の一覧を示します。 
 
-[!include[banner](../../includes/banner.md)]
+
 
 
 ## <a name="attract"></a>Attract

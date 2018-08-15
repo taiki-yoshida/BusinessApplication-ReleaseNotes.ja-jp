@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 #  <a name="summary-of-whats-new-in-dynamics-365-portal"></a>Dynamics 365 Portal の新機能の概要
 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 | 機能                                                                           | リリースの種類   | 目標リリース月 |
 |-----------------------------------------------------------------------------------|----------------|----------------------|

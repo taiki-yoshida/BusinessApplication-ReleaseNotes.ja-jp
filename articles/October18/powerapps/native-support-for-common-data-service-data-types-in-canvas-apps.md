@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="native-support-for-common-data-service-data-types-in-canvas-apps"></a>キャンバス アプリでの Common Data Service データ型のネイティブ サポート
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 現在、一部の Common Data Service データ型のサポートは使用が制限されているか困難です。 オプションセット値はメーカー ポータルで手動で検索する必要があり、GUID は比較の問題の原因となる文字列を通じて処理されます。日付のみのフィールドと日時フィールドにはタイム ゾーンの問題があります。
 

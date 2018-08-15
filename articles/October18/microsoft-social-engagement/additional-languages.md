@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="additional-languages"></a>追加言語
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Microsoft Social Engagement は、データ収集、センチメント分析、カスタム タグのための言語を追加することで、新しいマーケットにリスニング機能を拡大しています。 
 

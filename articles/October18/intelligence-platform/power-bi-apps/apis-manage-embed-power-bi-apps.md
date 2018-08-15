@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="apis-to-manage-and-embed-power-bi-apps"></a>Power BI アプリの管理と埋め込みの API
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI だけでなく、API でも Power BI アプリの管理や埋め込みを行うことができるように拡張されます。
 

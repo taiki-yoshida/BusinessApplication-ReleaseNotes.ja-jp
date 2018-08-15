@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-apis-and-powershell-module"></a>管理 API と PowerShell モジュール
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 Power BI 管理 API を .NET SDK および PowerShell モジュールと共に使用すると、管理者は Power BI テナント内のアーティファクトを検出でき、管理操作を実行することもできます。 これらの新機能により、管理者は現在の Power BI 管理ポータルではできないことをできるようになる可能性があります。 これらの機能の一部は Power BI 管理ポータルにも徐々に組み込まれて、PowerShell を使わずに一般的なシナリオを遂行できるようになるものと思います。
 

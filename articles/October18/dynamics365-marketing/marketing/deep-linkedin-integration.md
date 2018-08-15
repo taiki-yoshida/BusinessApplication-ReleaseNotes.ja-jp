@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="deep-linkedin-integration"></a>LinkedIn の深い統合
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing は、プロフェッショナル ネットワークとリレーションシップからリードを生成するための LinkedIn の深い統合を提供します。 新しい統合機能では、LinkedIn でのターゲットを指定する体験を実行でき、オーケストレーション、スコアリング、セグメンテーションに結果の会話を利用できます。
 

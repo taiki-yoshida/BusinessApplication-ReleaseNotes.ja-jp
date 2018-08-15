@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="easier-to-configure-cascading-dropdowns-and-conditional-field-visibility"></a>カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 データの並べ替えやフィルター処理をより簡単にする機能向上により、SharePoint フォーム カスタマイザーは、カスケード ドロップダウンなど複雑なフォームの完了、または条件に基づいたフィールドの表示や非表示に向いています。 開発者は、インターフェイスを使用してこれらのシナリオを完了することも、式を引き続き記述することもできます。
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-retail-october-18-release"></a>Dynamics 365 for Retail 2018 年 10 月リリースの概要
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 for Retail の 2018 年 10 月リリースには、次のテーマが反映されています。 

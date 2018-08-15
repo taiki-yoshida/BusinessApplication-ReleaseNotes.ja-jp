@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalized-home-experience-public-preview"></a>パーソナライズされたホーム エクスペリエンス (パブリック プレビュー)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI に、新しいランディング エクスペリエンスであるホーム ページが導入されています。 Power BI アプリがサービスに応じて提供するホーム ビューを使用すると、ビジネス ユーザーは、関心のあるデータを簡単に確認したり、そのデータに簡単に移動して追加の調査を行ったりすることができます。
 

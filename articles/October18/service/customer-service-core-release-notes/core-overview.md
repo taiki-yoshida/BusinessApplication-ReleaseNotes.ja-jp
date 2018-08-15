@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-dynamics-365-for-customer-service-october-18-release"></a>Dynamics 365 for Customer Service 2018 年 10 月リリースの概要
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
+
+
 
 
 Dynamics 365 for Customer Service では、組織がユーザーに対して効率的で効果的な顧客サービスを提供できるようにするための機能を継続的に提供しています。 最新リリースでは、新しいエクスペリエンスによってユーザーの生産性を強化し、顧客サービス組織にアクション可能なインテリジェンスを提供して、運営効率を高められるように改良が加えられています。

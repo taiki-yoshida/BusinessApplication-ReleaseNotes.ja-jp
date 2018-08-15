@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="dataset-metadata-translations"></a>データセット メタデータ翻訳
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 データセットまたは Analysis Services モデルで翻訳が定義されていると、Power BI ユーザーに対してクライアントのローケールまたは言語でデータ セット フィールドが表示されます。
 

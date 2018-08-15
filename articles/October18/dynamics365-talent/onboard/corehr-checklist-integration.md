@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="corehr-checklist-integration"></a>CoreHR チェックリストの統合
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 HR プロフェッショナルは、CoreHR の管理チェックリスト項目を新しい採用のオンボーディング ガイドに自動的に含めることができます。
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="formula-bar-enhanced"></a>式バーの機能拡張 
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 キャンバス アプリは、フィルターやソートなどの関数を使って強力な式を構成して機能します。 結果は、ギャラリーなどのコントロールに直接送られ、さらに解析される場合があります。
 

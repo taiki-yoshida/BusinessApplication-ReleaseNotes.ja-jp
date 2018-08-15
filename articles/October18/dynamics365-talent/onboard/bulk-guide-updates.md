@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="bulk-update-guides"></a>ガイドの一括更新
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 マネージャーは、元のテンプレートから更新を「プッシュ」することによって、既に送信されているガイドを一括更新できます。
 

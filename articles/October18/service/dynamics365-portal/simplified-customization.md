@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="simplified-customization"></a>簡略化されたカスタマイズ
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 Dynamics 365 Portal のカスタマイズを簡略化するため、ポータルのカスタマイズ担当者と管理者の各ペルソナ用に機能強化が図られました。 直感的なエクスペリエンスによって、複雑なデータ モデルを抽象化し、ポータル カスタマイズの習得難度を緩和することで、ユーザー生産性の向上が図られています。 また、ペルソナに特化したツールが提供されることで、今後のリリースでのエクスペリエンス改善に向けた基盤が構築されることになります。

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-edit-entities-in-powerapps-studio-while-you-build-an-app"></a>アプリの構築中に PowerApps Studio でエンティティを作成および編集
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 アプリを作成または変更するとき、別のサイトを開くことなく PowerApps Studio でエンティティおよびオプション セットを作成および変更できます。
 

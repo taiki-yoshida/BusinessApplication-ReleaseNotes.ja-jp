@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="filtering-data-on-grids-coming-to-unified-interface"></a>統一インターフェイスでグリッド上のデータのフィルター処理が可能
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザーは、統一インターフェイスのランタイムで、読み取り専用グリッドのグリッド列において Excel のようなフィルタリング機能を使用できます。 これにより、使用しているグリットが読み取り専用か編集可能かに関係なく、ユーザーに一貫したフィルタリング エクスペリエンスが提供されます。
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="increase-sales-conversions-with-predictive-lead-scoring"></a>予測リード スコアリングで販売への転換を増やす
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Dynamics 365 予測リード スコアリングは、営業案件になる可能性に基づいてリードを 1 から 100 のスケールでスコアリングする、機械学習モデル ベースの予測スコアリング メカニズムです。 

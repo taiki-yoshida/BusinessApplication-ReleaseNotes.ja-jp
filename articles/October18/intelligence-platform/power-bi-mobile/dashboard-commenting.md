@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dashboard-level-commenting"></a>ダッシュボード レベルのコメント
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 ビジネス ユーザーがモバイル アプリから直接データについての会話を開始して参加できるようにします。 会話はダッシュボードまたはタイルにアタッチされ、それにアクセスできるすべてのユーザーが会話に寄与できます。 また、ユーザーは、他のユーザーが会話で自分に言及したときにモバイル プッシュ通知を受け取ることができ、すばやく最新の情報を得て、携帯電話から会話に返信できます。
 

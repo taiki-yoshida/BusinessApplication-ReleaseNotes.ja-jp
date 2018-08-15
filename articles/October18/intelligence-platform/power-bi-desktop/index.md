@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-desktop"></a>Power BI Desktop
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Desktop では、今回のリリースでもユーザーに新しい機能が提供されます。 基本性能を徹底的に改善した結果、大規模なエンタープライズ組織向けの新しいシナリオに対応できる可能性が広がりました。具体的には、レポート機能のアクセス性を改善したり、SAP との接続性を継続的に改善することが可能になりました。
 

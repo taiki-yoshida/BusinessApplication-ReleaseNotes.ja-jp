@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-omni-channel-engagement-hub-october-18-release"></a>Omni-channel Engagement Hub 2018 年 10 月リリースの概要 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
  
 Dynamics 365 の Omni-channel Engagement Hub は、Dynamics 365 for Customer Service の機能を拡張したクラウド ベースのサービスです。新たに導入されたチャネル (ライブ チャットと SMS) を通じて顧客とすばやくやり取りし、エンゲージメントを促進することができます。  
 

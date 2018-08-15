@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="building-the-platform"></a>プラットフォームの構築
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 最初に、Microsoft Flow はビジネス アプリケーション プラットフォーム全体に対する単一メーカー エクスペリエンスの一部です。 現在では、すべてのリソースに対する単一のセキュリティ モデルとソリューション管理に対する共通のアプローチという、共通の基礎概念があります。 メーカーがアプリケーションとフローを配布する方法は共通であり、メーカーはアプリ用 Common Data Service でのセキュリティ ロールに基づいて、組織でのワークフロー (繰り返しワークフローを含む) を共有できることを意味します。 ユーザー インターフェイスも統合されており、PowerApps Studio 内でフローを作成して呼び出すことができます。
 

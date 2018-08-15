@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="service-scheduling-powered-by-universal-resource-scheduling"></a>Universal Resource Scheduling によって機能強化されたサービス スケジュール設定  
 
+[!include[customer-service-core-release-notes banner](../../includes/customer-service-core-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 サービス スケジュール設定を使用すると、従業員、設備、および備品の利用可能性を考慮しながら、リソースの複雑な組み合わせを効率的にスケジュールできます。 従業員の作業負荷が予測可能になることで、サービス品質が改善され、予定を入れ過ぎることもなくなり、顧客やクライアントに対する時間見積の信頼性が確保されます。 
 

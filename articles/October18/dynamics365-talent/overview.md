@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-talent-october-18-release"></a>Dynamics 365 for Talent 2018 年 10 月リリースの概要
 
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dynamics 365 for Talent の 2018 年 10 月更新プログラムでは、申請者追跡システム (ATS) の機能や部門別オンボーディングのサポートが追加されたほか、給付金、従業員、組織の管理機能も新たに追加されています。 この最新リリースを使用することで、Dynamics パートナーは Talent を拡張し、アプリ用 Common Data Service (CDS) に追加機能を導入することができます。
 

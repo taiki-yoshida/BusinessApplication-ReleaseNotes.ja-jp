@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-hand-inventory-report-performance"></a>手持在庫レポートのパフォーマンス
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 現在の設計では大量のリアルタイム処理が必要なので、大量の製品とトランザクションを持つお客様は即時の手持在庫情報を得るのが困難です。 手持在庫を計算およびレポートする方法のリファクタリングにより、はるかに応答性の高いエクスペリエンスが実現されます。
 

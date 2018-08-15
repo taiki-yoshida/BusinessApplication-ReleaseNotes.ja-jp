@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="power-bi-embedded-integration-with-azure-service-health"></a>Power BI Embedded と Azure Service Health との統合 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Azure Service Health を使用して Power BI Embedded リソースの利用可能性を追跡する機能を追加しています。 Azure サービスの問題がビジネス クリティカルなリソースに影響する場合は、Azure Service Health によってユーザーおよびそのチームに通知されます。 問題の影響を把握し、問題が解決されたときに更新情報を得るのに役立ちます。 また、リソースの利用可能性に影響を与える可能性のある計画済みメンテナンスと変更に備えるのにも役立ちます。 
 

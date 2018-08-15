@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="licensing-enforcement-for-power-bi-apps"></a>Power BI アプリのライセンスの適用
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI アプリを収益化できることは、それらのアプリケーションを開発して市場に提供することへの主要な動機の 1 つです。 アプリケーションの開発者が設定したライセンスをプラットフォームによって適用して、不正使用や収益の損失を防ぐ必要があります。 ライセンスの適用は、アプリケーションのユーザーとして Azure Active Directory に登録されて管理されているユーザーに基づきます。
 

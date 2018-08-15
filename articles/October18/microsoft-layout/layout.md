@@ -27,7 +27,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="overview-of-microsoft-layout-october-18-release"></a>2018 年 10 月リリースの Microsoft Layout の概要
 
-[!include[banner](../../includes/banner.md)]
+
 
 Microsoft Layout では、コンセプトから完成までに信頼性が高く高速な空間デザインを取り入れることができます。 HoloLens または Windows Mixed Reality のイマーシブ ヘッドセットを使用して、現実空間に部屋のレイアウトを簡単に作成できます。 3D モデルとエクスペリエンス デザインを高品質なホログラムとしてインポートします。 リアルタイムで編集し、関係者がレビューします。  
 

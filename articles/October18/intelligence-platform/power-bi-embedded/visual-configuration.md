@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="visual-configuration-for-power-bi-embedded"></a>Power BI Embedded のビジュアル構成
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 ビジュアルは、アプリケーションの一部として統合される構成要素です。 そのため、Microsoft では、どのビジュアル機能やエクスペリエンスがエンドユーザーに公開されるかを、アプリケーションで制御できるようにしました。 既定では、すべての Power BI 機能が公開されます。
 

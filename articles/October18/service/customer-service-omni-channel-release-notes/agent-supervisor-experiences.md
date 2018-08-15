@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="agent-and-supervisor-experiences"></a>エージェントおよびスーパーバイザーのエクスペリエンス
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 **エージェント エクスペリエンス**
 

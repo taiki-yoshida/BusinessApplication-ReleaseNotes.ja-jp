@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="restrict-portal-access-by-ip-address"></a>IP アドレスからポータルへのアクセスの制限
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 セキュリティは、アプリケーションの重要な考慮事項であり、Dynamics 365 Portal などの外部に接続するアプリケーションにとってはより重要になります。 このリリースの一部として、お客様がポータルへのアクセスを特定の IP アドレスからのアクセスに制限できる機能を追加します。 これは、自社ポータルへのアクセスを社内ネットワークなどの固定の場所からのアクセスに制限しようとしている組織に役立ちます。 また、不正な構成が原因でデータがリークされることがないようにしたい、現在開発段階のお客様にも役立ちます。

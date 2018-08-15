@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="sync-specific-appointments-to-exchange"></a>特定の予定を Exchange に同期する
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 エンドユーザーは、Dynamics 365 で予定を作成し、それらを Exchange に対して同期せずに、下書きとして保存できます。
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-portal-october-18-release"></a>Dynamics 365 Portal 2018 年 10 月リリースの概要
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Dynamics 365 Portal を使用すると、Dynamics 365 のエンティティや機能を、顧客やパートナーなどの外部ユーザーに対して簡単に拡張することができます。 
 

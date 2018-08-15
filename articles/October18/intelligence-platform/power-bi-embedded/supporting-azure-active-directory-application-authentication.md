@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="azure-active-directory-application-authentication-public-preview"></a>Azure Active Directory アプリケーション認証 (パブリック プレビュー) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Embedded にアプリケーション認証が追加されます。 これにより、Power BI Embedded アプリケーションの展開、セキュリティ、およびアプリケーション ライフサイクル管理が強化されます。 現在、Power BI Embedded アプリケーションを作成するには、マスター ユーザー アカウントを作成し、そのアカウントの資格情報を保存した後、それらをアプリケーション コード内で使用して、Power BI への非対話型サインインを実行できるようにする必要があります。 Azure Active Directory では、ユーザー コンテキストを使用せず、アプリケーション自身の ID を使用するアプリケーション認証が特別にサポートされています。 アプリケーションのみの認証に対応して設計されたこのサポートは、制御性とセキュリティに優れ、制限事項も少ないため、推奨のアプローチとなっています。 
 

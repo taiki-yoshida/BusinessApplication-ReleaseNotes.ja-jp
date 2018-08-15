@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="general-usability-accessibility-and-styling-improvements-in-system-charts"></a>システム グラフにおける全般的な使いやすさ、アクセシビリティ、およびスタイル設定の改善
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 グラフが機能強化され、フォーム、ダッシュボード、およびグリッド間でのやり取りや機能の一貫性が改善されます。 ユーザーは、新しい 2 種類のグラフ (ドーナツとタグ) でデータを視覚化できます。 また、カスタマイズ担当者向けの機能強化として、全般的なアクセシビリティとスタイル設定が改善されます。
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="empower-citizen-developers"></a>一般開発者の支援
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 フローが失敗するたびに、完了していない重要な業務プロセスが存在する可能性があります。 そのため、Flow で最も厳しく複雑な顧客シナリオに対処できるよう、一般開発者がフローをより簡単かつ確実に作成して展開するのに役立つさまざまな機能が追加されています。 
 

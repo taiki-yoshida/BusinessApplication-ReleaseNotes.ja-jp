@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-for-sharepoint-admin-scenarios"></a>Flow for SharePoint の管理シナリオ
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 [このアイデア](https://powerusers.microsoft.com/t5/Flow-Ideas/Approval-of-SharePoint-Site-getting-joined-with-a-Hub-Site/idi-p/122808)で説明されているように、サイトの所有者は、ハブ サイトをテナントに参加させるときは常に、認証プロセスを作成して実行するように求められます。  さらに、自己サイトの作成を無効にしている組織では、ユーザーはサイトのプロビジョニングを要求でき、プロビジョニングの前に SharePoint 管理者への要求が開始されます。 
 

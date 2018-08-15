@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="auto-generated-contacts"></a>自動生成された取引先担当者
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 オンボーディング ガイドの [取引先担当者] 部分で、担当者とヘルパーが取引先担当者として自動的に追加されるようになります。
 

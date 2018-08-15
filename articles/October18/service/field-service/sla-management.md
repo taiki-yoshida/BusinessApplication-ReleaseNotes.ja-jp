@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="sla-management"></a>SLA 管理
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service では、サービス レベル アグリーメント (SLA) 機能も使用できるようになりました。これにより、顧客との SLA を確立し、SLA の詳細を作業指示書に入力できるようになります。 また、スケジュール設定プロセスで、SLA に基づく確約の内容を考慮できるようになります。
 

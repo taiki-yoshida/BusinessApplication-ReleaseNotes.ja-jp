@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 
 ---
 #  <a name="social-insights-in-dynamics-365-for-marketing"></a>Dynamics 365 for Marketing のソーシャル インサイト
+
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
  
-[!include[banner](../../includes/banner.md)]
+
 
 ソーシャル インサイトとは、Social Engagement からのデータを他 Dynamics 365 アプリで表示する、一連ウィジェットのことです。 2018 年 10 月リリースでは、ソーシャル インサイトで Dynamics 365 for Marketing のキャンペーンを追跡できるようになります。
 

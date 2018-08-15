@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-automatic-number-sequences"></a>自動番号順序の作成
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps では、数字が自動で生成されてアプリ用  Common Data Service のエンティティに適用されるよう、1 つ以上のシーケンスを定義できます。
 

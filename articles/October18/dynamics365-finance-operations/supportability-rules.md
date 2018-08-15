@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="supportability-rules"></a>サポート可能性のルール
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 準最適な設定や構成オプションを特定して調整するための追加ルールがシステムに追加されました。 例: 未使用の出荷条件の削除、未使用の支払条件の削除、期限切れまたは未使用の価格/割引販売と購買契約書の定期クリーンアップなど。
 

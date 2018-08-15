@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="overview-of-microsoft-powerapps-october-18-release"></a>Microsoft PowerApps 2018 年 10 月リリースの概要
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 PowerApps は、ブラウザー、携帯電話、タブレットで実行されるビジネス アプリを、コーディングなしで作成できるようにするサービスです。 PowerApps の[ドキュメント](https://docs.microsoft.com/powerapps/)では、PowerApps のさまざまな使用ニーズに対応した、専門的な情報や回答が提供されています。

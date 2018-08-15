@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-sales-team-collaboration-through-tight-integration-with-microsoft-teams"></a>Microsoft Teams との緊密な統合による営業チームのコラボレーションの変換
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 今日の営業担当者が属しているチームの数は、5 年前と比べて 2 倍に増えています。 取引をクローズするために、平均して 6 人の意志決定者および 16 人の同僚と共に働きます。 最近の営業環境では、より多くの人と共に、より多くのデータを使って、より速く共同作業することが必要です。 Microsoft Teams と Dynamics 365 の統合により、営業担当者がより効果的に共同作業するために必要な機能が 1 つにまとまります
  

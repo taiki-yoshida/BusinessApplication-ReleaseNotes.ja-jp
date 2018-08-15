@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="update-an-existing-power-bi-app-in-appsource"></a>AppSource で既存の Power BI アプリを更新する
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 アプリケーション ライフサイクル管理 (ALM) については、次の機能が提供されます。
 

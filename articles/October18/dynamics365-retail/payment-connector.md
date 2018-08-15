@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-connector"></a>支払いコネクタ
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Adyen 支払いサービスに対する新しいオムニチャネル "標準" 支払いコネクタが使用可能になり、Retail Modern POS および (ハードウェア ステーションを介した) クラウド POS 向けの貸方/借方 (EMV) "カード介在" 支払い処理と、E コマース/コール センター向けの "カード不介在" 支払い処理が提供されます。 共有オムニチャネル トークンにより、オンライン購入や店舗での受け取りまたは返品などのシームレスなフローが可能になります。
 

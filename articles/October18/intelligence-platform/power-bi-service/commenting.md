@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="commenting"></a>コメント
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 コンテキストを提供し、質問を行うための、レポートおよびダッシュボードでのコメント。 @mentions を使って、他のユーザーを会話に参加させることができます。 プッシュ通知と電子メールにより、自分について言及されている、または自分のコメントに関係する最新の返信を常に見ることができます。
 

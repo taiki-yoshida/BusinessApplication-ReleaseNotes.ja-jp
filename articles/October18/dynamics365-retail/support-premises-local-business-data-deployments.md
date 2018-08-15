@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-on-premises-local-business-data-deployments"></a>オンプレミス (ローカル ビジネス データ) 展開のサポート
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dynamics 365 for Retail では、小売企業がシステム全体 (リアル店舗から小売用バックオフィスまで) にわたり、柔軟な展開オプション (オンプレミスまたはクラウド) を使用できます。 ローカル ビジネス データ (LBD) 展開オプションは機能強化され、次のコンポーネントが新たにサポートされました: Retail Modern POS (MPOS)、クラウド POS、Retail サーバー、チャネル データベース、ハードウェア ステーション、およびサードパーティの E コマース統合。
 

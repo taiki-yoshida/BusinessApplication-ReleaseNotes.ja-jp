@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>統一インターフェイスにおけるロールアップ ビューの拡張
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 機能強化されたロールアップ ビューにより、アクティビティ以外に関連する取引先企業や取引先担当者などのレコードのロールアップを表示できます。
 

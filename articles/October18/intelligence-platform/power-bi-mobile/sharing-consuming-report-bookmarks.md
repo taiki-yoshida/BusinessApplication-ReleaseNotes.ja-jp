@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="consuming-reports-with-shared-filters-bookmarks"></a>共有フィルター (ブックマーク) があるレポートの使用
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 分析情報を共有するには、分析情報が明らかになるような方法でフィルター処理されたレポート データを表示し、共有しなければならない場合があります。 現時点では、レポートの作成者によって定義された既定の状態でしか、レポートを共有することはできません。 ブックマークを使用すると、ユーザーは異なる状態のフィルター済みレポートやスライス済みレポートを共有し、ユーザーの注意を必要とするデータについて、コラボレーションを強化することができます。 
 

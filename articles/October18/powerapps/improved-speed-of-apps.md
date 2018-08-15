@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-speed-of-apps"></a>アプリの速度の向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Web 上での PowerApps のオーサリング エクスペリエンス、およびアプリ実行エクスペリエンスは、引き続き高速化しています。 古いアプリを更新してエンドユーザーに再公開するとき、そのステップは古いアプリを PowerApps の最新ビルドに再パッケージします。 エンドユーザーは、アプリを使用するときに、読み込み時間の短縮とパフォーマンスの向上を体感できます。
 

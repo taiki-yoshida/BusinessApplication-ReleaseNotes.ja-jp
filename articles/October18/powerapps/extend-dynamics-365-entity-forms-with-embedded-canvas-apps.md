@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="extend-dynamics-365-entity-forms-with-embedded-canvas-apps"></a>埋め込みキャンバス アプリによる Dynamics 365 エンティティ フォームの拡張
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 キャンバス アプリにより、アプリ開発者はわずかなコーディングによるカスタマイズ機能を通じて豊富な美しいユーザー エクスペリエンスを提供できます。 また、幅広いクラウド サービス (Office 365 や SharePoint) およびオンプレミス データ ソース (ゲートウェイ経由) を始めとする 200 以上のデータ ソースへの接続に対応しています。 アプリ開発者は、モデル駆動型フォームにキャンバス アプリを埋め込むことで、これらの機能をモデル駆動型アプリに直接もたらすことができます。 
  

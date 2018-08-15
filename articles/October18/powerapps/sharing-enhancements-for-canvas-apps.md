@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="sharing-enhancements-for-canvas-apps"></a>キャンバス アプリの共有の拡張
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 キャンバス アプリの共有が簡単になります。アプリによって使用されるデータ ソースをユーザーが表示できるため、そのデータにアクセスするためのユーザー アクセス許可を個別に設定しやすくなります。 
 

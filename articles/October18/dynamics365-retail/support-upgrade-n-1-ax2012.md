@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="support-for-upgrade-and-n-1-ax-2012"></a>アップグレードと N-1 (AX 2012) のサポート
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 既存の Dynamics AX 2012 を使用している小売企業は、バックオフィスの本社コンポーネントを最新の Dynamics 365 for Retail にアップグレードできるようになりました。なお、分散した店舗システムは AX 2012 R3 バージョン (N-1) 上に維持できます。
 これは段階的なロールアウトに対応しているので、最適にスケジュールされたダウンタイムを利用して、店舗システムを徐々にアップグレードしていくことができます。 また、新しい (アップグレードではない) Dynamics 365 のバックオフィス システムを展開している小売企業は、N-1 機能を利用できるようになりました。

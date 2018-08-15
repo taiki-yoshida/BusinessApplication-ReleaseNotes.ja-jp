@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dataflow-refresh-public-preview"></a>データフローび更新 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI は、増分データフロー更新などの高度なデータフロー更新機能をサポートし、データフロー更新プロセスを簡素化および高速化して、大きいデータ セットの取り込みをサポートします。 Power BI Premium が必要です。
 

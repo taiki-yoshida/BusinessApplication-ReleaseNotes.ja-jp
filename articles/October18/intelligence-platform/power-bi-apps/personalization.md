@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="personalization"></a>個人用設定
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI アプリのインストール後、ユーザーは各自のニーズに合わせてアプリケーションをパーソナライズできます。 たとえば、ヨーロッパでの営業に重点を置くユーザーはー、ヨーロッパのデータを処理および視覚化するようにアプリケーションをパーソナライズでき、北米に重点を置く別のユーザーは、この特定の地域に合わせてパーソナライズできます。
 

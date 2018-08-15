@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="account-based-marketing"></a>アカウント ベースのマーケティング
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 アカウント ベースのマーケティングでは、企業間 (B2B) マーケティング担当者は Dynamics 365 for Marketing を使って各ビジネス アカウントを 1 つの単位として対象にし、それによって営業部門とマーケティング部門間の統合と意思統一を強化することができます。
 

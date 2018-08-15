@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="mobile-shared-credentials-ios-and-android"></a>モバイルでの資格情報の共有 (iOS および Android) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 資格情報を共有すると、Power BI Mobile のユーザー (iOS および Android) は、既に認証済みの Officeアプリと同じ資格情報を共有してシームレスにサインインできます。
 

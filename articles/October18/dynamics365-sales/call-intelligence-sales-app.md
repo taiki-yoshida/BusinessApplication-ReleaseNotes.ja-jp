@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="transform-inside-sales-using-ai-in-the-call-center"></a>コール センターの AI を使用したインサイド セールスの変換
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 Microsoft のコール インテリジェンス オファリングは、よりスマートなコーチングを可能にして、営業の変換率を促進します。 コール センターの電話録音システムをアプリに接続することにより、コール センター管理者は組織の既存資産から価値を取り出す会話の分析情報を生成できます。

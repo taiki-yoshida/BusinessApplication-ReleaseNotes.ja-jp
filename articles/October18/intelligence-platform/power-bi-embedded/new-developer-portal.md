@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="new-developer-portal"></a>新しい開発者ポータル
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI 開発者用の新しい開発者ポータルには、開発者が Power BI Embedded の操作、Power BI ソリューションのプロセスの自動化、およびカスタム ビジュアルの作成を行うために必要なすべてのリソースが含まれています。 ポータルには、関連ドキュメントへのリンクが含まれます。
 

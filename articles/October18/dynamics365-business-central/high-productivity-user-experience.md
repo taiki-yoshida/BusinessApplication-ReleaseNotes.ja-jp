@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="high-productivity-with-an-all-refreshed-desktop-experience"></a>まったく新しくなったデスクトップ エクスペリエンスでの高い生産性
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-business-central banner](../includes/dynamics365-business-central.md)]
+
+
 
 2018 年 10 月のリリースでは、Microsoft Dynamics 365 Business Central のデスクトップ エクスペリエンスが更新されています。 リストの作業およびページとレポートの検索に関する強力な新機能により、Business Central の生産性が向上しています。
 

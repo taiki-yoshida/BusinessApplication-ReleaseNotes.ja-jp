@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="microsoft-teams-uses-flow-as-a-bot"></a>Microsoft Teams がフローをボットとして使用
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザーは、Teams に埋め込まれたエクスペリエンスを使用して[ボタン フロー](https://docs.microsoft.com/flow/introduction-to-button-flows)を呼び出すことができます。 フローを開始するには、「フローの一覧」に続いて「フロー 1 の選択」と発話してボットで呼び出します。
 

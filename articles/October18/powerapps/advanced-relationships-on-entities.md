@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="advanced-relationships-on-entities"></a>エンティティでの高度なリレーションシップ
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps では、アプリ開発者は一対多、多対一、多対多のリレーションシップを作成できるだけでなく、階層を有効にしてエンティティ間でマッピングを構成することにより、レコード間のリレーションシップを設定する際にフィールドの既定値を構成できます。 より詳細な設定には、ソリューション エクスプローラーが必要です。
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="customizable-welcome-emails"></a>カスタマイズ可能なようこその電子メール
 
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 管理者は、オンボード時に新しい採用者に送信されるようこそ電子メールをパーソナライズできます。 これにより、個別に対応されている感じが強くなり、電子メール応答率が向上します。
 

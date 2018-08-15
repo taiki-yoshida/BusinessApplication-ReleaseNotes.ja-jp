@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-scheduling-apis"></a>セルフサービス スケジュールの API
 
+[!include[field-service banner](../../../includes/field-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Universal Resource Scheduling のセルフサービス スケジュールの API を使用すると、組織は独自の Web アプリケーションにスケジュール ウィジェットを埋め込んで、顧客が利用可能性を検索したり、予約をしたりできるようにすることができます。 ウィジェットを作成すること自体も目的に含まれますが、最大の目的は、パートナーやお客様のエコシステムに API を公開して、皆様が独自のビジュアルを作成できるようにすることです。
 

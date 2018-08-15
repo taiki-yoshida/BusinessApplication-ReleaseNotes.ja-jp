@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-in-power-bi-public-preview"></a>Power BI のページ付けされたレポート (パブリック プレビュー) 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 SQL Server Reporting Services (SSRS) レポート (\*.rdl 形式) を Power BI Premium ワークスペースに公開し、Power BI Web アプリ内でレポートを表示します。 レポートは、Power BI アプリの一部として共有または公開できます。
 

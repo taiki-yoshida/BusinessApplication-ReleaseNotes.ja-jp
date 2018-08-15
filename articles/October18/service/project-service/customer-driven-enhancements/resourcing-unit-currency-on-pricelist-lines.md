@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="resourcing-unit-currency-on-role-price-lines-for-cost"></a>コストのロール価格明細のリソース単位通貨 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service では、価格表ヘッダーで指定された、価格表あたり 1 つの通貨のみ許可されます。 リソース価格の価格表明細に、価格表ヘッダーで指定されているものと同じ通貨があります。 ただし、国をまたがるすべての事業部に対して一元化された価格を持つ、グローバルに活動しているプロジェクト サービス企業の場合、販売またはコストが発生する通貨ごとに価格表を設定する必要があるデータ中心のセットアップが必要な場合があります。 
 

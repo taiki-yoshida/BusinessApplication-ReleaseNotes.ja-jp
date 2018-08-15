@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../includes/banner.md)]
+
 
 #  <a name="overview-of-dynamics-365-for-project-service-october-18-release"></a>Dynamics 365 for Project Service 2018 年 10 月リリースの概要
+
+[!include[project-service banner](../../includes/project-service.md)]
 
 Project Service の 2018 年 10 月リリースでは、お客様主導の機能拡張に重点を置いたうえで、機能や使いやすさが、実用的かつ戦術的な観点から改善されています。 機能拡張には次のものが含まれます。
 

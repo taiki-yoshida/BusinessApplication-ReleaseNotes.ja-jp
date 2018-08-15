@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="additional-demo-data"></a>追加のデモ データ
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 見込顧客に対して可能な限り最善の営業と試用エクスペリエンスになるよう最適化するため、デモ データをシームレスかつ効率的に管理できるようにするための完全なデータ エンティティとデータ パッケージ。 これらの追加コンポーネントは、製造、配布、営業に関するシナリオに重点を置いています。
 

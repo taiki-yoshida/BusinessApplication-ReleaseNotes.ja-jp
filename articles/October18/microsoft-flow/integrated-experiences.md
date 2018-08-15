@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="integrated-experiences"></a>統合エクスペリエンス
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow は他の Microsoft アプリケーションと緊密に統合されており、現在既に行われつつあるビジネス プロセスの変革が可能になります。
 

@@ -20,6 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="filters-for-report-sharing"></a>レポート共有のフィルター
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 レポートを共有すると、レポートに現在適用されているフィルターが使用され、異なる対象者ごとにパーソナライズされたビューを作成できます。
 
 たとえば、次のスクリーンショットは、ユーザーが現在のレポート フィルターを使用する共有を選択する方法を示しています。

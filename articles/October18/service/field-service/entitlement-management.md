@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="entitlement-management"></a>権利の管理
 
+[!include[field-service banner](../../includes/field-service.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Field Service は、関連するシナリオに対して Customer Service アプリケーションで有効化される現在の権利機能を拡張しました。 これにより、顧客が権利を与えられるサポートのレベルを、フィールド サービスのコンテキストで指定できます。 権利の例は、取引先企業、取引先担当者、製品、作業指示書、作業指示書パフォーマンス指標などです。
 

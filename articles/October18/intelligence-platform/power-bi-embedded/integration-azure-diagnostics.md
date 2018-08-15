@@ -20,10 +20,12 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="power-bi-embedded-integration-with-azure-diagnostics"></a>Power BI Embedded と Azure 診断の統合 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Embedded を Azure 診断と統合して、Power BI Embedded をアプリケーションで使用される他の Azure リソースと共に診断できるようにしています。 Azure 診断は、展開されたアプリケーション上の診断データの収集を可能にする Azure 内の機能です。 Azure 診断拡張機能は、このデータを Azure ストレージ アカウントに転送することも、Application Insights などのサービスに送信することもできます。 データは、デバッグとトラブルシューティング、パフォーマンスの測定、リソース使用状況の監視、トラフィック分析と能力計画、監査に使用できます。 
 

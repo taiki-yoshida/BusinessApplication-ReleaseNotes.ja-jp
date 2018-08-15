@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="self-service-portal-diagnostics"></a>セルフサービス ポータル診断
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 Dynamics 365 Portal では、シンプルかつ効果的な方法で Web サイトを作成できます。 Microsoft では、Dynamics 365 Portal のサポート性を改善する取り組みの一環として、診断機能を改善し、お客様がセルフサービス診断機能を使って自ら問題を解決できるようにするべく取り組んでいます。
 

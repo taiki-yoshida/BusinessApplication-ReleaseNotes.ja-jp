@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-and-view-related-flows-from-your-entity"></a>エンティティからの関連フローの作成と表示
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Microsoft Flow のアプリ用 Common Data Service 向けの豊富なサポートによって、特定のエンティティに関連したすべてのフローを PowerApps から直接表示できます。 また、アプリ用 Common Data Service 内に格納されたデータのフローを作成することもできます。
 

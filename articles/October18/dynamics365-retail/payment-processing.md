@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="payment-processing"></a>支払い処理 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 支払い処理フローと統合タッチポイントがリファクタリングされ、店舗内アプリケーション (Retail Modern POS とハードウェア ステーション) と支払いデバイス間の信頼性と安定性が向上しました。 
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="ability-to-make-copies-of-price-lists-by-adding-a-markup-percentage"></a>利幅率を追加することで価格表のコピーを作成する機能
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 Project Service では、簡単にデータを作成および保守できるように、価格表のコピーを作成できます。 現時点では、同じ通貨と時間単位で価格表のコピーを作成すること、またはある通貨と時間単位の価格表を別の通貨または時間単位を使用してコピーを作成することにより変換することができます。 
 

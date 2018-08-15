@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="paginated-reports-public-preview"></a>ページ付けされたレポート (パブリック プレビュー) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 ページ付けされたレポートは、Power BI の最上位のアーティファクトになります 。 ユーザーは、ページ付けされたレポートを作成して Power BI サービスに公開できます。 モバイル ユーザーは、Power BI で公開されているページ付けされたレポートを自分のアプリで表示できます。
  

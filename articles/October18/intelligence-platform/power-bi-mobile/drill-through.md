@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="drillthrough"></a>ドリルスルー
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 この機能を使用すると、業務ユーザーは、追加の詳細情報を得るために、照合フィルターのコンテキストで、別のレポート ページにドリルスルーできます。 
 

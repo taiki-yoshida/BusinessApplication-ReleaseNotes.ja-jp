@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-dynamics-365-for-finance-and-operations-october-18-release"></a>Dynamics 365 for Finance and Operations 2018 年 10 月リリースの概要
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 このトピックでは、Finance and Operations 2018 年 10 月リリースのテーマ領域について説明します。 
 

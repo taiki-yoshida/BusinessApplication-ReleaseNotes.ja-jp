@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-reliability-of-offline-experience-for-canvas-apps"></a>キャンバス アプリのオフライン エクスペリエンスの信頼性の向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 SaveData/LoadData を使用するデバイスのキャンバス アプリは、オフライン シナリオで信頼性が高まります。 アプリ開発者は、シングル コールで最大 20 MB のデータまたは 20 のイメージをオフラインでは保存できるため、より堅牢なフィールド サービス アプリを作成できます。
 

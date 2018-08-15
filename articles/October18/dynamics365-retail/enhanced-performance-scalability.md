@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enhanced-performance-and-scalability"></a>フォーマンスとスケーラビリティの向上
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 次の重要な領域で実行が遅いクエリを識別して向上させる作業が行われています: 営業トランザクション、顧客注文と注文履歴、顧客注文作成、仮想カタログ。
 

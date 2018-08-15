@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="single-resource-optimization"></a>単一リソース最適化
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 単一リソース最適化を使用すると、選択されたリソースをすばやく簡単に再最適化することができるので、1 日の間に何らかのスケジュール変更が発生した場合でも、リソースのルーティングを最適に維持できます。 たとえば、1 日の途中で緊急の作業指示書が割り当てられ、リソースの予約が重複した場合や、交通状況によって作業を時間内に完了できない可能性がある場合でも、適切に対応することができます。
 

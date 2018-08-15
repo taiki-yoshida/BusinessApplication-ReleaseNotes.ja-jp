@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="overview-of-the-service-october-18-release"></a>サービス 2018 年 10 月リリースの概要 
 
-[!include[banner](../../../includes/banner.md)]
+
 
 2018 年 10 月リリースでは、サービス関連の新機能が導入されています (Customer Service、Field Service、および Dynamics 365 Portal を含む)。
 

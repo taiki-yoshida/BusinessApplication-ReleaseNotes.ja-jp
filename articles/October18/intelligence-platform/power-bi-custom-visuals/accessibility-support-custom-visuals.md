@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="accessibility-support-for-custom-visuals"></a>カスタム ビジュアルのユーザー補助サポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カスタム ビジュアルは、[配色テーマ](https://docs.microsoft.com/power-bi/desktop-report-themes)に対するカスタム ビジュアルのサポートを追加することにより、ユーザー補助のためのハイ コントラスト モードとキーボード ナビゲーションをサポートします 。
 

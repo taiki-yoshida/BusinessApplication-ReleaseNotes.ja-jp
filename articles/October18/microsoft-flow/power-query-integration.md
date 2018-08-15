@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-query-integration"></a>Power Query 統合
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power Query は、パワー ユーザーがデータを変換、フィルター処理、操作したり、Power BI や CDS などの一般的なデータ ストアにインポートしたりできるデータ統合ツールです。 これと同じ機能を Microsoft Flow に追加し、メーカーが Power Query Online エクスペリエンスを使用して SQL Server からデータ マッシュアップを形成できるようにしています。
 

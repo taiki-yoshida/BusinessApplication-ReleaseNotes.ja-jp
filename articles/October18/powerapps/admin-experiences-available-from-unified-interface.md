@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-experiences-available-from-unified-interface"></a>統一インターフェイスから使用可能な管理者エクスペリエンス
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 管理者は、統一インターフェイスから必要なコンテンツやリンクにアクセスでき、PowerApps 管理センターにもすばやくアクセスできます。
 

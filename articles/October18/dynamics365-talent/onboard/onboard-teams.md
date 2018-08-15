@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="onboarding-teams"></a>チームのオンボーディング
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 部署リーダーは、チームや部門のメンバーを定義して、レポート、コラボレーション、コンテンツ共有を効率化できます。
 

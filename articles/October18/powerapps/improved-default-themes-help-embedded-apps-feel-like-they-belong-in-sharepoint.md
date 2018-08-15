@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-default-themes-help-embedded-apps-look-like-they-belong-in-sharepoint"></a>既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 アプリ開発者は、キャンバス アプリとフォームに 8 つの Office テーマを適用できます。 これらの新しいテーマは、既定の SharePoint テーマと調和するので、SharePoint の埋め込みシナリオを向上させます。
 

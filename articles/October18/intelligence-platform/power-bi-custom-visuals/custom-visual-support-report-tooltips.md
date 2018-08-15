@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-report-tooltips"></a>レポート ツールヒントのカスタム ビジュアル サポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カスタム ビジュアルは、Power BI Desktop およびサービスでの[レポート ツールヒント](https://docs.microsoft.com/power-bi/desktop-tooltips)をサポートします。
 

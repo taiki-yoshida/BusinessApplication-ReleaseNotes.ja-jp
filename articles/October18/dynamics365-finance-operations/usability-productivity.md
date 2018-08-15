@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="usability-and-productivity"></a>使いやすさと生産性
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 -   アプリケーション全体を通じて新しい表形式のグリッドを使用できるようになり、スクロールのパフォーマンスが大きく改善されました。このことは、データを閲覧しやすくする必要がある場合にとても重要となります。 
 

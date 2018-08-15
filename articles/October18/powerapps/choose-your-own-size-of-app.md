@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="choose-your-own-size-of-app"></a>独自のアプリ サイズの選択
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 キャンバス アプリを作成するか更新するとき、幅と高さをカスタマイズできます。 たとえば、4K モニターで使用するアプリ、または Office や Dynamics 製品内のさまざまなアプリケーションに組み込むアプリを構成できます。
 

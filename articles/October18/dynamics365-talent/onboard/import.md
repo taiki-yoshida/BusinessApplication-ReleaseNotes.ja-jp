@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="import"></a>インポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 雇用マネージャーは、他のガイドやテンプレートから内容をインポートし、常に最新の内容が反映されるようにできます。 この機能は、雇用をすばやく開始し、マネージャーまたは部門リーダーからの最新の内容を簡単に含めるのに役立ちます。
 

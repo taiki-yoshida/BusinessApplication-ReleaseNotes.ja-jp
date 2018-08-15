@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="workspace-collections-deprecation"></a>ワークスペース コレクションの廃止
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI ワークスペース コレクションのサービスはまもなく終了します。 お客様は、Power BI Embedded を使用してより多くの Power BI 機能をアプリに埋め込めるようになりました。 2018 年 6 月 30 日以降、Power BI ワークスペース コレクションを使用して埋め込まれたビジュアルは、アプリ内で表示されなくなります。 アプリケーション データは、6 か月間、Power BI ワークスペース コレクション サービス内で使用できます。 Power BI Embedded に移行すれば、アプリ ユーザーは埋め込みビジュアルを表示し、データへのアクセスを継続できるようになります。 2017 年 6 月 30 日以前に EA の契約をした Power BI ワークスペース コレクションのお客様については、EA の失効日にサービスが終了します。
 

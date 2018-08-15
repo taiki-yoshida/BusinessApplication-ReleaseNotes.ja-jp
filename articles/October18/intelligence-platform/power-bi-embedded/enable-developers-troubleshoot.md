@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="error-event-logging"></a>エラー イベントのログ
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 2018 年 10 月のリリースでは、必要に応じてコンソールまたはテレメトリーに詳細なエラー イベントを記録することでトラブルシューティングする手段が Power BI Embedded 開発者に提供されます。 向上したエクスペリエンスとしては、エラー メッセージの向上、根本原因の指摘、エラー コードおよびサポート チケットの発行が必要な状況について説明するドキュメントの向上などがあります。
 

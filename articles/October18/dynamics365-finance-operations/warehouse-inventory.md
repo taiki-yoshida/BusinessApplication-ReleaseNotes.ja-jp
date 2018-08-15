@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 
 # <a name="general-enhancements-in-operations-functionality"></a>オペレーション機能の全般的な機能強化
-[!include[banner](../../includes/banner.md)]
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
 
 今回のリリースでは、倉庫管理に関連する以下の機能が改善されています。
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="real-time-power-bi-reports"></a>リアルタイム Power BI レポート
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 現在 Microsoft Dynamics 365 for Finance and Operations バージョン 7.3 または 8.0 以降を実行しているお客様は、プラットフォームの更新時に製品内のほとんどの分析ワークスペースと埋め込み Power BI レポートがリアルタイムで更新されます。 エンティティ ストアは "ハンズ フリー" で最新の情報に更新されるので、管理者はエンティティ ストアの更新スケジュールを管理する必要がありません。 Microsoft がお客様の更新を管理します。 
  

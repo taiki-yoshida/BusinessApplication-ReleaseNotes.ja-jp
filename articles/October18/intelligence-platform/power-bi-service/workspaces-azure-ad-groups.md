@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="workspaces-with-azure-ad-groups-public-preview"></a>Azure AD グループを使用したワークスペース (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI ワークスペースでは、Office 365 グループとは分離された、独自のロールとアクセス許可が使用されます。これにより、ワークスペースの管理を制御できるようになっています。
 機能には、個々のユーザーへのワークスペース ロールの割り当て、Azure Active Directory (Azure AD) セキュリティ グループ、および Office 365 最新グループが含まれます。 また、Power BI ワークスペースのガバナンスは、Office 365 最新グループのガバナンスとは分離されます。

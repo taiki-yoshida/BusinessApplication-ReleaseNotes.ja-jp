@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-bookmarks"></a>ブックマークのカスタム ビジュアル サポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カスタム ビジュアルは、Power BI の[ブックマーク](https://docs.microsoft.com/power-bi/desktop-bookmarks)機能をサポートします。 開発者は、カスタム ビジュアルにコードを追加して、ブックマークの作成と取得を処理できます。
 

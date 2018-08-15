@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="dynamics-365-for-talent-onboard"></a>Dynamics 365 for Talent: Onboard
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 お客様からのフィードバックに基づいて、Onboard は共同作業機能が強化され、より多くの人数でオンボーディング エクスペリエンスを作成し、実装できるようになっています。 Onboard には、テンプレート作成ワークフローが組み込まれ、テンプレートから作成したすべてのインスタンスにテンプレートの更新を反映できます。
 

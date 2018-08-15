@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-management-of-advanced-entity-properties"></a>エンティティの詳細プロパティの管理を簡略化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 現在、エンティティやフィールドに関連する詳細プロパティはソリューション エクスプローラーでしか利用できませんが、これが PowerApps ポータルでも利用できるようになるため、エンティティやフィールドの作成作業が簡略化され、作業の一貫性が改善されます。
 

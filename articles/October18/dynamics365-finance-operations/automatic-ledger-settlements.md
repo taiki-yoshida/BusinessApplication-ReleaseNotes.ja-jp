@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="automatic-ledger-settlements"></a>自動元帳決済
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 元帳決済ルールを設定し、ユーザーの条件に基づいて自動的に元帳トランザクションを決済できます。 タスクを定期的に実行できるように、バッチ処理が追加されます。
 

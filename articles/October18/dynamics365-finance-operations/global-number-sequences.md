@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="global-number-sequences"></a>グローバルな番号順序
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 顧客および顧客グループに対するグローバルな番号順序を使用すると、ビジネス ユーザーはこのデータをある法人から別の法人にコピーできます。 コピー機能が完了すると、同じ顧客番号と顧客情報が両方の法人で共有されます。 これにより、企業間のシナリオが使いやすくなります。 この機能は、ベンダーおよびベンダー グループにも使用できます。

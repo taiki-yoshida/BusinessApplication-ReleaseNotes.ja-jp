@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="master-planning-performance-improvements"></a>マスター プランのパフォーマンスの向上
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 マスター プランのパフォーマンスと予測可能性は、複数の増分的な機能強化によって改善されます。
 

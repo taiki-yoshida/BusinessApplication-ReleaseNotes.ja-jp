@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="integration-with-dynamics-365-for-field-service--inventory-and-projects"></a>Dynamics 365 for Field Service との統合 - 在庫とプロジェクト
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 CDS データ統合との統合は、Field Service 活動が Dynamics 365 for Finance and Operations の外部で行われるシナリオをサポートするために提供されます。
 

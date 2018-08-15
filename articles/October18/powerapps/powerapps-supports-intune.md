@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-supports-intune"></a>PowerApps が Intune をサポート
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Android と iOS 上の PowerApps アプリが Intune と統合され、モバイル アプリケーション管理に対して Intune ポリシーをサポートするようになったので、お客様のデータに対する制御とセキュリティが向上します。
 

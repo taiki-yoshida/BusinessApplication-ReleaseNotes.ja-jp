@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="consistent-validation-actions"></a>一貫性のある検証アクション
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 仕訳の検証が改善され、転記時に実行されるのと全く同じ検証を確認できるようになります。

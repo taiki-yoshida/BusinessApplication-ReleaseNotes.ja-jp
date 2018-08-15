@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="remote-configuration-for-power-bi-report-server"></a>Power BI Report Server のリモート構成
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Report Server の接続詳細を手動で定義することは、多くのビジネス ユーザーにとって有用です。 この機能を使用すると、組織でモバイル デバイスを管理する IT 管理者や、Power BI アプリを管理する Power BI 管理者は、Power BI Report Server の構成を Enterprise Mobility Management (EMM) 組織ツールで定義できます。 
 

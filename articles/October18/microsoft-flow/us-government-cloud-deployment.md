@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="us-government-cloud-deployment"></a>米国政府機関クラウドの展開
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 GCC および GCC High 地域を、Microsoft Flow で取り扱えるようになりました。 つまり、Flow は米国政府の認証を申請することになります。 データの保存に関する Microsoft の取り組みについて詳しくは、[Microsoft Flow の Microsoft セキュリティ センター ページ](https://www.microsoft.com/en-us/TrustCenter/CloudServices/business-application-platform/data-location)を参照してください。
 

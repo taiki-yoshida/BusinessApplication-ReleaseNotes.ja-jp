@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="azure-analysis-services"></a>Azure Analysis Services
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Azure Analysis Services は、SQL Server Analysis Services の実績ある分析エンジンを、完全なマネージド ホスティング サービスとして提供するものです。 
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="multi-region-support-for-power-bi-embedded-public-preview"></a>Power BI Embedded の複数地域サポート (パブリック プレビュー) 
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Power BI Embedded のお客様は、Power BI ホーム テナントが存在する地域以外の地域を含む複数地域で容量を購入できます。 この機能により、お客様はワークスペースとワークスペース内のすべてのデータを特定の地域に割り当てて、データがその地域内にとどまるようにすることができるため、データが置かれる場所を制御できます。
 

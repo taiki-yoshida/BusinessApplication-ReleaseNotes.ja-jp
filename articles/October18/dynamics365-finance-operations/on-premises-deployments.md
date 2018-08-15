@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="on-premises-deployment-enhancements"></a>オンプレミス展開の機能強化
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 Dynamics 365 for Finance and Operations のオンプレミス展開オプションは、セットアップ、操作、監視、サービスの簡素化に重点を置いて多くの領域が強化されました。
 

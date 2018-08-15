@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 フィールド リストの使いやすさが強化され、ギャラリー、フォーム、およびデータ テーブルの操作性が改善されます。 
 

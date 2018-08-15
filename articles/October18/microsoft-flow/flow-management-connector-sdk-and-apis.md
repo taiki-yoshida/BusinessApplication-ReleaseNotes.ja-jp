@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-management-connector-sdk-and-apis"></a>フロー管理コネクタ、SDK、API
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 メーカーや管理者によるアプリケーション ライフサイクル管理タスクの自動化や、テナント内のフローのアクセス許可とガバナンスの自動化について、顧客からは大きな要求がでています。 この機能の一部として、組織がプロセス簡素化のための追加ツールを作成できる API と SDK が文書化されます。  また、既存のフロー管理コネクタを拡張し、組織が Microsoft Flow で IT 運用を自動化できるようにします 。
 

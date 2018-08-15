@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="custom-visual-support-for-persistent-filters"></a>固定フィルターのカスタム ビジュアル サポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カスタム ビジュアルは、ユーザーが Power BI サービスで[固定フィルター](https://powerbi.microsoft.com/en-us/blog/announcing-persistent-filters-in-the-service/)を使用するときにサポートされます。
 

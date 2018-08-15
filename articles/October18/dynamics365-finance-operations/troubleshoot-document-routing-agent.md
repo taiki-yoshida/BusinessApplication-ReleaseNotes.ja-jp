@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="troubleshoot-document-routing-agent"></a>ドキュメント ルーティング エージェントのトラブルシューティング
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 ドキュメント ルーティング エージェントは、オンプレミスのプリンターに送信される大規模な印刷ジョブを管理するために使用されます。 今回のリリースでは、印刷に関する問題のトラブルシューティングがしやすくなります。 充実したエラー レポートと診断機能によって、IT 管理者はサポートに問い合わせることなく問題を検出し、修正できるようになります。
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="emails-sent-from-the-guide-creator"></a>ガイド作成者から送信される電子メール 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 パーソナライズされた雰囲気をいっそう高めるため、新規採用者に送信される歓迎電子メールや通知電子メールは、Dynamics 365 サービス アカウントではなく、ガイド作成者から直接送信されるようになります。 
 

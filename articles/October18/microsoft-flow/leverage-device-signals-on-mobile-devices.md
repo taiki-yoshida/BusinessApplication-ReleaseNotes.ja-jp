@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="leverage-device-signals-on-mobile-devices"></a>モバイル デバイスのデバイス シグナルの利用
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 [このアイデア](https://powerusers.microsoft.com/t5/Flow-Ideas/Microsoft-Forms-Trigger-Geo-Fencing/idi-p/69825)で説明されているように、お客様は自分の場所をコネクタとして使用できるようになりました。 この機能により、ユーザーは、場所の範囲を作成し、モバイル デバイスがそこに出入りしたときにフローをトリガーすることができます。 これにより、ユーザーからアクティブ化しなくても特定のフローを自動的に実行できるので、モバイル アプリケーションの効率が向上します。
 

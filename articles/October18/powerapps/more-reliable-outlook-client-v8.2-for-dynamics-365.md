@@ -19,8 +19,10 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="more-reliable-outlook-client-v82-for-dynamics-365"></a>Dynamics 365 用の Outlook Client v8.2 の信頼性の向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 新しいバージョンの Dynamics 365 for Outlook は、パフォーマンスが強化され、メタデータ キャッシュの更新による Outlook の起動とハングの問題に対処します。
 

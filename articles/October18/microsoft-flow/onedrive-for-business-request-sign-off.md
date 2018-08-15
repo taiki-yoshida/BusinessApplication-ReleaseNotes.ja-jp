@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="onedrive-for-business-request-sign-off"></a>OneDrive for Business 要求のサインオフ
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザーは、埋め込みのフロー起動パネル エクスペリエンスを通じて標準のフローを作成および実行して、テナント内の任意のユーザーにサインオフ要求をメッセージと共に送信できます。 承認者が応答すると、承認者からのフィードバックを伝える確認電子メールが開始者に送信されます。 
 

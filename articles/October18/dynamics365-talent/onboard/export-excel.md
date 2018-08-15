@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="export-to-excel"></a>Excel へのエクスポート
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 採用マネージャーは作成または寄与したすべてのガイドを Excel ファイルにエクスポートし、レポートと Power BI で使用できます。
 

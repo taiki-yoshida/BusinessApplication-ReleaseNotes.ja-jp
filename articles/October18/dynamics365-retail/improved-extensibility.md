@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="improved-extensibility"></a>拡張性の向上 
 
+[!include[dynamics365-retail banner](../includes/dynamics365-retail.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 ユーザー インターフェイスと API 拡張機能が小売用バックオフィス、POS (Retail Modern POS と Cloud POS)、および Commerce ランタイム (CRT) に追加され、コア アプリケーションに影響を与えることなく、カスタマイズを含む環境を簡単に保守および更新できます。
 

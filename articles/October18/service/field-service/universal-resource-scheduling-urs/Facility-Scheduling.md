@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="facility-scheduling"></a>設備のスケジューリング
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 顧客所在地の代わりにサービス プロバイダーの場所でサービスを提供します。
 

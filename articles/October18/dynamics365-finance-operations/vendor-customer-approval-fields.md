@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="vendor-or-customer-approvals-for-specific-fields"></a>特定のフィールドに対する仕入先や顧客の承認
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 特定のフィールドが編集された際には、顧客と仕入先の承認を有効にします。 今回のリリースでは、承認可能なフィールドの一覧からフィールドを選択できるようになります。 フィールドが編集されたら、変更をワークフローに送信できます。 変更が承認されると、それらの変更が顧客や仕入先のレコードに適用されます。

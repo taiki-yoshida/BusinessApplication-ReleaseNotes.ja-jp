@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="errors-more-discoverable-by-app-makers"></a>アプリ メーカーが検出しやすくなったエラー
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 エラー チェッカー ツールは、アプリケーション全体で検出された問題のリストを単一の場所で提供して、開発者によるアプリのデバッグをガイドします。 アプリ開発者は、エラー リストからエラーの存在する画面とコントロールに直接ナビゲートできます。 エラー リストは、エラーの詳細と修正方法について説明しており、他のリソースにもリンクしています。
 

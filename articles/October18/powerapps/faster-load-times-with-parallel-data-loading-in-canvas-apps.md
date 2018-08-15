@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="faster-load-times-with-parallel-data-loading-in-canvas-apps"></a>キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 多くのキャンバス アプリ開発者は、パフォーマンスを向上させるために、アプリの開始時に複数のテーブルやエンティティをプリロードします。 今日、これはロードごとに順次行われており、多くの場合はアプリの **OnStart** 式で行われます。 
 

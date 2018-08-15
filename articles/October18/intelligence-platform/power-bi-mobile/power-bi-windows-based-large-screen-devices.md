@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="power-bi-on-windows-based-large-screen-devices-public-preview"></a>Windows ベースの大画面デバイス上の Power BI (パブリック プレビュー)
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 Surface Hub などの大型タッチスクリーンは、データのプレゼンテーションやチーム コラボレーションに使用されます。 大画面上の Power BI Mobile アプリにより、データが大画面で表示および探索される方法を最適化するエクスペリエンスを使用して、大型タッチスクリーンを直感的な方法で使用できます。
 

@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="build-intelligent-sales-applications-and-business-processes-powered-by-linkedin-insights"></a>LinkedIn Insight を利用したインテリジェントな営業アプリケーションとビジネス プロセスの作成
 
+[!include[dynamics365-sales banner](../includes/dynamics365-sales.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 
 LinkedIn Insight を利用した Dynamics 365 アプリケーションは、モジュール型のカスタマイズ可能な **LinkedIn Sales Navigator コントロール**を **Dynamics 365 業務プロセス フロー**の能力および柔軟性と組み合わせることで次のレベルに進みます。 営業シナリオを含むビジネス プロセスを作成または拡張して、ユーザーと会社に関する LinkedIn Insight を搭載できます。これにより、インフォメーション ワーカーはステージとステップをすばやく正確に完了し、営業取引とその他のプロセスを成功裏に終わらせることができます。 分析情報には次のものが含まれます。

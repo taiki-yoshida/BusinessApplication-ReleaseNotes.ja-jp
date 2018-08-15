@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="installing-power-bi-apps-for-dataflows"></a>データフロー用の Power BI アプリのインストール
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI ユーザーは、Microsoft およびそのパートナーが提供している標準の Power BI アプリケーションをインストールすることで、ソリューションを活性化できます。 Power BI アプリは、ユーザーのデータを視覚化するレポートにデータフローを設定するために使用されるデータ コネクタからのさまざまな Power BI アーティファクトを使用して開発されています。 
 

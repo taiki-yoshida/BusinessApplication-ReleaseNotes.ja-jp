@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-a-power-bi-app-package"></a>Power BI アプリ パッケージの作成
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI プロ ユーザーは次のことができます。
 

@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-powerapps-authoring-for-makers-of-all-abilities"></a>あらゆるレベルのメーカー向けの PowerApps オーサリングの向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps.com のインライン オーサリング エクスペリエンスは、Microsoft ユーザー補助に関する基準に従っており、すべての人がアプリを作成し、すべてのメーカーがより効率的にアプリを作成するのに役立ちます。
 

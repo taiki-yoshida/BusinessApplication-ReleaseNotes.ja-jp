@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-visuals-in-excel-public-preview"></a>Excel のカスタム ビジュアル (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カスタム ビジュアルは、Office および Power BI において Excel のグラフ エクスペリエンスに統合されるサード パーティのカスタム ビジュアル化の標準的な機能です 。 Power BI 用のカスタム ビジュアルは Office でも動作します。 開発者は、各専用ストアまたは AppSource で Excel と Power BI の両方に使用できる単一のカスタム ビジュアルを送信できます。 Excel のユーザーは、Excel ストアでカスタム ビジュアルを見つけて Excel シートのシート データの上にインポートできます。
 

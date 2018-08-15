@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="embedding-power-bi-content-from-power-bi-apps"></a>Power BI アプリからの Power BI コンテンツの埋め込み
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Power BI アプリからのレポートやビジュアルを、SharePoint Online、Microsoft Teams、Dynamics 365 などの他のサービスやアプリケーションに埋め込む機能が追加されます。 
 

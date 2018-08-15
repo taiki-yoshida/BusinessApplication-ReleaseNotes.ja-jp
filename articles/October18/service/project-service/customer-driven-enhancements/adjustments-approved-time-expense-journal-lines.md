@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="adjustments-to-approved-time-expense-and-journal-lines"></a>承認済みの時間、経費、仕訳帳明細行の調整 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 この機能は、時間と経費の承認済みエントリを変更する待ち望まれた機能をプロジェクト管理者に提供します。 プロジェクト ベースの多くの企業では、プロジェクト、タスク、および作業カテゴリなどの他の属性に一時的なコードを設定し、コンサルタントは永続的なコードがシステムで設定されるまで、これらの暫定的な参照コードに対して時間を記録します。 
 

@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="due-date-placeholders"></a>期日のプレースホルダー
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 マネージャーは、新規雇用開始日のオフセットとして期日のプレースホルダーを挿入できます (開始日の 2 週間後や、3 日前など)。 新規雇用開始日が変更されると、期日は自動的に更新されます。
 

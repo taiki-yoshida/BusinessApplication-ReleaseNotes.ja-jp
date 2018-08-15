@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="create-power-bi-reports-using-data-in-common-data-service-for-apps"></a>アプリ用 Common Data Service のデータを使用した Power BI レポートの作成
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Power BI には、データのビジュアル化およびレポート作成に適した非常に強力なツールが用意されています。 Power BI のコネクタを使用すると、アプリ開発者は環境に直接接続し、リレーションシップを操作し、データに関する優れたレポートやダッシュボードを作成できます。
 

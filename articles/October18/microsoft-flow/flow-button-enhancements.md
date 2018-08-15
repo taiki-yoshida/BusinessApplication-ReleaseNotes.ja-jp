@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-button-enhancements"></a>フロー ボタンの機能拡張
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 [このアイデア](https://powerusers.microsoft.com/t5/Flow-Ideas/Create-multiple-input-types-for-buttons/idi-p/33695)でカバーされているように、ユーザーは充実したデータをボタン フローに渡すことができます。
 

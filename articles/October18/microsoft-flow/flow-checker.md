@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-checker"></a>フロー チェッカー
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 **フロー チェッカー**機能は、フローの作成中に役に立ちます。 設計時にエラーを確認し、過去の実行で発生した可能性があるエラーを検索することもできます。 
 

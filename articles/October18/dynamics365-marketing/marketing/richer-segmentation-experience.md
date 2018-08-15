@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="richer-segmentation-experience"></a>より充実したセグメント化エクスペリエンス
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 強化されたセグメント デザイナーを使用すると、マーケティング担当者とビジネス アナリストはセグメントをより簡単かつ効率的に作成できます。 新しいビジネス中心の演算子のホストにより、ビジネス ユーザーは複雑なビジネス中心のマーケティング セグメントをよりシンプルに作成できるようになり、ターゲットを絞ったマーケティングのためのセグメントを簡単に作成できます。
 

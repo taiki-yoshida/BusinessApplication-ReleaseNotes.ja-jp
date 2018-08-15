@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="customizers-can-embed-power-bi-tiles-and-reports-in-entity-forms"></a>カスタマイズ担当者がエンティティ フォームに Power BI タイルおよびレポートを埋め込むことができる
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 選択したレポートとタイルを埋め込んで、Power BI の能力と豊富な機能をフォームに取り入れることができます。 カスタマイズ担当者は、Power BI のレポートとタイルをモデル化して、レコードやその関連レコードに関する属性情報を含むレコード コンテキストを渡すことで、より有意義な分析情報を提供できます。
 

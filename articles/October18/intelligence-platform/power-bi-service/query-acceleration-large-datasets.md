@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="query-acceleration-for-large-datasets-public-preview"></a>大きなデータセットに対するクエリの迅速化 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 ユーザーは、Spark や Azure SQL Data Warehouse などのソース内の任意のサイズのデータに対して [DirectQuery](https://docs.microsoft.com/power-bi/desktop-directquery-about) モデルを作成し、一部のデータに対してメモリ内集約を構築することで一般的なクエリを高速化できます。 一般的なクエリでは、ソースを直接クエリする代わりに集約されたキャッシュを使用して結果を 1 秒以内に返します。 ユーザーはサイズの大きなデータセットを作成でき、対話型クエリも引き続き提供できます。
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="resource-pools"></a>リソース プール
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 リソースをリソース プールに関連付けて、スケジュール担当者が、実際に作業を実行するリソースを決定する必要なしに、汎用プールに要件を予約できるようにします。
 

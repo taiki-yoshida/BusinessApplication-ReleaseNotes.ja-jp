@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-analytics"></a>カスタム分析
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 Dynamics 365 for Marketing は、取引先担当者がマーケティング イニシアチブとやり取りする方法についての広範で詳細な情報を収集します。 カスタム分析を使用して、Marketing アプリ内でこのデータを編成および提示します。
 

@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="powerapps-sample-app"></a>PowerApps サンプル アプリ
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[field-service banner](../../../includes/field-service.md)]
+
+
 
 リソースの空き時間の検索 API と対話でき、予約を作成するための情報を返すことができる、URS 向けの標準 PowerApps サンプル アプリを提供しています。
 

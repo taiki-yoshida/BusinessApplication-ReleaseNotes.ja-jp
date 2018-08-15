@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="manage-sharepoint-documents"></a>SharePoint ドキュメントの管理
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-portal banner](../../includes/dynamics365-portal.md)]
+
+
 
 
 この機能は、Dynamics 365 アプリケーションのドキュメント管理機能をポータルに拡張し、一貫性のあるエクスペリエンスを提供すると共に、お客様が既存の SharePoint 資産と Dynamics 365 をドキュメント管理に活用できるようにするものです。

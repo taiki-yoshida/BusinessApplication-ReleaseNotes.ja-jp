@@ -20,5 +20,7 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="additional-report-url-parameter-support"></a>追加のレポート URL パラメーターのサポート
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
 レポート URL パラメーターを使用すると、日付列にフィルターを設定し、新しい演算子を使用し (より小、より大、以下、以上)、複数のフィールド値でフィルター処理を行うことができます。
 

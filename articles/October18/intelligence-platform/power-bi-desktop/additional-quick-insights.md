@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="additional-quick-insights-public-preview"></a>追加のクイック分析情報 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 カテゴリごとの価値の分布 (たとえば、製品種類別の売上) を示すビジュアルを表示しているとき、ユーザーはその分布に影響を与えている他の要因を表示するよう Power BI に要求できます。 これは指標に対する影響を特定するのに役立ち、手作業で要因ごとに分析して影響を実験および発見する必要はありません。
 

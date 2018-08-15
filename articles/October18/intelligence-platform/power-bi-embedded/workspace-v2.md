@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="upgraded-workspaces-public-preview"></a>アップグレードされたワークスペース (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 Office 365 グループからデタッチし、セキュリティ グループ経由で共有することにより、ワークスペースの機能制限が解消されます。 下位互換性を維持するため、既存の全 API については、ワークスペースやグループと連携するためのサポートが追加されます。 これにより、スムーズな移行な可能となり、開発者への透明性も確保されます。
 

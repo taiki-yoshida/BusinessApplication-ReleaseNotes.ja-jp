@@ -19,6 +19,8 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="reverse-journal-posting"></a>仕訳帳転記の取消
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 取消が改善され、複数の一般仕訳帳明細行または一般仕訳帳全体の取消が可能になります。 伝票トランザクション フォームからの取消では、限られた数の補助元帳仕訳を取り消すことができます。 取消は、会計ソース エクスプローラーから行うこともできます。

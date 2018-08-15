@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="model-driven-view-designer-enhancements"></a>モデル駆動型ビュー デザイナーの機能強化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 PowerApps 内のビュー デザイナーが向上し、アプリのカスタマイズ担当者は、高度なフィルター処理と並べ替えのロジックを適用する際にライブ プレビューを表示できます。 また、簡略化された並べ替えと、SharePoint や Excel などの列ヘッダーを介した並べ替えを追加して、目的のビューをより迅速に表示できるようにしています。
 

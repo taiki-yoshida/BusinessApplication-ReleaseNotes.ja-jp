@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="unit-aware-expense-category-pricing-for-setup-estimation-and-actuals"></a>セットアップ、見積もり、実績に対する出荷単位に対応した経費カテゴリの価格設定 
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 この機能は、Project Service で、経費カテゴリごとに単位ベースの価格設定方法を使用できるようにするものです。 これにより、次のようなシナリオへの対応が可能になります。
 

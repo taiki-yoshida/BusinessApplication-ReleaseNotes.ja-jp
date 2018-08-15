@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="flow-designer-enhancements"></a>フロー デザイナーの機能拡張
 
+[!include[microsoft-flow banner](../includes/microsoft-flow.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 新しいリッチな HTML ベースのテキスト エディターは、HTML ベースの電子メール、Yammer 投稿用の HTML コンテンツ、ツイートなどの作成に役立ちます。
 

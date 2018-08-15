@@ -19,7 +19,9 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="manage-and-run-sql-server-reporting-services-ssrs-reports-in-unified-interface"></a>統一インターフェイスでの SQL Server Reporting Services (SSRS) レポートの管理と実行
 
-[!include[banner](../../includes/banner.md)]
+[!include[powerapps banner](../includes/powerapps.md)]
+
+
 
 レポートを使用して、ビジネスの管理、進行状況の状態の分析、または単純に品目レベルのデータ概要の表示を行います。 SSRS レポートを管理し、レコードまたはグリッドからエンティティ レベルのレポートを実行できます。
 

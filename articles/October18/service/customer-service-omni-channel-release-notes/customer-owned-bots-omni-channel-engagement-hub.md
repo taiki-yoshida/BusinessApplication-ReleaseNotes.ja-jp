@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="enable-customers-to-bring-their-bots"></a>お客様が自分のボットを持ち込める機能
 
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 現在、会社がニーズに対応して、要件をすばやく効率的かつ正確に持たすことへの顧客の要求がますます高まっています。 同時に、顧客が自分で製品やサービスの問題の解決方法を調べるセルフサービス チャネルの使用への戦略的シフトが存在します。 
 

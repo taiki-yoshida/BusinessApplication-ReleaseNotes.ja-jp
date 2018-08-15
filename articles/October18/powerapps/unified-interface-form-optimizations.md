@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="unified-interface-form-optimizations"></a>統一インターフェイス フォームの最適化
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 フォームやグリッドのデータ密度が改善され、より多くのデータをスクロールなしで表示できるようになりました。 これらの機能強化は、セクションやフィールドの数が多いエンティティ フォームで特に役立ちます。
 

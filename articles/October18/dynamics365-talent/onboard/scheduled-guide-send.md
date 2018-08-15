@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="scheduled-guide-send"></a>ガイド送信スケジュール
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 1 回クリックするだけで、開始日より前、開始日当日、または開始日より後に新規採用者にガイドを自動的に送信します。 マネージャーの干渉を減らし、すべてのガイドが送信されるようにします。
 

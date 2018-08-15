@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="overview-of-microsoft-social-engagement-october-18-release"></a>Microsoft Social Engagement 2018 年 10 月リリースの概要
 
-[!include[banner](../../includes/banner.md)]
+[!include[microsoft-social-engagement banner](../includes/microsoft-social-engagement.md)]
+
+
 
 Microsoft Social Engagement では、Web (ソーシャル、検索、閲覧) の機能を強化することで、ビジネス成果の達成を促進できます。 Web から取得したインテリジェンスを、営業チームやカスタマー サービス エージェント、ブランド マーケティング担当者に提供するだけでなく、組織全域のユーザーが活用できるようにすることで、従業員が分析情報を収集し、顧客や見込顧客と適切なチャネルでやり取りしながら、信頼性のあるソーシャル プレゼンスを構築できるようになります。
 

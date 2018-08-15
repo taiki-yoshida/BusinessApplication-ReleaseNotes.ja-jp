@@ -20,8 +20,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="enterprise-grade-hybrid-connectivity-using-the-on-premises-data-gateway"></a>オンプレミス データ ゲートウェイを使用したエンタープライズ レベルのハイブリッド接続
 
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 このリリースには、オンプレミス データ ゲートウェイを向上するための複数の更新が含まれます。
 

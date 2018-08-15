@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps"></a>キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 エラーは発生します。  キャンバス アプリはエラーが発生したときの既定の動作を提供しますが、これは希望するものとは異なる場合があります。  この機能を使用すると、エラーの補足、問い合わせ、スロー、抑制、ログ記録、ユーザーに対するメッセージの送信を行えます。
 

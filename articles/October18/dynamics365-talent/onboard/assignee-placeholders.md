@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="assignee-placeholders"></a>担当者のプレースホルダー
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
+
+
 
 部署レベルのテンプレートは、最大限に再利用できるようできる限り一般的にします。 たとえば、期限は新しい雇用の開始日から相対的に設定します (たとえば、開始日から 2 週間後)。 プレースホルダーにタスクを割り当てて実行時にマップすることにより、同じ方法で担当者も一般化できます。
 

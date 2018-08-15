@@ -21,8 +21,10 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="self-service-data-prep-for-big-data"></a>ビッグデータに対応したセルフサービスのデータ準備  
 
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
-[!include[banner](../../../includes/banner.md)]
+
+
 
 -   **ビッグデータに対応したセルフサービスのデータ準備** – Microsoft では、ビッグデータからの分析情報取得を支援する新機能によって、Power BI でのセルフサービス データ準備を拡張しています。 ビジネス アナリストは、Power BI Desktop や Excel の数百万人ものユーザーが使い慣れている、Power Query のエクスペリエンスを使用して、データの取り込み、変換、統合を行い、Power BI でデータをエンリッチすることができます。サポートされるデータ ソース (オンプレミスおよびクラウドベース) は幅広く、継続的に拡大されています (Dynamics 365、Salesforce、Azure SQL Data Warehouse、Excel、SharePoint など)。 ユーザーは、データを既知のエンティティに直接マップしたり、既存のエンティティを変更して拡張したり、ユーザー定義エンティティを作成することができます。またそれらの作業はすべて、Power BI 内で行うことができます。
 

@@ -20,9 +20,11 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="undo-redo"></a>元に戻す、やり直し
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
-[!include[banner](../../../includes/public-preview.md)]
+
+
+
 
 
 テンプレートやガイドでの作業中に、変更をすばやく元に戻し、やり直すことができます。 間違いの修正がしやすくなることで、マネージャーのストレスが軽減されます。

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="edit-analytical-workspaces-in-the-client"></a>クライアントでの分析ワークスペースの編集
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 エンド ユーザーは、クライアントを離れたり、開発者を雇ったりしなくても、自分で既製の分析ワークスペース (財務報告を含む) を変更できます。 この機能は、すべての既製の財務報告および分析ワークスペースの他のすべてのレポートに及びます。
 

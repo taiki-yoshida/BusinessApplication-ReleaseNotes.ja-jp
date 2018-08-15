@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="marketing-calendar-for-planning"></a>計画用のマーケティング カレンダー
 
-[!include[banner](../../../includes/banner.md)]
+[!include[marketing banner](../../includes/marketing.md)]
+
+
 
 マーケティング カレンダー コントロールにより、マーケティング担当者は開始日と終了日があるさまざまなマーケティング活動を視覚化することができます。 実際上、マーケティング担当者は同じカレンダーにキャンペーン (イベントなど) の多くの要素を表示して、簡単な概要を提供できます。
 

@@ -19,7 +19,9 @@ ms.lasthandoff: 07/18/2018
 ---
 #  <a name="translation-service"></a>Translation service
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
+
+
 
 今回のリリースでは、ユーザー インターフェイス、コンテンツ翻訳エクスペリエンス、および生産性が改善されます。 このリリースでは、多言語の翻訳要求のサポートが追加され、Dynamics 365 Translation Service API が提供され、CDS を対象としたアプリケーションのサポートが追加されます。 
 

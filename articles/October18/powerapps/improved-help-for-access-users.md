@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="improved-help-for-access-users"></a>Access ユーザー向けのヘルプの向上
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Access ユーザーは、PowerApps を使用して 200 以上のデータ ソースに接続するモバイル アプリおよび Web アプリを作成する方法について学べます。 これらのユーザーは、PowerApps の革新的な機能に関する最新情報をメールで受け取るほか、Access と PowerApps を組み合わせた機能を理解するためにホワイト ペーパー、ケース スタディ、サンプル アプリにアクセスできます。
 

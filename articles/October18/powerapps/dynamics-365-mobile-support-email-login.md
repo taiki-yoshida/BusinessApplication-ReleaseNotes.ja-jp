@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="dynamics-365-mobile-support-email-login"></a>Dynamics 365 Mobile が電子メール ログオンをサポート
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 Dynamics 365 Online または PowerApps のモデル駆動型アプリのユーザーは、サーバー URL ではなく、自分の電子メール アドレスを使用して、Android および iOS の Dynamics 365 アプリにサインインできます。 サインインした後、ユーザーは利用可能なすべてのオンライン組織と環境を表示して選択できます。
 

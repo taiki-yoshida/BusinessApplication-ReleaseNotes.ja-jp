@@ -21,7 +21,9 @@ ms.lasthandoff: 07/18/2018
 
 #  <a name="unified-routing-and-work-distribution"></a>統合されたルーティングと作業の配分 
 
-[!include[banner](../../../includes/banner.md)]
+[!include[customer-service-omni-channel-release-notes banner](../../includes/customer-service-omni-channel-release-notes.md)]
+
+
 
 統合されたルーティング機能と作業配分機能を使用して、チャット、メッセージング、および Web ポータル チャネルから発生した作業項目を、組織内の複数の顧客サービス サポート チームにルーティングできます。 構成インターフェイスを通じて、エージェントが処理する作業プロファイルを厳密に定義できます。 実行時には、エージェントの能力と利用可能性に基づいて、各エージェントへの作業の流れが自動化されます。
 

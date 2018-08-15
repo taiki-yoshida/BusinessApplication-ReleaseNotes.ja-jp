@@ -19,9 +19,11 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../includes/banner.md)]
+
 
 #  <a name="overview-of-data-integration-platform-october-18-release"></a>データ統合プラットフォーム 2018 年 10 月リリースの概要
+
+[!include[data-integration-platform banner](../includes/data-integration-platform.md)]
 
 データ統合は、外部データを Common Data Service (CDS) に取り込み、そのデータを Common Data Model (CDM) フォームに保存することを可能にする、コネクターとゲートウェイを提供します。 これにより、顧客は簡単にデータを 1 か所に統合してビジネス アプリケーションや分析に利用できます。 データ統合は Power Query に基づいています。Power Query は、数百万人が Power BI と Excel で毎日使っているのと同じテクノロジです。
 

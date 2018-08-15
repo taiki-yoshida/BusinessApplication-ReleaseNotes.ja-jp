@@ -20,7 +20,9 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="certified-custom-visuals-in-the-marketplace"></a>マーケットプレースで認定されたカスタム ビジュアル
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
+
+
 
 マーケットプレースでのカスタム ビジュアルの開発者は、拡張されたセキュリティと品質のための追加証明プロセスを経て、Power BI チームから証明を取得できます。これにより、ビジュアルは PowerPoint および電子メール サブスクリプションへのエクスポートでサポートされるようになります。 さらに、証明では、データでビジュアルを使用しても安全であることの再保証がユーザーに提供されます。
 

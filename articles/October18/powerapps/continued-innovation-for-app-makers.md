@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="capabilities-for-app-creators"></a>アプリの作成者向けの機能
 
+[!include[powerapps banner](../includes/powerapps.md)]
 
-[!include[banner](../../includes/banner.md)]
+
+
 
 2018 年 4 月リリースでは、モデル駆動形アプリおよびキャンバス アプリの作成エクスペリエンスや、アプリ用 Common Data Service が大幅に更新されました。 これらの更新により、Office 365 を使用した生産性アプリのユースケースが幅広くサポートされたほか、Dynamics 365 を使用したビジネス アプリの高度なカスタマイズや作成が可能になりました。
 

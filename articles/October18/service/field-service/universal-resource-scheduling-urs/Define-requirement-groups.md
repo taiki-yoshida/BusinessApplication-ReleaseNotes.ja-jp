@@ -19,10 +19,12 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-[!include[banner](../../../../includes/banner.md)]
+
 
 
 #  <a name="create-groups-of-requirements-for-scheduling"></a>スケジューリング用の要件のグループの作成
+
+[!include[field-service banner](../../../includes/field-service.md)]
 
 複数の要件で構成される要件グループを作成し、リソースのチームをスケジュールします。 任意の特定の要件グループに対し、階層形式とすべて/任意の条件で要件を編成できるグリッド ベースのコントロールを使用して、ソース要件を定義できます。
 

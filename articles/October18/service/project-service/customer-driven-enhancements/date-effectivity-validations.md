@@ -19,8 +19,10 @@ ms.lasthandoff: 07/18/2018
 ---
 #   <a name="date-effectivity-validation-on-price-lists"></a>価格表の日付の有効期間の検証
 
+[!include[project-service banner](../../../includes/project-service.md)]
 
-[!include[banner](../../../../includes/banner.md)]
+
+
 
 
 この機能により、特定の日に対して複数の価格表が有効になっているときに、Project Service の価格の既定設定でエラーが発生するのを回避できます。 Project Service では、複数のプロジェクト価格表を見積もり、プロジェクト契約、および組織単位に関連付けることができます。 これは、有効な日付が異なる価格表によって表されるインフレ価格変化を有効にするためです。 
