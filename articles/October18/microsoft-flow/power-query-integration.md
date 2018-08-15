@@ -3,7 +3,8 @@ title: "Power Query 統合"
 description: "メーカーが SQL Server からデータ マッシュアップを形成できるようにする Power Query エクスペリエンスが構築されています。"
 author: KentWeareMSFT
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 497e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

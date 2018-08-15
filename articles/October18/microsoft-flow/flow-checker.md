@@ -3,7 +3,8 @@ title: "フロー チェッカー"
 description: "向上した検証およびエラー修正エクスペリエンス。 ユーザーは、エラー修正方法についてのコンテキスト内ヘルプを提供され、失敗しないフローの作成をガイドされます。"
 author: sunayv
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d7e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

@@ -3,7 +3,8 @@ title: "Microsoft Teams がフローをボットとして使用"
 description: "チーム チャネルのユーザーは、チャネルにコマンドを入力してやり取りするだけで、テキストを使用してフローと対話できます。"
 author: Mhade
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 450627f1-ce73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

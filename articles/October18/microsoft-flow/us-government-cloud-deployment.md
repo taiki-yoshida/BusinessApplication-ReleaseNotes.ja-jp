@@ -3,7 +3,8 @@ title: "米国政府機関クラウドの展開"
 description: "Microsoft Flow は、Government Cloud SKU (GCC および GCC High を含む) で使用できるようになります。なお、DoD クラウドはこれには含まれません。"
 author: stepsic-microsoft-com
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 457e446a-cf73-e811-a967-000d3a18c047
 ms.topic: article
 ms.prod: 
 ms.service: business-applications

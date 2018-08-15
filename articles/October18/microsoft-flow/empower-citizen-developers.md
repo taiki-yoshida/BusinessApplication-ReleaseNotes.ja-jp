@@ -3,7 +3,8 @@ title: "一般開発者の支援"
 description: "一般開発者が Microsoft Flow を使用して信頼性の高い運用対応のソリューションを作成するために必要な主な機能を提供します。"
 author: evchaki
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: aa40ae4f-cf73-e811-a965-000d3a1362e3
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
