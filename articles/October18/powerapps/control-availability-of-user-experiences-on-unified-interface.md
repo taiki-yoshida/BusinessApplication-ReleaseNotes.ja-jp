@@ -3,7 +3,8 @@ title: "統一インターフェイスのユーザー エクスペリエンス�
 description: "顧客は統一インターフェイスで新しいユーザー エクスペリエンスをオフにできます"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 671c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="control-availability-of-user-experiences-on-unified-interface"></a>統一インターフェイスのユーザー エクスペリエンスの利用可能性の制御
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 新規および既存のエンドユーザーは、統一インターフェイスのランタイム時にコア コマンドにアクセスできます。 管理者は、組織レベルで、ユーザーのためにこれらのエクスペリエンスをオンまたはオフに切り替えられます。 
 

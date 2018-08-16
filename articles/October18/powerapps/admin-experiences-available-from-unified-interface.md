@@ -3,7 +3,8 @@ title: "統一インターフェイスから使用可能な管理者エクスペ
 description: "Common Data Service 管理者は、統一インターフェイスからすばやく情報にアクセスできます"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 971c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="admin-experiences-available-from-unified-interface"></a>統一インターフェイスから使用可能な管理者エクスペリエンス
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 管理者は、統一インターフェイスから必要なコンテンツやリンクにアクセスでき、PowerApps 管理センターにもすばやくアクセスできます。
 

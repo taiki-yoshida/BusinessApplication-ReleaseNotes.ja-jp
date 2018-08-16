@@ -3,7 +3,8 @@ title: "PowerApps が Intune をサポート"
 description: "Android と iOS 上の PowerApps が Intune モバイル アプリケーション管理をサポートするようになりました"
 author: sarafankit
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 071c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="powerapps-supports-intune"></a>PowerApps が Intune をサポート
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 Android と iOS 上の PowerApps アプリが Intune と統合され、モバイル アプリケーション管理に対して Intune ポリシーをサポートするようになったので、お客様のデータに対する制御とセキュリティが向上します。
 

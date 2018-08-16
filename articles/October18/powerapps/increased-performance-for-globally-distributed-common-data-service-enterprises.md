@@ -3,7 +3,8 @@ title: "グローバルに分散したアプリ用 Common Data Service エンタ
 description: "アプリ用 Common Data Service を使用するグローバル企業のための機能強化"
 author: richdi
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 9b1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="increased-performance-for-globally-distributed-common-data-service-for-apps-enterprises"></a>グローバルに分散したアプリ用 Common Data Service エンタープライズのパフォーマンスの向上
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 多くの場所に分散し、ネットワーク レイテンシーを経験するエンドユーザーにとって、データ センター関連で場所に関係なくパフォーマンスが一貫して高速になっています。
 

@@ -3,7 +3,8 @@ title: "カスタム メッセージのサポート"
 description: "統一インターフェイス ランタイムで、カスタム メッセージがサポートされるようになります"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 7d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="support-for-custom-messages"></a>カスタム メッセージのサポート
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 ユーザーは、インスタンスにインポートされたソリューションの一部になっているすべてのエンティティについて、メッセージをカスタマイズできるようになります。 このカスタム メッセージは、統一インターフェイス ランタイムの実行時にサポートされます
 

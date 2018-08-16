@@ -3,7 +3,8 @@ title: "ソリューション チェッカーを使用した高品質なモデ�
 description: "PowerApps プラットフォームのカスタマイズと拡張に関するベスト プラクティスを実行します"
 author: aheaney
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 041c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="build-model-driven-apps-of-higher-quality-with-solution-checker"></a>ソリューション チェッカーを使用した高品質なモデル駆動型アプリの構築
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 ソリューション チェッカーは、アプリ開発者が PowerApps プラットフォームのカスタマイズと拡張を行うときにベスト プラクティスを実行するよう支援することによって、より高品質なモデル駆動型アプリを促進します。 チェッカーを実行することにより、アプリ開発者は次のような質問に答えられます。
 

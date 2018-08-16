@@ -3,7 +3,8 @@ title: "式バーの機能拡張"
 description: "キャンバス アプリの式バーから式や下位式の結果を直接表示できます"
 author: gregli-msft
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 4d1c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -17,12 +18,10 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="formula-bar-enhanced"></a>式バーの機能拡張 
-
-[!include[powerapps banner](../includes/powerapps.md)]
+# <a name="formula-bar-enhanced"></a>式バーの機能拡張
 
 
-
+[!include[banner](../../includes/banner.md)]
 
 キャンバス アプリは、フィルターやソートなどの関数を使って強力な式を構成して機能します。 結果は、ギャラリーなどのコントロールに直接送られ、さらに解析される場合があります。
 

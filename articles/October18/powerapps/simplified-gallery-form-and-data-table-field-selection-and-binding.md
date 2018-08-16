@@ -3,7 +3,8 @@ title: "簡略化されたギャラリー、フォーム、およびデータ �
 description: "ギャラリーとフォームで、データ ソースからフィールドが提示されるようになるほか、検索とフィルター処理も改善されます。"
 author: clwesene
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 321c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 07/18/2018
 ---
 # <a name="simplified-gallery-form-and-data-table-field-selection-and-binding"></a>簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 フィールド リストの使いやすさが強化され、ギャラリー、フォーム、およびデータ テーブルの操作性が改善されます。 
 

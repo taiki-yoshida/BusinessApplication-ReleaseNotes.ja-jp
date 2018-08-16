@@ -3,7 +3,8 @@ title: "統一インターフェイスにおけるロールアップ ビュー�
 description: "アクティビティ以外のエンティティでロールアップ ビュー機能を有効にします。"
 author: shilpas
 manager: AnnBe
-ms.date: 7/22/2018
+ms.date: 8/10/2018
+ms.assetid: 821c1f60-ce73-e811-a96b-000d3a18c83b
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -19,10 +20,8 @@ ms.lasthandoff: 08/02/2018
 ---
 # <a name="enhancements-to-roll-up-views-in-unified-interface"></a>統一インターフェイスにおけるロールアップ ビューの拡張
 
-[!include[powerapps banner](../includes/powerapps.md)]
 
-
-
+[!include[banner](../../includes/banner.md)]
 
 機能強化されたロールアップ ビューにより、アクティビティ以外に関連する取引先企業や取引先担当者などのレコードのロールアップを表示できます。
 
