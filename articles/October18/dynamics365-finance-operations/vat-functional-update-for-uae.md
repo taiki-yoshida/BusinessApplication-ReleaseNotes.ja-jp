@@ -11,17 +11,16 @@ ms.technology:
 ms.author: atrukawk
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 46a4f8f033af5d95e0c398fbbb14c94aeb9e3039
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 8c7a861abccfc1aa959a4eaa2244148022ed6fb6
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a><span data-ttu-id="a52a5-103">アラブ首長国連邦用の VAT 報告機能</span><span class="sxs-lookup"><span data-stu-id="a52a5-103">VAT reporting functionality for United Arab Emirates</span></span>
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="a52a5-104">アラブ首長国連邦では、2018 年 1 月 1 日に付加価値税 (VAT) が導入されました。</span><span class="sxs-lookup"><span data-stu-id="a52a5-104">Value added tax (VAT) was introduced in the United Arab Emirates on January 1, 2018.</span></span> <span data-ttu-id="a52a5-105">発布された法令 (Federal Decree Law No.</span><span class="sxs-lookup"><span data-stu-id="a52a5-105">The issued Federal Decree Law No.</span></span> <span data-ttu-id="a52a5-106">(8) of 2017 on Value Added Tax) では、税の範囲、税率、納税義務、およびあらゆるケースにおける商品やサービスの供給について概要が示されています。</span><span class="sxs-lookup"><span data-stu-id="a52a5-106">(8) of 2017 on Value Added Tax outlines the tax scope, rate, responsibility for tax, and supply of goods and services in all cases.</span></span> <span data-ttu-id="a52a5-107">VAT に関する法令の詳細については、[アラブ首長国連邦の税務当局サイト](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat)を参照してください。</span><span class="sxs-lookup"><span data-stu-id="a52a5-107">For more details on VAT regulations, see [Federal Tax Authorities of United Arab Emirates](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat).</span></span>
 

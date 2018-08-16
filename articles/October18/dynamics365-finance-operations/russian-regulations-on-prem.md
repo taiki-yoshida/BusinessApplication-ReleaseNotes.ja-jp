@@ -11,16 +11,16 @@ ms.technology:
 ms.author: anasyash
 audience: end-user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: a986e57c160dc3a3b3ddac4752c38a5a92ca558e
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: b9828bee2d54b8d7682c2fb9fa6b8d3b028d9be1
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="russian-localization"></a><span data-ttu-id="66406-103">ロシア語ローカライズ</span><span class="sxs-lookup"><span data-stu-id="66406-103">Russian localization</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="66406-104">Microsoft Dynamics 365 for Finance and Operations では、ロシアで必須の規制要件がサポートされるようになりました (オンプレミス展開の場合のみ)。</span><span class="sxs-lookup"><span data-stu-id="66406-104">Microsoft Dynamics 365 for Finance and Operations now supports mandatory regulatory requirements in Russia (for on-premises deployment only).</span></span> <span data-ttu-id="66406-105">ロシア語ローカライズの 2018 年 10 月リリースでは、買掛金勘定/売掛金勘定、前貸し保有者、銀行と現金、固定資産、一般会計、財務報告、電子申告、在庫、税登録、アドレス/FIAS、VAT の機能領域がカバーされます。</span><span class="sxs-lookup"><span data-stu-id="66406-105">The October '18 release of the Russian localization covers the following functional areas: accounts payable/accounts receivable, advanced holders, bank and cash, fixed assets, general ledger, financial reporting, electronic reporting, inventory, tax registers, addresses/FIAS, and VAT.</span></span> 
 

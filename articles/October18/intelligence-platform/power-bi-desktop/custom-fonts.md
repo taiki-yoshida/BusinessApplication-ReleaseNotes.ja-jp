@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: d1dc9d8ccd86776679f9849a9f9df77167d4cb10
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: ab8b70b9b1a2063ba56e62d653fce4170ae6f7ed
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="custom-fonts-public-preview"></a><span data-ttu-id="11683-103">カスタム フォント (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="11683-103">Custom fonts (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="11683-104">会社のテーマには、会社全体に配布されて使用される固有のフォントが含まれることがよくあります。</span><span class="sxs-lookup"><span data-stu-id="11683-104">Corporate themes often include specific fonts that are distributed and used throughout the company.</span></span> <span data-ttu-id="11683-105">これらのフォントを Power BI レポートで使用できます。</span><span class="sxs-lookup"><span data-stu-id="11683-105">You can use those fonts in your Power BI reports.</span></span>
 

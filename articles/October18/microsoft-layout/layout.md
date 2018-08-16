@@ -18,10 +18,10 @@ audience:
 - business analyst
 - IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 62ff356275ffd55047573b9224fb7c94df8dd602
-ms.openlocfilehash: cc777d3bd956f6c39cbce65e951430bdff080c03
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 08a2115d96fc6ec541c45f7987c81809b1a3aadf
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/15/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 

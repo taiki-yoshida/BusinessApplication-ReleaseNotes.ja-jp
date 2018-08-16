@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 1dd938dc3081174f1946df2c9f7541a59e7fcabd
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 327c4a545a5490e60d3a84df325969f397ef9587
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="relevant-jobs-and-candidates"></a><span data-ttu-id="70ae5-103">妥当な職務と候補者</span><span class="sxs-lookup"><span data-stu-id="70ae5-103">Relevant jobs and candidates</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="70ae5-104">採用担当者は、フォーカスを置く候補者を決定しようとして困惑することがあります。</span><span class="sxs-lookup"><span data-stu-id="70ae5-104">Recruiters can be overwhelmed by trying to determine which candidates to focus on.</span></span>
 <span data-ttu-id="70ae5-105">Attract は、職務要件に一致する候補者のプロファイルを自動的にハイライト表示し、最も妥当な候補者にフォーカスを置けるようにすることで、採用担当者の時間を節約し、より迅速に欠員を補充できるようにします。</span><span class="sxs-lookup"><span data-stu-id="70ae5-105">Attract automatically highlights candidate profiles that match the job requirements, saving time for the recruiter and helping them close their positions faster by being able to focus on the most relevant candidates.</span></span>

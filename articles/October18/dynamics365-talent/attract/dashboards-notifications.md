@@ -11,16 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: f91fb79ee70b320fe1c9513ebe80252913c532b4
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3642d7d240bd342aee345a46c970bb461e9dd048
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="dashboards-and-notifications"></a><span data-ttu-id="7d337-103">ダッシュボードと通知</span><span class="sxs-lookup"><span data-stu-id="7d337-103">Dashboards and notifications</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="7d337-104">ダッシュボードは、リクルーターと採用マネージャーに関連するアクションをガイドします。</span><span class="sxs-lookup"><span data-stu-id="7d337-104">Dashboard will guide recruiters and hiring managers to relevant actions.</span></span> <span data-ttu-id="7d337-105">詳細な検索エクスペリエンスは、ユーザーがシステムをすばやくナビゲートするのに役立ちます。</span><span class="sxs-lookup"><span data-stu-id="7d337-105">An in-depth search experience will help users quickly navigate the system.</span></span>
 <span data-ttu-id="7d337-106">通知は、採用プロセスを簡素化するための補足情報をユーザーに提供します。</span><span class="sxs-lookup"><span data-stu-id="7d337-106">Notifications will provide the user with supplemental information to streamline the recruitment process.</span></span>

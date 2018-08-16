@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 0ae8e309078c1aea0a4b24abe8eb4b253db34b29
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3b3db487a5e105bae80656d20640059c915a8bf2
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="show-measures-as-clickable-urls"></a><span data-ttu-id="0d322-103">メジャーをクリック可能な URL として表示する</span><span class="sxs-lookup"><span data-stu-id="0d322-103">Show measures as clickable URLS</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="0d322-104">エンド ユーザーは、レポート間を移動したり、レポートから他のアプリケーションに移動しながらも、参照しているデータのコンテキストを維持できる、簡単な方法を求めています。</span><span class="sxs-lookup"><span data-stu-id="0d322-104">End users need an easy way to navigate between reports, or from reports to other applications, while still retaining the context of the data they were looking at.</span></span> <span data-ttu-id="0d322-105">メジャーを使用すれば、移動のための URL を生成したり、レポートやアプリケーション間を簡単に移動するためのハイパーリンクを表示することができます。</span><span class="sxs-lookup"><span data-stu-id="0d322-105">Measures can generate URLs to allow navigation, and can be shown as hyperlinks that make it easy to move between reports or applications.</span></span>
 

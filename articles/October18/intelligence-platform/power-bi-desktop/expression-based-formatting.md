@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fcb9245a6da72add9bad1d872931dacb09425138
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: bf1e3add265363a1d4424e361993e3f10efdbacf
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="expression-based-formatting"></a><span data-ttu-id="fcaed-103">式ベースの書式設定</span><span class="sxs-lookup"><span data-stu-id="fcaed-103">Expression-based formatting</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="fcaed-104">レポート作成者は、ビジュアルを柔軟に書式設定できる必要があります。</span><span class="sxs-lookup"><span data-stu-id="fcaed-104">Report authors need flexibility over how their visuals are formatted.</span></span> <span data-ttu-id="fcaed-105">書式設定ウィンドウでの書式設定の定義と共に、[DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) 式を使用して書式を設定でき、ビジュアルの書式設定に使用されるビジネス ロジックを完全に制御できます。</span><span class="sxs-lookup"><span data-stu-id="fcaed-105">As well as defining formatting through the formatting pane, a [DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) expression can be used to set the formatting, giving full control over the business logic used to format the visual.</span></span>
 

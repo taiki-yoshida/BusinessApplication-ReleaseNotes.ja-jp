@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 31df29055bc04ebb0dd85d8851766ab34a0471e2
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 3ca4c0afadf4af1ad7d87acba1bcc1299d5898ec
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="expand-and-collapse-in-matrix-visual-public-preview"></a><span data-ttu-id="fb72d-103">マトリックス ビジュアルの展開と折りたたみ (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="fb72d-103">Expand and collapse in matrix visual (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="fb72d-104">Excel のピボットテーブル エクスペリエンスに慣れたエンド ユーザーは、Power BI のマトリックス ビジュアルでも同様の機能を必要とします。</span><span class="sxs-lookup"><span data-stu-id="fb72d-104">End users who are familiar with the PivotTable experience in Excel need a similar one in the Power BI matrix visual.</span></span> <span data-ttu-id="fb72d-105">ユーザーはマトリックスで項目を展開して詳細を表示しながら、概要レベルの情報も見ることができます。</span><span class="sxs-lookup"><span data-stu-id="fb72d-105">Users can expand items in the matrix to see details while still showing higher-level information.</span></span>
 

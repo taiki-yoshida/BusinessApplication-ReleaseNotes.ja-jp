@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 4b489aef3c3e51807d49aa3dff23d4e40f378e3f
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 8007ee684fbfa56a32a298a129154de59470db47
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="theming-general-availability"></a><span data-ttu-id="1a0b2-103">テーマ化の一般提供</span><span class="sxs-lookup"><span data-stu-id="1a0b2-103">Theming general availability</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="1a0b2-104">レポート内のすべてのビジュアルを会社のブランディング ガイドラインなどに合わせて手動で編集することは、手間と時間のかかるプロセスです。</span><span class="sxs-lookup"><span data-stu-id="1a0b2-104">Manually editing every visual in a report to match, for example, corporate branding guidelines can be a laborious and time-consuming process.</span></span> <span data-ttu-id="1a0b2-105">Power BI Desktop を使用すれば、レポートにテーマ ファイルを適用して、スタイルや書式設定プロパティを自動的に適用することができます。</span><span class="sxs-lookup"><span data-stu-id="1a0b2-105">Power BI Desktop lets you apply a theme file to your reports to automatically apply styles and formatting properties.</span></span>
 

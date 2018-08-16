@@ -11,17 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 40cbd22fb19eb8a5799b6ccb8a9ea5eec6a1576f
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: ec6fc313ef498181725c0e131d0e2ec1a91a90ce
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="aggregations-public-preview"></a><span data-ttu-id="0183f-103">集約 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="0183f-103">Aggregations (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="0183f-104">大量のデータには、フィルターによる対話型分析と詳細レベル レポートのニーズのバランスを取る新しい情報格納方法が必要です。</span><span class="sxs-lookup"><span data-stu-id="0183f-104">Massive volumes of data require new ways of storing information to balance the needs of slice-and-dice interactive analysis with deep, detail-level reporting.</span></span> <span data-ttu-id="0183f-105">集約機能により、モデル開発者は対話型分析のために高レベルでキャッシュされた値を表示でき、ユーザーは基になるデータからクエリされた詳細データにドリルダウンすることができます。</span><span class="sxs-lookup"><span data-stu-id="0183f-105">Aggregations allow model developers to surface cached values at a high level for interactive analysis, but still let users drill down to detailed data that is queried from the underlying data.</span></span>
 

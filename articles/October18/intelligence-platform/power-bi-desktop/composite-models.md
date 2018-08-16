@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: developer, citizen developer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 3256b373787e8c32a7ef80faad85e2ebd5f3634e
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: f32678967b820a258a7ad9a37325f99bf11a6cc7
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="composite-models-public-preview"></a><span data-ttu-id="d6d82-103">複合モデル (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="d6d82-103">Composite models (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="d6d82-104">複合モデルを使用すると、インポート ソースと表形式の直接クエリ ソースを混在させることができ、複数の表形式 DirectQuery ソースを使用できます。</span><span class="sxs-lookup"><span data-stu-id="d6d82-104">Composite models allow you to mix import and tabular direct query sources as well as have multiple tabular DirectQuery sources.</span></span> <span data-ttu-id="d6d82-105">これにより、インポートされたテーブルでエンタープライズ データ モデルを拡大できます。</span><span class="sxs-lookup"><span data-stu-id="d6d82-105">This lets you augment your enterprise data models with imported tables.</span></span> 
 

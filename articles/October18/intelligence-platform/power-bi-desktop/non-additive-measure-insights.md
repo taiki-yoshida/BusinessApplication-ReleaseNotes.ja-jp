@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 5459d93f61f016f72d82beed1d6609adeb2c55d1
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 0652b0518dd221755d2c4b0c0372ac6fef3ac32d
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a><span data-ttu-id="96baf-103">非加法メジャーのクイック分析情報 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="96baf-103">Quick Insights for non-additive measures (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="96baf-104">クイック分析情報は、ユーザーのデータのトレンド、変化、分布に関する自動化された説明を提供します。</span><span class="sxs-lookup"><span data-stu-id="96baf-104">Quick Insights provides automated explanations for trends, changes, and distributions in users' data.</span></span> <span data-ttu-id="96baf-105">非加法メジャーのサポートは、これらの分析情報を、在庫やユーザー分析などの複雑なビジネス ロジックを使用するメトリックに提供できることを意味します。</span><span class="sxs-lookup"><span data-stu-id="96baf-105">Support for non-additive measures means these insights can be provided over metrics that use complex business logic such as inventory and user analytics.</span></span> 
 

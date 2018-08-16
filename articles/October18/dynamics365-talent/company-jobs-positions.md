@@ -11,16 +11,16 @@ ms.technology:
 ms.author: dkrame
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: 316acef163f66f740f02cd3fc2a01a36b2c935ba
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 87751b6c50bfca5ea12709180eaaa3361eaee470
 ms.contentlocale: ja-jp
-ms.lasthandoff: 08/03/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="company-based-jobs-and-positions"></a><span data-ttu-id="2ba5f-103">会社ベースの職務と職位</span><span class="sxs-lookup"><span data-stu-id="2ba5f-103">Company-based jobs and positions</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="2ba5f-104">会社の組織を柔軟に定義できることは非常に重要です。</span><span class="sxs-lookup"><span data-stu-id="2ba5f-104">Flexibility in defining a company’s organization is very important.</span></span> <span data-ttu-id="2ba5f-105">職務には世界共通の説明や職務ファミリがある場合がある一方で、報酬、必要なスキル、教育、他のデータは、職務または職位が存在する会社や地域によって異なる可能性があります。</span><span class="sxs-lookup"><span data-stu-id="2ba5f-105">Jobs may have universal descriptions and job families, while compensation, skills required, education, and other data may differ based on the company or region within which the job or position resides.</span></span> <span data-ttu-id="2ba5f-106">会社ベースの職務と職位のデータは、両方のシナリオに対する回答を提供します。</span><span class="sxs-lookup"><span data-stu-id="2ba5f-106">Company-based job and position data provides an answer to both scenarios.</span></span>
 

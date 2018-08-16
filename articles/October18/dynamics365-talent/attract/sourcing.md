@@ -11,17 +11,16 @@ ms.technology:
 ms.author: shielas
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: fc3a2ef0430d102c1fb314db28be67bceda53016
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 39fb3efac105b2bd062609dc43c4a8afe07ce806
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="sourcing"></a><span data-ttu-id="638a6-103">ソーシング</span><span class="sxs-lookup"><span data-stu-id="638a6-103">Sourcing</span></span>
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 <span data-ttu-id="638a6-104">この機能を使用すると、採用担当者と採用マネージャーは、見込者を追跡し、Recruiter System Connect を使用して LinkedIn Recruiter から見込者をプッシュし、LinkedIn (候補者オプトインを使用) から得られた情報を含む候補者の統合プロファイルを作成できるようになり、調達パイプラインに対する可視性を確保できるようになります。</span><span class="sxs-lookup"><span data-stu-id="638a6-104">This feature enables recruiters and hiring managers to have visibility into the sourcing pipeline by providing the ability to track prospects, push prospects from LinkedIn Recruiter using Recruiter System Connect, and create a unified profile for a candidate including the information that is known from LinkedIn (with candidate opt-in).</span></span>
 

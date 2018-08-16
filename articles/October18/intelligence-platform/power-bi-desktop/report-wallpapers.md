@@ -11,16 +11,16 @@ ms.technology:
 ms.author: willthom
 audience: end user, developer, citizen developer, customizer, business analyst, IT pro
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: de874d19fa89c666a559927b7f0e9ef5219088fc
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 034e29458b4dd7ad85c0d2d28958752c1c540753
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="report-wallpapers-public-preview"></a><span data-ttu-id="12b72-103">レポートの壁紙 (パブリック プレビュー)</span><span class="sxs-lookup"><span data-stu-id="12b72-103">Report wallpapers (Public Preview)</span></span>
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 <span data-ttu-id="12b72-104">レポート アプリケーションのブランドに合うようにレポート ページを囲む枠を制御します。</span><span class="sxs-lookup"><span data-stu-id="12b72-104">Control the chrome surrounding report pages to better match the branding of your reporting applications.</span></span>
 

@@ -11,16 +11,16 @@ ms.technology:
 ms.author: aolson
 audience: end user
 ms.translationtype: HT
-ms.sourcegitcommit: 0b40bb3c98145f5a260f412701a884a5936174ce
-ms.openlocfilehash: bb5aa9a4b48061d5d513090cbef111395d3b9e00
+ms.sourcegitcommit: 7d6f339c1e92c937c47306db6da360eb8fdd5d77
+ms.openlocfilehash: 383d33b0132ba75f86386cbd95ed6bf1cbd4ebc8
 ms.contentlocale: ja-jp
-ms.lasthandoff: 07/18/2018
+ms.lasthandoff: 08/16/2018
 
 ---
 
 # <a name="enterprise-credit-management"></a><span data-ttu-id="d0bcf-103">エンタープライズ貸方管理</span><span class="sxs-lookup"><span data-stu-id="d0bcf-103">Enterprise credit management</span></span>
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 <span data-ttu-id="d0bcf-104">エンタープライズ貸方管理は、会計と財務の専門家に貸方制御管理プロセスを自動化する機能を提供します。</span><span class="sxs-lookup"><span data-stu-id="d0bcf-104">Enterprise credit management provides capabilities to automate the credit control management process for accounting and finance professionals.</span></span>
 
