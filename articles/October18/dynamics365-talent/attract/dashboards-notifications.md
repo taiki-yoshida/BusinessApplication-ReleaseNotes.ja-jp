@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="dashboards-and-notifications"></a>ダッシュボードと通知
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 ダッシュボードは、リクルーターと採用マネージャーに関連するアクションをガイドします。 詳細な検索エクスペリエンスは、ユーザーがシステムをすばやくナビゲートするのに役立ちます。
 通知は、採用プロセスを簡素化するための補足情報をユーザーに提供します。

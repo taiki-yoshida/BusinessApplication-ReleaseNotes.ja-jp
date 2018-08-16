@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="globalization--enhanced-configurability"></a>グローバリゼーション - 構成可能性の強化
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 機能の構成可能性により、パートナーや顧客はコーディングしないで拡張とカスタマイズを行うことができます。 構成可能性の広さと深さの両方について拡張を続けており、この領域では次の新機能を追加しました。
 

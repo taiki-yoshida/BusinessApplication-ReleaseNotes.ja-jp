@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extensibility"></a>拡張性
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 各組織の雇用プロセスは固有であり、組織の独自性が強調されるように設計されていることを、Microsoft は理解しています。 ネイティブ アプリケーションの拡張機能は、これらのニーズをサポートするために重要です。 PowerApps、Microsoft Flow、Power BI、Office Forms、Microsoft Stream、その他を組み込むことができる拡張機能が提供されています。 これにより、コア データやプロセスの特別なアクティビティや拡張に対応できます。
 

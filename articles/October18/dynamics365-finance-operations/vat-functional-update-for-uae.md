@@ -18,10 +18,9 @@ ms.lasthandoff: 07/18/2018
 
 ---
 
-
-[!include[banner](../../includes/banner.md)]
-
 # <a name="vat-reporting-functionality-for-united-arab-emirates"></a>アラブ首長国連邦用の VAT 報告機能
+
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 アラブ首長国連邦では、2018 年 1 月 1 日に付加価値税 (VAT) が導入されました。 発布された法令 (Federal Decree Law No. (8) of 2017 on Value Added Tax) では、税の範囲、税率、納税義務、およびあらゆるケースにおける商品やサービスの供給について概要が示されています。 VAT に関する法令の詳細については、[アラブ首長国連邦の税務当局サイト](https://government.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat)を参照してください。
 

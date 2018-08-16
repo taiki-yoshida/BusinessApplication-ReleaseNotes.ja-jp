@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="custom-fonts-public-preview"></a>カスタム フォント (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 会社のテーマには、会社全体に配布されて使用される固有のフォントが含まれることがよくあります。 これらのフォントを Power BI レポートで使用できます。
 

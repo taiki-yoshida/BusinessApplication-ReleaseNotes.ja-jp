@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expression-based-formatting"></a>式ベースの書式設定
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 レポート作成者は、ビジュアルを柔軟に書式設定できる必要があります。 書式設定ウィンドウでの書式設定の定義と共に、[DAX](https://docs.microsoft.com/power-bi/desktop-quickstart-learn-dax-basics) 式を使用して書式を設定でき、ビジュアルの書式設定に使用されるビジネス ロジックを完全に制御できます。
 

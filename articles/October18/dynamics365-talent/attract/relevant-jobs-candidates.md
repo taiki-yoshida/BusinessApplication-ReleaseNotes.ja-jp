@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="relevant-jobs-and-candidates"></a>妥当な職務と候補者
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 採用担当者は、フォーカスを置く候補者を決定しようとして困惑することがあります。
 Attract は、職務要件に一致する候補者のプロファイルを自動的にハイライト表示し、最も妥当な候補者にフォーカスを置けるようにすることで、採用担当者の時間を節約し、より迅速に欠員を補充できるようにします。

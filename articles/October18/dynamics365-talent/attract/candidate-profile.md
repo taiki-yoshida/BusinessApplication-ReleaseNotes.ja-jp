@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="candidate-profile-connection"></a>候補者のプロファイルの接続
 
-
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 候補者についてできるだけ多くの情報を得ることは、適切な雇用の評価と選択に欠かせません。 候補者プロファイルの拡張により、より多くの情報を追跡および管理できるようになります。 また、関連性や検索などの他の機能でも候補者データを使用できます。
 

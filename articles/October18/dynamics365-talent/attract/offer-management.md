@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="offer-management"></a>オファー管理
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 採用担当者と採用マネージャーは、組織の定義済みパッケージ テンプレートを使用してオファーを作成および承認できます。 また、オファーを表示して承諾し、組織へのオンボーディングを開始するための業界標準の DocuSign および Adobe Sign 機能を候補者に提供することもできます。
 

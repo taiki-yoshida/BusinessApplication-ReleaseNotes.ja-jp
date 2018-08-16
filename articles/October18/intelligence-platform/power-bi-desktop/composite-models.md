@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="composite-models-public-preview"></a>複合モデル (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 複合モデルを使用すると、インポート ソースと表形式の直接クエリ ソースを混在させることができ、複数の表形式 DirectQuery ソースを使用できます。 これにより、インポートされたテーブルでエンタープライズ データ モデルを拡大できます。 
 

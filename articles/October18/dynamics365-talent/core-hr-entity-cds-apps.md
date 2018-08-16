@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="extended-core-hr-entity-scope-on-common-data-service-for-apps"></a>アプリ用 Common Data Service 上の Core HR エンティティのスコープの拡張
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 顧客は、重要な人材を引き付けて維持するために HR と Talent のエクスペリエンスのデジタル変換を推進する効率的な手段を必要とします。 ユーザーの単一で一貫したビューは、これを達成する重要な基礎の 1 つです。
 ほとんどの Core HR エンティティは、アプリ用 Common Data Service で既に使用できます。 残りの領域も、このデジタル変換を推進するために利用できるようになります。

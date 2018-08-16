@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-general-availability"></a>テーマ化の一般提供
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 レポート内のすべてのビジュアルを会社のブランディング ガイドラインなどに合わせて手動で編集することは、手間と時間のかかるプロセスです。 Power BI Desktop を使用すれば、レポートにテーマ ファイルを適用して、スタイルや書式設定プロパティを自動的に適用することができます。
 

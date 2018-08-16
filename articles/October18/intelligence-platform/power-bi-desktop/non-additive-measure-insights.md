@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="quick-insights-for-non-additive-measures-public-preview"></a>非加法メジャーのクイック分析情報 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 クイック分析情報は、ユーザーのデータのトレンド、変化、分布に関する自動化された説明を提供します。 非加法メジャーのサポートは、これらの分析情報を、在庫やユーザー分析などの複雑なビジネス ロジックを使用するメトリックに提供できることを意味します。 
 

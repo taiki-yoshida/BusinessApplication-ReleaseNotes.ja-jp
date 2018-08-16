@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="skype-interviews"></a>Skype Interviews
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 この機能は、Skype Interview プラットフォームとのネイティブ統合によって、遠隔地からの審査や面接を可能にするものです。 現在、審査や面接の設定と実行は、Skype for Business を通じてサポートされています。 この機能を使用すると、ユーザーは Skype for Business か Skype Interviews のいずれかを選択できるようになります。
 

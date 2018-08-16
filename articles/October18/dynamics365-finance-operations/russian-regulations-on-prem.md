@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="russian-localization"></a>ロシア語ローカライズ
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 Microsoft Dynamics 365 for Finance and Operations では、ロシアで必須の規制要件がサポートされるようになりました (オンプレミス展開の場合のみ)。 ロシア語ローカライズの 2018 年 10 月リリースでは、買掛金勘定/売掛金勘定、前貸し保有者、銀行と現金、固定資産、一般会計、財務報告、電子申告、在庫、税登録、アドレス/FIAS、VAT の機能領域がカバーされます。 
 

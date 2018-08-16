@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="enterprise-credit-management"></a>エンタープライズ貸方管理
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-finance-operations banner](../includes/dynamics365-finance-operations.md)]
 
 エンタープライズ貸方管理は、会計と財務の専門家に貸方制御管理プロセスを自動化する機能を提供します。
 

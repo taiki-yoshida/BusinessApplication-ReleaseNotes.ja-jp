@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="theming-over-report-level-and-visual-container-styles"></a>レポート レベルとビジュアル コンテナーのスタイルをカバーしたテーマ化
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 レポート作成者は、すべてのレポートに適用される共通の書式設定を必要とします。 Power BI を使用すれば、各ビジュアルの書式設定オプションを定義するテーマを作成できるだけでなく、今回のリリースでは、レポートとビジュアル コンテナーのスタイルもテーマ化することができます。
 

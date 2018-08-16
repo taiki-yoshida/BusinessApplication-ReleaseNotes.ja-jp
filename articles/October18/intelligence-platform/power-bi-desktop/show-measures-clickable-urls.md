@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="show-measures-as-clickable-urls"></a>メジャーをクリック可能な URL として表示する
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 エンド ユーザーは、レポート間を移動したり、レポートから他のアプリケーションに移動しながらも、参照しているデータのコンテキストを維持できる、簡単な方法を求めています。 メジャーを使用すれば、移動のための URL を生成したり、レポートやアプリケーション間を簡単に移動するためのハイパーリンクを表示することができます。
 

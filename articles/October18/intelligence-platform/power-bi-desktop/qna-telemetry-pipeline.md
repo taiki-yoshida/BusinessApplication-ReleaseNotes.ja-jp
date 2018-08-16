@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="qa-telemetry-pipeline-public-preview"></a>Q&A テレメトリ パイプライン (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Power BI アプリを作成しているパートナーは、アプリで Q&A の使用状況データを利用して、実際の使用状況に基づいて言語スキーマや Q&A 結果を向上させる方法を確認できます。
 

@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="talent-pools"></a>タレント プール
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 採用担当者は、候補者や見込者の一覧をタレント プールで整理し、管理できます。 タレント プールは個人用にすることもできますし、採用担当者間で共有することもできます。
 

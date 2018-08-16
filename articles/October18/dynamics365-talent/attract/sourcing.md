@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="sourcing"></a>ソーシング
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 この機能を使用すると、採用担当者と採用マネージャーは、見込者を追跡し、Recruiter System Connect を使用して LinkedIn Recruiter から見込者をプッシュし、LinkedIn (候補者オプトインを使用) から得られた情報を含む候補者の統合プロファイルを作成できるようになり、調達パイプラインに対する可視性を確保できるようになります。
 

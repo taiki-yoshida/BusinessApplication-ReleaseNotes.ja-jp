@@ -20,8 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="aggregations-public-preview"></a>集約 (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
-
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 大量のデータには、フィルターによる対話型分析と詳細レベル レポートのニーズのバランスを取る新しい情報格納方法が必要です。 集約機能により、モデル開発者は対話型分析のために高レベルでキャッシュされた値を表示でき、ユーザーは基になるデータからクエリされた詳細データにドリルダウンすることができます。
 

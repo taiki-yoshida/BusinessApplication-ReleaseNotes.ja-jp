@@ -21,21 +21,21 @@ ms.lasthandoff: 07/18/2018
 
 このトピックでは、2018 年 10 月から 2019 年 3 月の間に Microsoft Dynamics 365 Business Central でリリースが計画されている機能の一覧を示します。
 
-[!include[banner](../../includes/banner.md)]
 
-| 機能 | リリースの種類 | 目標リリース月 |
-|------------|----------|--------|
-| [デスクトップ ユーザーの生産性のための機能](high-productivity-user-experience.md) | 一般提供 | 2018 年 10 月  |
-| [デスクトップ ユーザーのユーザー補助機能](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#accessibility) |  一般提供 |  2018 年 10 月  |
-| [主要なデスクトップ画面上の刷新されたエクスペリエンス](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#refreshed-desktop-experience) |  一般提供 |   2018 年 10 月  |
-| [どこからでも Business Central を使用可能](business-central-everywhere.md)|  一般提供  |  2018 年 10 月  |
-| [Business Central のモバイル/付属アプリの結合](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#access-from-anywhere) |  一般提供 | 2018 年 10 月    |
-| [強化された Power BI 埋め込みエクスペリエンス](enhanced-power-bi-embed-experience.md)  | 一般提供    | 2018 年 10 月   |
-| [アクセス許可セットを編集可能](editablepermissionsets.md)  | 一般提供    | 2018 年 10 月   |
-| [VAR 向けテナント管理](var-tenant-administration.md)  | 一般提供    | 2018 年 10 月   |
-| [Visual Studio Code AL エクスペリエンスの向上](visual-studio-code-improvements.md)  | 一般提供    | 2018 年 10 月   |
-| [ローカライズ アプリと翻訳アプリ](localization.md)      |  一般提供  |  2018 年 10 月   |
-| [Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ](dynamics-intelligent-edge.md)   | 一般提供  |  2018 年 10 月|
-| デスクトップ ユーザーの生産性のための機能の追加 |     | 未スケジュール |
-| 追加のデスクトップ画面上の刷新されたエクスペリエンス |     | 未スケジュール |
+
+| 機能 | リリースの種類  |目標リリース月 |
+|------------|----------|-------------|
+| [デスクトップ ユーザーの生産性のための機能](high-productivity-user-experience.md) | 一般提供 |      2018 年 10 月  |
+| [デスクトップ ユーザーのユーザー補助機能](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#accessibility) |  一般提供 |       2018 年 10 月  |
+| [主要なデスクトップ画面上の刷新されたエクスペリエンス](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#refreshed-desktop-experience) |  一般提供 |        2018 年 10 月  |
+| [どこからでも Business Central を使用可能](business-central-everywhere.md)|  一般提供  |       2018 年 10 月  |
+| [Business Central のモバイル/付属アプリの結合](/business-applications-release-notes/october18/dynamics365-business-central/high-productivity-user-experience#access-from-anywhere) |  一般提供 |      2018 年 10 月    |
+| [強化された Power BI 埋め込みエクスペリエンス](enhanced-power-bi-embed-experience.md)  | 一般提供    |      2018 年 10 月   |
+| [アクセス許可セットを編集可能](editablepermissionsets.md)  | 一般提供    |      2018 年 10 月   |
+| [VAR 向けテナント管理](var-tenant-administration.md)  | 一般提供    |      2018 年 10 月   |
+| [Visual Studio Code AL エクスペリエンスの向上](visual-studio-code-improvements.md)  | 一般提供    |2018 年 10 月   |
+| [ローカライズ アプリと翻訳アプリ](localization.md)      |  一般提供  |       2018 年 10 月   |
+| [Dynamics GP、Dynamics SL、Dynamics NAV のインテリジェント エッジ](dynamics-intelligent-edge.md)   | 一般提供  |       2018 年 10 月|
+| デスクトップ ユーザーの生産性のための機能の追加 |           |未スケジュール |
+| 追加のデスクトップ画面上の刷新されたエクスペリエンス |           |未スケジュール |
 

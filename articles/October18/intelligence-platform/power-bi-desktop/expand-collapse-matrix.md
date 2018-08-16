@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="expand-and-collapse-in-matrix-visual-public-preview"></a>マトリックス ビジュアルの展開と折りたたみ (パブリック プレビュー)
 
-[!include[banner](../../../includes/banner.md)]
+[!include[intelligence-platform banner](../../includes/intelligence-platform.md)]
 
 Excel のピボットテーブル エクスペリエンスに慣れたエンド ユーザーは、Power BI のマトリックス ビジュアルでも同様の機能を必要とします。 ユーザーはマトリックスで項目を展開して詳細を表示しながら、概要レベルの情報も見ることができます。
 

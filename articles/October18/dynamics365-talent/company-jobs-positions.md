@@ -20,7 +20,7 @@ ms.lasthandoff: 08/03/2018
 
 # <a name="company-based-jobs-and-positions"></a>会社ベースの職務と職位
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 会社の組織を柔軟に定義できることは非常に重要です。 職務には世界共通の説明や職務ファミリがある場合がある一方で、報酬、必要なスキル、教育、他のデータは、職務または職位が存在する会社や地域によって異なる可能性があります。 会社ベースの職務と職位のデータは、両方のシナリオに対する回答を提供します。
 

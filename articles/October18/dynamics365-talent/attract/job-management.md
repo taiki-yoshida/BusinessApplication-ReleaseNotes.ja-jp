@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="job-and-process-enhancements"></a>職務とプロセスの機能強化
 
-[!include[banner](../../../includes/banner.md)]
+[!include[dynamics365-talent banner](../../includes/dynamics365-talent.md)]
 
 職務とプロセスの管理は、欠員を作成から実行まで追跡するために必要な構造化データを拡張することで採用プロセスを形式化します。
 さらに、これらの機能は、アプリ用 Common Data Service に公開されているデータを利用して Core HR システムと Attract 間の統合を強化します。

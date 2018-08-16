@@ -20,7 +20,7 @@ ms.lasthandoff: 07/18/2018
 
 # <a name="leave-and-absence-management"></a>休暇の管理
 
-[!include[banner](../../includes/banner.md)]
+[!include[dynamics365-talent banner](../includes/dynamics365-talent.md)]
 
 効率的な休暇の管理は、準拠だけでなく従業員のエンゲージメントにも重要です。 Talent のこの部分の機能を強化すると、組織は継続して休暇計画の管理を簡素化し、マネージャーは休暇スケジュールに対応し、従業員は仕事とプライベートのバランスを取ることができます。
 
