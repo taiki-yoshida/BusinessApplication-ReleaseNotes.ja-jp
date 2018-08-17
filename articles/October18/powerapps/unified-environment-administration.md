@@ -1,5 +1,5 @@
 ---
-title: "統合環境管理"
+title: "環境管理機能の統合"
 description: "管理者が、アプリ用 Common Data Service のすべての環境を 1 つの場所からプロビジョニングし、監視し、管理できるようになります"
 author: ImadYanni
 manager: AnnBe
@@ -17,7 +17,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="unified-environment-administration"></a>統合環境管理
+# <a name="unified-environment-administration"></a>環境管理機能の統合
 
 
 [!include[banner](../../includes/banner.md)]
