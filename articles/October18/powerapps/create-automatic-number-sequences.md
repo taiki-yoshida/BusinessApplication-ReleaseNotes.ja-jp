@@ -17,7 +17,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="create-automatic-number-sequences"></a>自動番号順序の作成
+# <a name="create-automatic-number-sequences"></a>自動採番の作成
 
 [!include[powerapps banner](../includes/powerapps.md)]
 
