@@ -37,11 +37,11 @@ ms.lasthandoff: 07/18/2018
 | [Power BI 内の PowerApps のより深い統合 ](deeper-powerapps-integration-in-powerbi.md)                                                                                                                     | 一般提供 | 2018 年 10 月         |
 | [アプリ用 Common Data Service のデータを使用した Power BI レポートの作成](create-powerbi-reports-using-data-in-the-common-data-service-for-apps.md)                                                      | 一般提供 | 2018 年 10 月         |
 | [PowerApps Web パーツを使用した SharePoint ページへのアプリケーションの埋め込み](embed-applications-on-sharepoint-pages-using-powerapps-web-part.md)                                                                                                                 | 一般提供 | 2018 年 10 月         |
-| [独自のアプリ サイズの選択](choose-your-own-size-of-app.md)                                                                                                                                             | 一般提供 | 2018 年 10 月         |
+| [アプリ サイズの自由な指定](choose-your-own-size-of-app.md)                                                                                                                                             | 一般提供 | 2018 年 10 月         |
 | [レスポンシブ レイアウトでのキャンバス アプリの作成](create-canvas-apps-with-responsive-layout.md)                                                                                                                 | 一般提供 | 2018 年 10 月         |
 | [既定のテーマの改善により埋め込みアプリが SharePoint に属するように見える](improved-default-themes-help-embedded-apps-feel-like-they-belong-in-sharepoint.md)                                     | 一般提供 | 2018 年 10 月         |
 | [SharePoint フォーム機能の強化](enhanced-sharepoint-forms-functionality.md)                                                                                                                                 | 一般提供 | 2018 年 10 月         |
-| [PowerApps メーカーが SharePoint ドキュメント ライブラリを使用してマッシュアップ アプリを作成できる](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md)                                             | 一般提供 | 2018 年 10 月         |
+| [PowerAppsアプリ開発者はSharePoint ドキュメント ライブラリをアプリへ組み込むことが可能に](powerapps-makers-can-create-mashup-apps-with-sharepoint-document-libraries.md)                                             | 一般提供 | 2018 年 10 月         |
 | [キャンバス アプリのリッチ テキスト エディターおよび HTML ビュー コントロール](rich-text-editor-and-html-view-controls-for-canvas-apps.md)                                                                                     | 一般提供 | 2018 年 10 月         |
 | [カスケード ドロップダウンとフィールドの条件付き表示の構成がより簡単に](easier-to-configure-cascading-dropdowns-and-conditional-field-visibility.md)                                                 | 一般提供 | 2018 年 10 月         |
 | [簡略化されたギャラリー、フォーム、およびデータ テーブル フィールドの選択とバインド](simplified-gallery-form-and-data-table-field-selection-and-binding.md)                                                           | 一般提供 | 2018 年 10 月         |
@@ -53,12 +53,12 @@ ms.lasthandoff: 07/18/2018
 | [キャンバス アプリによるエラーの捕捉、処理、レポートとデータベースへの Null 値の書き込み](catch-handle-and-report-errors-and-write-null-values-to-databases-with-canvas-apps.md)                           | 一般提供 | 2018 年 10 月         |
 | [Common Data Service または SharePoint を使用しているときにキャンバス アプリでわかりやすい表示名を使用する](work-with-friendly-display-names-in-canvas-apps-when-using-the-common-data-service-or-sharepoint.md) | 一般提供 | 2018 年 10 月         |
 | [数式バーに追加された追加の機能拡張](additional-enhancements-added-to-the-formula-bar.md)                                                                                                   | 一般提供 | 2018 年 10 月         |
-| [アプリ メーカーが検出しやすくなったエラー](errors-more-discoverable-by-app-makers.md)                                                                                                                       | 一般提供 | 2018 年 10 月         |
+| [アプリ開発者向けのエラー検出機能の強化](errors-more-discoverable-by-app-makers.md)                                                                                                                       | 一般提供 | 2018 年 10 月         |
 | [キャンバス アプリでの並列データ読み込みによる読み込み時間の短縮](faster-load-times-with-parallel-data-loading-in-canvas-apps.md)                                                                           | 一般提供 | 2018 年 10 月         |
 | [読みやすくなった式の書式](formula-formatting-easier-to-read.md)                                                                                                                                 | 一般提供 | 2018 年 10 月         |
 | [エンティティでの高度なリレーションシップ](advanced-relationships-on-entities.md)                                                                                                                               | 一般提供 | 2018 年 10 月         |
 | [エンティティでの簡略化された検索フィールドの作成](simplified-lookup-field-creation-on-entities.md)                                                                                                           | 一般提供 | 2018 年 10 月         |
-| [自動番号順序の作成](create-automatic-number-sequences.md)                                                                                                                                 | 一般提供 | 2018 年 10 月         |
+| [自動採番の作成](create-automatic-number-sequences.md)                                                                                                                                 | 一般提供 | 2018 年 10 月         |
 | [アプリの構築中に PowerApps Studio でエンティティを作成および編集](create-and-edit-your-entities-in-canvas-studio-while-building-an-app.md)                                                         | 一般提供 | 2018 年 10 月         |
 | [エンティティの詳細プロパティの管理を簡略化](simplified-management-of-advanced-entity-properties.md)                                                                                             | 一般提供 | 2018 年 10 月         |
 | [エンティティからの関連フローの作成と表示](create-and-view-related-flows-from-your-entity.md)                                                                                                       | 一般提供 | 2018 年 10 月         |
@@ -113,8 +113,8 @@ Microsoft は高品質のエンドユーザー エクスペリエンスの提供
 | [サービス正常性ページの強化](enhanced-service-health-page.md)                                                                     | 一般提供 | 2018 年 10 月         |
 | [PowerApps 監査イベント](powerapps-audit-events.md)                                                                                 | 一般提供 | 2018 年 10 月         |
 | [管理者向けのヘルプとサポートの強化](enhanced-help---support-for-admins.md)                                                         | 一般提供 | 2018 年 10 月         |
-| [統合環境管理](unified-environment-administration.md)                                                         | 一般提供 | 2018 年 10 月         |
-| [新しい管理分析レポート](new-admin-analytics-reports.md)                                                                       | 一般提供 | 2018 年 10 月         |
+| [環境管理機能の統合](unified-environment-administration.md)                                                         | 一般提供 | 2018 年 10 月         |
+| [新しい管理者向け分析レポート](new-admin-analytics-reports.md)                                                                       | 一般提供 | 2018 年 10 月         |
 
 
 
