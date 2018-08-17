@@ -1,5 +1,5 @@
 ---
-title: "新しい管理分析レポート"
+title: "新しい管理者向け分析レポート"
 description: "新しい PowerApps、Microsoft Flow、およびアプリ用 Common Data Service の使用状況レポートをすべての管理者が利用できます"
 author: sashri
 manager: AnnBe
@@ -17,7 +17,7 @@ ms.contentlocale: ja-jp
 ms.lasthandoff: 07/18/2018
 
 ---
-# <a name="new-admin-analytics-reports"></a>新しい管理分析レポート
+# <a name="new-admin-analytics-reports"></a>新しい管理者向け分析レポート
 
 
 [!include[banner](../../includes/banner.md)]
