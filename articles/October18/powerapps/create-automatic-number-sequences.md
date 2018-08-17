@@ -1,6 +1,6 @@
 ---
-title: "番号順序の自動作成"
-description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう番号順序を定義します。"
+title: "自動採番の作成"
+description: "アプリ用 Common Data Service のレコードで連番が自動で生成されるよう採番方法を定義します。"
 author: clwesene
 manager: AnnBe
 ms.date: 7/22/2018
